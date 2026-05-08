@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-05-09",
+  "themes": [
+    {
+      "theme_id": 101,
+      "name": "Приветствия (EN)",
+      "language_pair_id": 1,
+      "file_url": "https://raw.githubusercontent.com/mobilejokgrom/EnglishCardsJokgrom/main/content/ru_en/theme_101.json"
+    },
+    {
+      "theme_id": 401,
+      "name": "Saludos (ES)",
+      "language_pair_id": 2,
+      "file_url": "https://raw.githubusercontent.com/mobilejokgrom/EnglishCardsJokgrom/main/content/ru_es/theme_401.json"
+    }
+  ]
+}
