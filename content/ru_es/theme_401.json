@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "id": 401,
+    "language_pair_id": 2,
+    "name": "Saludos",
+    "sort_order": 10000
+  },
+  "categories": [
+    {
+      "id": 4001,
+      "name": "Frases básicas",
+      "sort_order": 10000,
+      "words": [
+        { "source_text": "привет", "target_text": "hola", "hint": "неформальное" },
+        { "source_text": "здравствуйте", "target_text": "buenos días", "hint": "формальное" },
+        { "source_text": "до свидания", "target_text": "adiós", "hint": "прощание" }
+      ]
+    }
+  ]
+}
