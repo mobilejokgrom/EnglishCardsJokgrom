@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "id": 101,
+    "language_pair_id": 1,
+    "name": "Приветствия",
+    "sort_order": 10000
+  },
+  "categories": [
+    {
+      "id": 1001,
+      "name": "Базовые фразы",
+      "sort_order": 10000,
+      "words": [
+        { "source_text": "привет", "target_text": "hello", "hint": "неформальное" },
+        { "source_text": "здравствуйте", "target_text": "good morning", "hint": "формальное" },
+        { "source_text": "до свидания", "target_text": "goodbye", "hint": "прощание" }
+      ]
+    }
+  ]
+}
