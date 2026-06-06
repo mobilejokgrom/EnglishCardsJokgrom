@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    // Определяем ОС
+    const ua = navigator.userAgent.toLowerCase();
+    const isAndroid = ua.indexOf("android") > -1;
+    const isRussia = /ru|ru-ru/i.test(navigator.language);
+    
+    if (isAndroid) {
+      if (isRussia) {
+        window.location.href = "https://www.rustore.ru/catalog/app/com.example.lengu";
+      } else {
+        // Показываем выбор: Google Play или AppGallery
+        document.getElementById("stores").style.display = "block";
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="stores" style="display:none">
+    <a href="https://play.google.com/...">Google Play</a>
+    <a href="https://appgallery.huawei.com/...">AppGallery</a>
+  </div>
+</body>
+</html>
