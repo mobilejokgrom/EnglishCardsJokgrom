@@ -1,19 +1,31 @@
 {
   "theme": {
-    "id": 101,
-    "language_pair_id": 1,
-    "name": "Приветствия",
-    "sort_order": 10000
+    "id": "srv_theme_101",
+    "language_pair_id": "ru-en",
+    "name": "Приветствия (EN)",
+    "sort_order": 1,
+    "source": "srv"
   },
   "categories": [
     {
-      "id": 1001,
-      "name": "Базовые фразы",
-      "sort_order": 10000,
+      "id": "srv_cat_101",
+      "name": "Основные фразы",
+      "sort_order": 1,
       "words": [
-        { "source_text": "привет", "target_text": "hello", "hint": "неформальное" },
-        { "source_text": "здравствуйте", "target_text": "good morning", "hint": "формальное" },
-        { "source_text": "до свидания", "target_text": "goodbye", "hint": "прощание" }
+        {
+          "id": "srv_word_001",
+          "source_text": "Hello",
+          "target_text": "Привет",
+          "hint": "/həˈloʊ/",
+          "sort_order": 1
+        },
+        {
+          "id": "srv_word_002",
+          "source_text": "Good morning",
+          "target_text": "Доброе утро",
+          "hint": "/ɡʊd ˈmɔːr.nɪŋ/",
+          "sort_order": 2
+        }
       ]
     }
   ]
