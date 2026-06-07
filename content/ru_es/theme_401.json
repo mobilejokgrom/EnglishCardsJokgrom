@@ -1,19 +1,38 @@
 {
   "theme": {
-    "id": 401,
-    "language_pair_id": 2,
+    "id": "srv_theme_401",
+    "language_pair_id": "ru-es",
     "name": "Saludos",
-    "sort_order": 10000
+    "sort_order": 10000,
+    "source": "srv"
   },
   "categories": [
     {
-      "id": 4001,
+      "id": "srv_cat_4001",
       "name": "Frases básicas",
       "sort_order": 10000,
       "words": [
-        { "source_text": "привет", "target_text": "hola", "hint": "неформальное" },
-        { "source_text": "здравствуйте", "target_text": "buenos días", "hint": "формальное" },
-        { "source_text": "до свидания", "target_text": "adiós", "hint": "прощание" }
+        {
+          "id": "srv_word_4001",
+          "source_text": "привет",
+          "target_text": "hola",
+          "hint": "неформальное",
+          "sort_order": 1
+        },
+        {
+          "id": "srv_word_4002",
+          "source_text": "здравствуйте",
+          "target_text": "buenos días",
+          "hint": "формальное",
+          "sort_order": 2
+        },
+        {
+          "id": "srv_word_4003",
+          "source_text": "до свидания",
+          "target_text": "adiós",
+          "hint": "прощание",
+          "sort_order": 3
+        }
       ]
     }
   ]
