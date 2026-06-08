@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0001",
+        "category_id": "srv_cat_001",
+        "source_text": "person",
+        "target_text": "человек",
+        "hint": "любой человек",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0002",
+        "category_id": "srv_cat_001",
+        "source_text": "man",
+        "target_text": "мужчина",
+        "hint": "взрослый мужчина",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0003",
+        "category_id": "srv_cat_001",
+        "source_text": "woman",
+        "target_text": "женщина",
+        "hint": "взрослая женщина",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0004",
+        "category_id": "srv_cat_001",
+        "source_text": "child",
+        "target_text": "ребёнок",
+        "hint": "маленький человек",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0005",
+        "category_id": "srv_cat_001",
+        "source_text": "baby",
+        "target_text": "младенец",
+        "hint": "очень маленький ребёнок",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0006",
+        "category_id": "srv_cat_001",
+        "source_text": "boy",
+        "target_text": "мальчик",
+        "hint": "маленький мужчина",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0007",
+        "category_id": "srv_cat_001",
+        "source_text": "girl",
+        "target_text": "девочка",
+        "hint": "маленькая женщина",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0008",
+        "category_id": "srv_cat_001",
+        "source_text": "parent",
+        "target_text": "родитель",
+        "hint": "мама или папа",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0009",
+        "category_id": "srv_cat_001",
+        "source_text": "mother",
+        "target_text": "мама",
+        "hint": "женский родитель",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0010",
+        "category_id": "srv_cat_001",
+        "source_text": "father",
+        "target_text": "папа",
+        "hint": "мужской родитель",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0011",
+        "category_id": "srv_cat_001",
+        "source_text": "son",
+        "target_text": "сын",
+        "hint": "мужской ребёнок",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0012",
+        "category_id": "srv_cat_001",
+        "source_text": "daughter",
+        "target_text": "дочь",
+        "hint": "женский ребёнок",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0013",
+        "category_id": "srv_cat_001",
+        "source_text": "brother",
+        "target_text": "брат",
+        "hint": "мужской сиблинг",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0014",
+        "category_id": "srv_cat_001",
+        "source_text": "sister",
+        "target_text": "сестра",
+        "hint": "женский сиблинг",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0015",
+        "category_id": "srv_cat_001",
+        "source_text": "family",
+        "target_text": "семья",
+        "hint": "близкие родственники",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0016",
+        "category_id": "srv_cat_001",
+        "source_text": "grandparent",
+        "target_text": "дедушка\/бабушка",
+        "hint": "родитель родителя",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0017",
+        "category_id": "srv_cat_001",
+        "source_text": "grandfather",
+        "target_text": "дедушка",
+        "hint": "папин или мамин папа",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0018",
+        "category_id": "srv_cat_001",
+        "source_text": "grandmother",
+        "target_text": "бабушка",
+        "hint": "папина или мамина мама",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0019",
+        "category_id": "srv_cat_001",
+        "source_text": "grandson",
+        "target_text": "внук",
+        "hint": "сын ребёнка",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0020",
+        "category_id": "srv_cat_001",
+        "source_text": "granddaughter",
+        "target_text": "внучка",
+        "hint": "дочь ребёнка",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0021",
+        "category_id": "srv_cat_001",
+        "source_text": "uncle",
+        "target_text": "дядя",
+        "hint": "брат родителя",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0022",
+        "category_id": "srv_cat_001",
+        "source_text": "aunt",
+        "target_text": "тётя",
+        "hint": "сестра родителя",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0023",
+        "category_id": "srv_cat_001",
+        "source_text": "cousin",
+        "target_text": "двоюродный брат\/сестра",
+        "hint": "ребёнок дяди\/тёти",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0024",
+        "category_id": "srv_cat_001",
+        "source_text": "husband",
+        "target_text": "муж",
+        "hint": "мужчина в браке",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0025",
+        "category_id": "srv_cat_001",
+        "source_text": "wife",
+        "target_text": "жена",
+        "hint": "женщина в браке",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0026",
+        "category_id": "srv_cat_001",
+        "source_text": "friend",
+        "target_text": "друг",
+        "hint": "близкий знакомый",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0027",
+        "category_id": "srv_cat_001",
+        "source_text": "neighbor",
+        "target_text": "сосед",
+        "hint": "живёт рядом",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0028",
+        "category_id": "srv_cat_001",
+        "source_text": "people",
+        "target_text": "люди",
+        "hint": "много человек",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0029",
+        "category_id": "srv_cat_001",
+        "source_text": "couple",
+        "target_text": "пара",
+        "hint": "двое вместе",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "001"
+    },
+    {
+        "id": "srv_word_0030",
+        "category_id": "srv_cat_001",
+        "source_text": "relative",
+        "target_text": "родственник",
+        "hint": "член семьи",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "001"
+    }
+]
