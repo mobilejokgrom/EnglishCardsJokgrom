@@ -1,7 +1,7 @@
 {
     "language_pair_id": "ru-en",
     "version": "4",
-    "last_updated": "2026-06-08T22:03:58+03:00",
+    "last_updated": "2026-06-08T22:45:33+03:00",
     "content_types": {
         "themes": {
             "version": 1,
@@ -11,7 +11,7 @@
         "categories": {
             "version": 1,
             "hash": "",
-            "pattern": "categories\/categories_{'theme' if categories == 'categories' else (categories == 'words' ? 'cat' : 'word')}_{id}.json",
+            "pattern": "categories\/categories_theme_{id}.json",
             "id_range": {
                 "start": 1,
                 "end": 1
@@ -22,7 +22,7 @@
         "words": {
             "version": 1,
             "hash": "",
-            "pattern": "words\/words_{'theme' if words == 'categories' else (words == 'words' ? 'cat' : 'word')}_{id}.json",
+            "pattern": "words\/words_cat_{id}.json",
             "id_range": {
                 "start": 1,
                 "end": 5
@@ -33,7 +33,7 @@
         "chunks": {
             "version": 1,
             "hash": "",
-            "pattern": "chunks\/chunks_{'theme' if chunks == 'categories' else (chunks == 'words' ? 'cat' : 'word')}_{id}.json",
+            "pattern": "chunks\/chunks_word_{id}.json",
             "id_range": {
                 "start": 1,
                 "end": 1
@@ -44,7 +44,7 @@
         "sentences": {
             "version": 1,
             "hash": "",
-            "pattern": "sentences\/sentences_{'theme' if sentences == 'categories' else (sentences == 'words' ? 'cat' : 'word')}_{id}.json",
+            "pattern": "sentences\/sentences_word_{id}.json",
             "id_range": {
                 "start": 1,
                 "end": 1
