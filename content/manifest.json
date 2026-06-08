@@ -1,6 +1,6 @@
 {
     "app_min_version": "1.0.0",
-    "last_updated": "2026-06-08T22:03:58+03:00",
+    "last_updated": "2026-06-08T22:45:33+03:00",
     "language_pairs": [
         {
             "id": "en-es",
@@ -16,7 +16,7 @@
             "flag": "🇷🇺→🇬",
             "version": "4",
             "manifest_url": "https:\/\/raw.githubusercontent.com\/mobilejokgrom\/EnglishCardsJokgrom\/main\/content\/ru-en\/manifest.json",
-            "file_size_kb": 45.95
+            "file_size_kb": 45.65
         },
         {
             "id": "ru-es",
