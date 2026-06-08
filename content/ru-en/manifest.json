@@ -1,0 +1,56 @@
+{
+    "language_pair_id": "ru-en",
+    "version": "4",
+    "last_updated": "2026-06-08T22:03:58+03:00",
+    "content_types": {
+        "themes": {
+            "version": 1,
+            "hash": "",
+            "file": "themes\/themes.json"
+        },
+        "categories": {
+            "version": 1,
+            "hash": "",
+            "pattern": "categories\/categories_{'theme' if categories == 'categories' else (categories == 'words' ? 'cat' : 'word')}_{id}.json",
+            "id_range": {
+                "start": 1,
+                "end": 1
+            },
+            "total_files": 1,
+            "hashes_file": "categories_hashes.json"
+        },
+        "words": {
+            "version": 1,
+            "hash": "",
+            "pattern": "words\/words_{'theme' if words == 'categories' else (words == 'words' ? 'cat' : 'word')}_{id}.json",
+            "id_range": {
+                "start": 1,
+                "end": 5
+            },
+            "total_files": 5,
+            "hashes_file": "words_hashes.json"
+        },
+        "chunks": {
+            "version": 1,
+            "hash": "",
+            "pattern": "chunks\/chunks_{'theme' if chunks == 'categories' else (chunks == 'words' ? 'cat' : 'word')}_{id}.json",
+            "id_range": {
+                "start": 1,
+                "end": 1
+            },
+            "total_files": 1,
+            "hashes_file": "chunks_hashes.json"
+        },
+        "sentences": {
+            "version": 1,
+            "hash": "",
+            "pattern": "sentences\/sentences_{'theme' if sentences == 'categories' else (sentences == 'words' ? 'cat' : 'word')}_{id}.json",
+            "id_range": {
+                "start": 1,
+                "end": 1
+            },
+            "total_files": 1,
+            "hashes_file": "sentences_hashes.json"
+        }
+    }
+}
