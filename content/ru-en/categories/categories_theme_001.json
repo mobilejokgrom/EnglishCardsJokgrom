@@ -1,0 +1,42 @@
+[
+    {
+        "id": "srv_cat_001",
+        "theme_id": "srv_theme_001",
+        "name": "Люди и семья",
+        "sort_order": "10",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_002",
+        "theme_id": "srv_theme_001",
+        "name": "Тело и здоровье",
+        "sort_order": "20",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_003",
+        "theme_id": "srv_theme_001",
+        "name": "Состояния и изменения",
+        "sort_order": "30",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_004",
+        "theme_id": "srv_theme_001",
+        "name": "Качество и оценка",
+        "sort_order": "40",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_005",
+        "theme_id": "srv_theme_001",
+        "name": "Местоимения",
+        "sort_order": "50",
+        "source": "srv",
+        "theme_num": "001"
+    }
+]
