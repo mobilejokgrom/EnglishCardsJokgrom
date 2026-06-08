@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0061",
+        "category_id": "srv_cat_003",
+        "source_text": "be",
+        "target_text": "быть",
+        "hint": "существовать",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0062",
+        "category_id": "srv_cat_003",
+        "source_text": "have",
+        "target_text": "иметь",
+        "hint": "обладать",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0063",
+        "category_id": "srv_cat_003",
+        "source_text": "do",
+        "target_text": "делать",
+        "hint": "совершать",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0064",
+        "category_id": "srv_cat_003",
+        "source_text": "become",
+        "target_text": "становиться",
+        "hint": "изменяться",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0065",
+        "category_id": "srv_cat_003",
+        "source_text": "start",
+        "target_text": "начинать",
+        "hint": "начинать",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0066",
+        "category_id": "srv_cat_003",
+        "source_text": "finish",
+        "target_text": "заканчивать",
+        "hint": "завершать",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0067",
+        "category_id": "srv_cat_003",
+        "source_text": "change",
+        "target_text": "меняться",
+        "hint": "становиться другим",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0068",
+        "category_id": "srv_cat_003",
+        "source_text": "stay",
+        "target_text": "оставаться",
+        "hint": "не меняться",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0069",
+        "category_id": "srv_cat_003",
+        "source_text": "seem",
+        "target_text": "казаться",
+        "hint": "выглядеть",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0070",
+        "category_id": "srv_cat_003",
+        "source_text": "appear",
+        "target_text": "появляться",
+        "hint": "возникать",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0071",
+        "category_id": "srv_cat_003",
+        "source_text": "happen",
+        "target_text": "случаться",
+        "hint": "происходить",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0072",
+        "category_id": "srv_cat_003",
+        "source_text": "exist",
+        "target_text": "существовать",
+        "hint": "быть",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0073",
+        "category_id": "srv_cat_003",
+        "source_text": "remain",
+        "target_text": "оставаться",
+        "hint": "продолжать",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0074",
+        "category_id": "srv_cat_003",
+        "source_text": "turn",
+        "target_text": "становиться",
+        "hint": "меняться",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0075",
+        "category_id": "srv_cat_003",
+        "source_text": "grow",
+        "target_text": "расти",
+        "hint": "увеличиваться",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0076",
+        "category_id": "srv_cat_003",
+        "source_text": "get",
+        "target_text": "становиться",
+        "hint": "приобретать",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0077",
+        "category_id": "srv_cat_003",
+        "source_text": "keep",
+        "target_text": "сохранять",
+        "hint": "держать",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0078",
+        "category_id": "srv_cat_003",
+        "source_text": "stop",
+        "target_text": "останавливаться",
+        "hint": "прекращать",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0079",
+        "category_id": "srv_cat_003",
+        "source_text": "continue",
+        "target_text": "продолжать",
+        "hint": "продолжать",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0080",
+        "category_id": "srv_cat_003",
+        "source_text": "end",
+        "target_text": "заканчиваться",
+        "hint": "завершаться",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0081",
+        "category_id": "srv_cat_003",
+        "source_text": "begin",
+        "target_text": "начинать",
+        "hint": "стартовать",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0082",
+        "category_id": "srv_cat_003",
+        "source_text": "go",
+        "target_text": "идти",
+        "hint": "двигаться",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0083",
+        "category_id": "srv_cat_003",
+        "source_text": "come",
+        "target_text": "приходить",
+        "hint": "приближаться",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0084",
+        "category_id": "srv_cat_003",
+        "source_text": "work",
+        "target_text": "работать",
+        "hint": "функционировать",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0085",
+        "category_id": "srv_cat_003",
+        "source_text": "last",
+        "target_text": "длиться",
+        "hint": "продолжаться",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0086",
+        "category_id": "srv_cat_003",
+        "source_text": "develop",
+        "target_text": "развиваться",
+        "hint": "прогрессировать",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0087",
+        "category_id": "srv_cat_003",
+        "source_text": "improve",
+        "target_text": "улучшаться",
+        "hint": "становиться лучше",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0088",
+        "category_id": "srv_cat_003",
+        "source_text": "worsen",
+        "target_text": "ухудшаться",
+        "hint": "становиться хуже",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0089",
+        "category_id": "srv_cat_003",
+        "source_text": "fail",
+        "target_text": "терпеть неудачу",
+        "hint": "не удаваться",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "003"
+    },
+    {
+        "id": "srv_word_0090",
+        "category_id": "srv_cat_003",
+        "source_text": "succeed",
+        "target_text": "преуспевать",
+        "hint": "удаваться",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "003"
+    }
+]
