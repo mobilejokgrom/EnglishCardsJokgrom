@@ -1,0 +1,30 @@
+[
+    {
+        "id": "srv_theme_001",
+        "language_pair_id": "ru-en",
+        "name": "Начинающий",
+        "sort_order": "1",
+        "source": "srv"
+    },
+    {
+        "id": "srv_theme_002",
+        "language_pair_id": "ru-en",
+        "name": "Элементарный",
+        "sort_order": "2",
+        "source": "srv"
+    },
+    {
+        "id": "srv_theme_003",
+        "language_pair_id": "ru-en",
+        "name": "Средний",
+        "sort_order": "3",
+        "source": "srv"
+    },
+    {
+        "id": "srv_theme_004",
+        "language_pair_id": "ru-en",
+        "name": "Продвинутый",
+        "sort_order": "4",
+        "source": "srv"
+    }
+]
