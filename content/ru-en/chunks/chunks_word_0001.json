@@ -1,0 +1,20 @@
+[
+    {
+        "id": "srv_chunk_0001",
+        "word_id": "srv_word_0001",
+        "source_text": "international airport",
+        "target_text": "международный аэропорт",
+        "sort_order": "1",
+        "source": "srv",
+        "word_num": "0001"
+    },
+    {
+        "id": "srv_chunk_0002",
+        "word_id": "srv_word_0001",
+        "source_text": "airport terminal",
+        "target_text": "терминал аэропорта",
+        "sort_order": "2",
+        "source": "srv",
+        "word_num": "0001"
+    }
+]
