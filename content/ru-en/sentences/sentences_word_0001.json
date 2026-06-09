@@ -2,8 +2,8 @@
     {
         "id": "srv_sentence_0001",
         "word_id": "srv_word_0001",
-        "source_text": "The airport is very busy today.",
-        "target_text": "Аэропорт сегодня очень загружен.",
+        "source_text": "Аэропорт сегодня очень загружен.",
+        "target_text": "The airport is very busy today.",
         "sort_order": "1",
         "source": "srv",
         "word_num": "0001"
@@ -11,8 +11,8 @@
     {
         "id": "srv_sentence_0002",
         "word_id": "srv_word_0001",
-        "source_text": "We arrived at the airport two hours early.",
-        "target_text": "Мы приехали в аэропорт на два часа раньше.",
+        "source_text": "Мы приехали в аэропорт на два часа раньше.",
+        "target_text": "We arrived at the airport two hours early.",
         "sort_order": "2",
         "source": "srv",
         "word_num": "0001"
