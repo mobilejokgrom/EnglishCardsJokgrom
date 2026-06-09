@@ -38,5 +38,45 @@
         "sort_order": "50",
         "source": "srv",
         "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_006",
+        "theme_id": "srv_theme_001",
+        "name": "🏠 Дом и мебель",
+        "sort_order": "60",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_007",
+        "theme_id": "srv_theme_001",
+        "name": "🍎 Еда и напитки",
+        "sort_order": "70",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_008",
+        "theme_id": "srv_theme_001",
+        "name": "🧠 Мышление и чувства",
+        "sort_order": "80",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_009",
+        "theme_id": "srv_theme_001",
+        "name": "🌡️ Физические свойства",
+        "sort_order": "90",
+        "source": "srv",
+        "theme_num": "001"
+    },
+    {
+        "id": "srv_cat_010",
+        "theme_id": "srv_theme_001",
+        "name": "🔹 Предлоги",
+        "sort_order": "100",
+        "source": "srv",
+        "theme_num": "001"
     }
 ]
