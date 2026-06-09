@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0181",
+        "category_id": "srv_cat_007",
+        "source_text": "еда",
+        "target_text": "food",
+        "hint": "то, что едят",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0182",
+        "category_id": "srv_cat_007",
+        "source_text": "вода",
+        "target_text": "water",
+        "hint": "пьют всегда",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0183",
+        "category_id": "srv_cat_007",
+        "source_text": "молоко",
+        "target_text": "milk",
+        "hint": "белый напиток",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0184",
+        "category_id": "srv_cat_007",
+        "source_text": "хлеб",
+        "target_text": "bread",
+        "hint": "пекут из муки",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0185",
+        "category_id": "srv_cat_007",
+        "source_text": "яйцо",
+        "target_text": "egg",
+        "hint": "несут куры",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0186",
+        "category_id": "srv_cat_007",
+        "source_text": "сыр",
+        "target_text": "cheese",
+        "hint": "делают из молока",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0187",
+        "category_id": "srv_cat_007",
+        "source_text": "мясо",
+        "target_text": "meat",
+        "hint": "плоть животных",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0188",
+        "category_id": "srv_cat_007",
+        "source_text": "рыба",
+        "target_text": "fish",
+        "hint": "живёт в воде",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0189",
+        "category_id": "srv_cat_007",
+        "source_text": "курица",
+        "target_text": "chicken",
+        "hint": "птица для еды",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0190",
+        "category_id": "srv_cat_007",
+        "source_text": "рис",
+        "target_text": "rice",
+        "hint": "белая крупа",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0191",
+        "category_id": "srv_cat_007",
+        "source_text": "паста",
+        "target_text": "pasta",
+        "hint": "итальянское блюдо",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0192",
+        "category_id": "srv_cat_007",
+        "source_text": "суп",
+        "target_text": "soup",
+        "hint": "жидкое блюдо",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0193",
+        "category_id": "srv_cat_007",
+        "source_text": "салат",
+        "target_text": "salad",
+        "hint": "овощное блюдо",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0194",
+        "category_id": "srv_cat_007",
+        "source_text": "яблоко",
+        "target_text": "apple",
+        "hint": "красный фрукт",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0195",
+        "category_id": "srv_cat_007",
+        "source_text": "банан",
+        "target_text": "banana",
+        "hint": "жёлтый фрукт",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0196",
+        "category_id": "srv_cat_007",
+        "source_text": "апельсин",
+        "target_text": "orange",
+        "hint": "цитрусовый фрукт",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0197",
+        "category_id": "srv_cat_007",
+        "source_text": "кофе",
+        "target_text": "coffee",
+        "hint": "горячий напиток",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0198",
+        "category_id": "srv_cat_007",
+        "source_text": "чай",
+        "target_text": "tea",
+        "hint": "заваривают листья",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0199",
+        "category_id": "srv_cat_007",
+        "source_text": "сок",
+        "target_text": "juice",
+        "hint": "напиток из фруктов",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0200",
+        "category_id": "srv_cat_007",
+        "source_text": "сахар",
+        "target_text": "sugar",
+        "hint": "сладкая добавка",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0201",
+        "category_id": "srv_cat_007",
+        "source_text": "соль",
+        "target_text": "salt",
+        "hint": "солёная добавка",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0202",
+        "category_id": "srv_cat_007",
+        "source_text": "масло",
+        "target_text": "butter",
+        "hint": "мажут на хлеб",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0203",
+        "category_id": "srv_cat_007",
+        "source_text": "завтрак",
+        "target_text": "breakfast",
+        "hint": "утренний приём пищи",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0204",
+        "category_id": "srv_cat_007",
+        "source_text": "обед",
+        "target_text": "lunch",
+        "hint": "дневной приём пищи",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0205",
+        "category_id": "srv_cat_007",
+        "source_text": "ужин",
+        "target_text": "dinner",
+        "hint": "вечерний приём пищи",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0206",
+        "category_id": "srv_cat_007",
+        "source_text": "перекус",
+        "target_text": "snack",
+        "hint": "маленькая еда",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0207",
+        "category_id": "srv_cat_007",
+        "source_text": "фрукт",
+        "target_text": "fruit",
+        "hint": "сладкий продукт",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0208",
+        "category_id": "srv_cat_007",
+        "source_text": "овощ",
+        "target_text": "vegetable",
+        "hint": "растёт в земле",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0209",
+        "category_id": "srv_cat_007",
+        "source_text": "торт",
+        "target_text": "cake",
+        "hint": "сладкая выпечка",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "007"
+    },
+    {
+        "id": "srv_word_0210",
+        "category_id": "srv_cat_007",
+        "source_text": "шоколад",
+        "target_text": "chocolate",
+        "hint": "сладость из какао",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "007"
+    }
+]
