@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0211",
+        "category_id": "srv_cat_008",
+        "source_text": "хотеть",
+        "target_text": "want",
+        "hint": "желать чего-то",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0212",
+        "category_id": "srv_cat_008",
+        "source_text": "нуждаться",
+        "target_text": "need",
+        "hint": "испытывать потребность",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0213",
+        "category_id": "srv_cat_008",
+        "source_text": "нравиться",
+        "target_text": "like",
+        "hint": "испытывать симпатию",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0214",
+        "category_id": "srv_cat_008",
+        "source_text": "любить",
+        "target_text": "love",
+        "hint": "сильное чувство",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0215",
+        "category_id": "srv_cat_008",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0216",
+        "category_id": "srv_cat_008",
+        "source_text": "думать",
+        "target_text": "think",
+        "hint": "размышлять",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0217",
+        "category_id": "srv_cat_008",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "осознавать смысл",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0218",
+        "category_id": "srv_cat_008",
+        "source_text": "помнить",
+        "target_text": "remember",
+        "hint": "хранить в памяти",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0219",
+        "category_id": "srv_cat_008",
+        "source_text": "забывать",
+        "target_text": "forget",
+        "hint": "терять из памяти",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0220",
+        "category_id": "srv_cat_008",
+        "source_text": "чувствовать",
+        "target_text": "feel",
+        "hint": "ощущать",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0221",
+        "category_id": "srv_cat_008",
+        "source_text": "надеяться",
+        "target_text": "hope",
+        "hint": "ждать хорошего",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0222",
+        "category_id": "srv_cat_008",
+        "source_text": "видеть",
+        "target_text": "see",
+        "hint": "воспринимать глазами",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0223",
+        "category_id": "srv_cat_008",
+        "source_text": "слышать",
+        "target_text": "hear",
+        "hint": "воспринимать ушами",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0224",
+        "category_id": "srv_cat_008",
+        "source_text": "верить",
+        "target_text": "believe",
+        "hint": "доверять",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0225",
+        "category_id": "srv_cat_008",
+        "source_text": "сказать",
+        "target_text": "say",
+        "hint": "произносить слова",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0226",
+        "category_id": "srv_cat_008",
+        "source_text": "говорить",
+        "target_text": "speak",
+        "hint": "разговаривать",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0227",
+        "category_id": "srv_cat_008",
+        "source_text": "наслаждаться",
+        "target_text": "enjoy",
+        "hint": "получать удовольствие",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0228",
+        "category_id": "srv_cat_008",
+        "source_text": "спрашивать",
+        "target_text": "ask",
+        "hint": "задавать вопрос",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0229",
+        "category_id": "srv_cat_008",
+        "source_text": "ненавидеть",
+        "target_text": "hate",
+        "hint": "сильно не любить",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0230",
+        "category_id": "srv_cat_008",
+        "source_text": "не любить",
+        "target_text": "dislike",
+        "hint": "испытывать антипатию",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0231",
+        "category_id": "srv_cat_008",
+        "source_text": "учиться",
+        "target_text": "learn",
+        "hint": "получать знания",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0232",
+        "category_id": "srv_cat_008",
+        "source_text": "изучать",
+        "target_text": "study",
+        "hint": "заниматься наукой",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0233",
+        "category_id": "srv_cat_008",
+        "source_text": "пытаться",
+        "target_text": "try",
+        "hint": "делать усилие",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0234",
+        "category_id": "srv_cat_008",
+        "source_text": "решать",
+        "target_text": "decide",
+        "hint": "принимать решение",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0235",
+        "category_id": "srv_cat_008",
+        "source_text": "выбирать",
+        "target_text": "choose",
+        "hint": "делать выбор",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0236",
+        "category_id": "srv_cat_008",
+        "source_text": "беспокоиться",
+        "target_text": "worry",
+        "hint": "испытывать тревогу",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0237",
+        "category_id": "srv_cat_008",
+        "source_text": "заботиться",
+        "target_text": "care",
+        "hint": "проявлять внимание",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0238",
+        "category_id": "srv_cat_008",
+        "source_text": "скучать",
+        "target_text": "miss",
+        "hint": "чувствовать отсутствие",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0239",
+        "category_id": "srv_cat_008",
+        "source_text": "доверять",
+        "target_text": "trust",
+        "hint": "верить кому-то",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "008"
+    },
+    {
+        "id": "srv_word_0240",
+        "category_id": "srv_cat_008",
+        "source_text": "помогать",
+        "target_text": "help",
+        "hint": "оказывать помощь",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "008"
+    }
+]
