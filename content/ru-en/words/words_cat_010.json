@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0271",
+        "category_id": "srv_cat_010",
+        "source_text": "в",
+        "target_text": "in",
+        "hint": "внутри чего-то",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0272",
+        "category_id": "srv_cat_010",
+        "source_text": "на",
+        "target_text": "on",
+        "hint": "поверхность чего-то",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0273",
+        "category_id": "srv_cat_010",
+        "source_text": "у",
+        "target_text": "at",
+        "hint": "возле, рядом",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0274",
+        "category_id": "srv_cat_010",
+        "source_text": "к",
+        "target_text": "to",
+        "hint": "направление к чему-то",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0275",
+        "category_id": "srv_cat_010",
+        "source_text": "из\/от",
+        "target_text": "from",
+        "hint": "источник, начало",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0276",
+        "category_id": "srv_cat_010",
+        "source_text": "с",
+        "target_text": "with",
+        "hint": "вместе, наличие",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0277",
+        "category_id": "srv_cat_010",
+        "source_text": "для",
+        "target_text": "for",
+        "hint": "цель, назначение",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0278",
+        "category_id": "srv_cat_010",
+        "source_text": "у\/возле",
+        "target_text": "by",
+        "hint": "кем-то сделано",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0279",
+        "category_id": "srv_cat_010",
+        "source_text": "о",
+        "target_text": "about",
+        "hint": "касательно, приблизительно",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0280",
+        "category_id": "srv_cat_010",
+        "source_text": "(принадлежность)",
+        "target_text": "of",
+        "hint": "указывает на принадлежность",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0281",
+        "category_id": "srv_cat_010",
+        "source_text": "под",
+        "target_text": "under",
+        "hint": "ниже чего-то",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0282",
+        "category_id": "srv_cat_010",
+        "source_text": "над",
+        "target_text": "over",
+        "hint": "выше чего-то",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0283",
+        "category_id": "srv_cat_010",
+        "source_text": "между",
+        "target_text": "between",
+        "hint": "посередине двух",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0284",
+        "category_id": "srv_cat_010",
+        "source_text": "через",
+        "target_text": "through",
+        "hint": "сквозь, насквозь",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0285",
+        "category_id": "srv_cat_010",
+        "source_text": "вокруг",
+        "target_text": "around",
+        "hint": "по кругу",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0286",
+        "category_id": "srv_cat_010",
+        "source_text": "перед",
+        "target_text": "before",
+        "hint": "раньше, до",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0287",
+        "category_id": "srv_cat_010",
+        "source_text": "после",
+        "target_text": "after",
+        "hint": "позже, затем",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0288",
+        "category_id": "srv_cat_010",
+        "source_text": "до",
+        "target_text": "until",
+        "hint": "вплоть до",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0289",
+        "category_id": "srv_cat_010",
+        "source_text": "в",
+        "target_text": "into",
+        "hint": "внутрь, внутрь",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0290",
+        "category_id": "srv_cat_010",
+        "source_text": "из",
+        "target_text": "out of",
+        "hint": "наружу, изнутри",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0291",
+        "category_id": "srv_cat_010",
+        "source_text": "около",
+        "target_text": "near",
+        "hint": "близко к",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0292",
+        "category_id": "srv_cat_010",
+        "source_text": "за",
+        "target_text": "behind",
+        "hint": "позади чего-то",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0293",
+        "category_id": "srv_cat_010",
+        "source_text": "вверх",
+        "target_text": "up",
+        "hint": "направление вверх",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0294",
+        "category_id": "srv_cat_010",
+        "source_text": "вниз",
+        "target_text": "down",
+        "hint": "направление вниз",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0295",
+        "category_id": "srv_cat_010",
+        "source_text": "внутри",
+        "target_text": "inside",
+        "hint": "в середине",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0296",
+        "category_id": "srv_cat_010",
+        "source_text": "снаружи",
+        "target_text": "outside",
+        "hint": "вне, снаружи",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0297",
+        "category_id": "srv_cat_010",
+        "source_text": "без",
+        "target_text": "without",
+        "hint": "отсутствие чего-то",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0298",
+        "category_id": "srv_cat_010",
+        "source_text": "к",
+        "target_text": "towards",
+        "hint": "навстречу, в направлении",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0299",
+        "category_id": "srv_cat_010",
+        "source_text": "среди",
+        "target_text": "among",
+        "hint": "посреди многих",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "010"
+    },
+    {
+        "id": "srv_word_0300",
+        "category_id": "srv_cat_010",
+        "source_text": "через",
+        "target_text": "across",
+        "hint": "поперёк, через",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "010"
+    }
+]
