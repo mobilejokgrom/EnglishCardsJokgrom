@@ -1,7 +1,7 @@
 {
     "language_pair_id": "ru-en",
     "version": "5",
-    "last_updated": "2026-06-09T18:36:50+03:00",
+    "last_updated": "2026-06-09T23:23:19+03:00",
     "content_types": {
         "themes": {
             "version": 1,
@@ -25,9 +25,9 @@
             "pattern": "words\/words_cat_{id}.json",
             "id_range": {
                 "start": 1,
-                "end": 5
+                "end": 10
             },
-            "total_files": 5,
+            "total_files": 10,
             "hashes_file": "words_hashes.json"
         },
         "chunks": {
