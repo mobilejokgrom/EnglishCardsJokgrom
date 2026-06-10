@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0541",
+        "category_id": "srv_cat_019",
+        "source_text": "счастливый",
+        "target_text": "happy",
+        "hint": "чувствует радость",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0542",
+        "category_id": "srv_cat_019",
+        "source_text": "грустный",
+        "target_text": "sad",
+        "hint": "чувствует печаль",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0543",
+        "category_id": "srv_cat_019",
+        "source_text": "уставший",
+        "target_text": "tired",
+        "hint": "нужен отдых",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0544",
+        "category_id": "srv_cat_019",
+        "source_text": "голодный",
+        "target_text": "hungry",
+        "hint": "хочет есть",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0545",
+        "category_id": "srv_cat_019",
+        "source_text": "хочет пить",
+        "target_text": "thirsty",
+        "hint": "хочет жидкости",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0546",
+        "category_id": "srv_cat_019",
+        "source_text": "злой",
+        "target_text": "angry",
+        "hint": "чувствует гнев",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0547",
+        "category_id": "srv_cat_019",
+        "source_text": "напуганный",
+        "target_text": "scared",
+        "hint": "чувствует страх",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0548",
+        "category_id": "srv_cat_019",
+        "source_text": "испуганный",
+        "target_text": "afraid",
+        "hint": "боится чего-то",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0549",
+        "category_id": "srv_cat_019",
+        "source_text": "больной",
+        "target_text": "sick",
+        "hint": "нездоровится",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0550",
+        "category_id": "srv_cat_019",
+        "source_text": "здоровый",
+        "target_text": "well",
+        "hint": "в хорошем состоянии",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0551",
+        "category_id": "srv_cat_019",
+        "source_text": "хороший",
+        "target_text": "good",
+        "hint": "положительное чувство",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0552",
+        "category_id": "srv_cat_019",
+        "source_text": "плохой",
+        "target_text": "bad",
+        "hint": "отрицательное чувство",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0553",
+        "category_id": "srv_cat_019",
+        "source_text": "в порядке",
+        "target_text": "okay",
+        "hint": "нормальное состояние",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0554",
+        "category_id": "srv_cat_019",
+        "source_text": "занятый",
+        "target_text": "busy",
+        "hint": "много дел",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0555",
+        "category_id": "srv_cat_019",
+        "source_text": "свободный",
+        "target_text": "free",
+        "hint": "нет дел",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0556",
+        "category_id": "srv_cat_019",
+        "source_text": "скучающий",
+        "target_text": "bored",
+        "hint": "нет интереса",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0557",
+        "category_id": "srv_cat_019",
+        "source_text": "удивлённый",
+        "target_text": "surprised",
+        "hint": "не ожидал",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0558",
+        "category_id": "srv_cat_019",
+        "source_text": "спокойный",
+        "target_text": "calm",
+        "hint": "без тревоги",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0559",
+        "category_id": "srv_cat_019",
+        "source_text": "нервный",
+        "target_text": "nervous",
+        "hint": "испытывает напряжение",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0560",
+        "category_id": "srv_cat_019",
+        "source_text": "одинокий",
+        "target_text": "lonely",
+        "hint": "нет компании",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0561",
+        "category_id": "srv_cat_019",
+        "source_text": "один",
+        "target_text": "alone",
+        "hint": "без других людей",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0562",
+        "category_id": "srv_cat_019",
+        "source_text": "гордый",
+        "target_text": "proud",
+        "hint": "доволен собой",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0563",
+        "category_id": "srv_cat_019",
+        "source_text": "обеспокоенный",
+        "target_text": "worried",
+        "hint": "думает о проблеме",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0564",
+        "category_id": "srv_cat_019",
+        "source_text": "расслабленный",
+        "target_text": "relaxed",
+        "hint": "без напряжения",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0565",
+        "category_id": "srv_cat_019",
+        "source_text": "напряжённый",
+        "target_text": "stressed",
+        "hint": "под давлением",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0566",
+        "category_id": "srv_cat_019",
+        "source_text": "удобный",
+        "target_text": "comfortable",
+        "hint": "чувствует комфорт",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0567",
+        "category_id": "srv_cat_019",
+        "source_text": "готовый",
+        "target_text": "ready",
+        "hint": "может начать",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0568",
+        "category_id": "srv_cat_019",
+        "source_text": "опоздавший",
+        "target_text": "late",
+        "hint": "не вовремя",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0569",
+        "category_id": "srv_cat_019",
+        "source_text": "ранний",
+        "target_text": "early",
+        "hint": "раньше времени",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "019"
+    },
+    {
+        "id": "srv_word_0570",
+        "category_id": "srv_cat_019",
+        "source_text": "горячий",
+        "target_text": "hot",
+        "hint": "высокая температура",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "019"
+    }
+]
