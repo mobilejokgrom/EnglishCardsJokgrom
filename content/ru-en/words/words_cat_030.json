@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0871",
+        "category_id": "srv_cat_030",
+        "source_text": "неопределённый артикль",
+        "target_text": "a",
+        "hint": "один из многих",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0872",
+        "category_id": "srv_cat_030",
+        "source_text": "неопределённый артикль",
+        "target_text": "an",
+        "hint": "перед гласной",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0873",
+        "category_id": "srv_cat_030",
+        "source_text": "определённый артикль",
+        "target_text": "the",
+        "hint": "конкретный предмет",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0874",
+        "category_id": "srv_cat_030",
+        "source_text": "этот",
+        "target_text": "this",
+        "hint": "близко, единственное",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0875",
+        "category_id": "srv_cat_030",
+        "source_text": "тот",
+        "target_text": "that",
+        "hint": "далеко, единственное",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0876",
+        "category_id": "srv_cat_030",
+        "source_text": "мой",
+        "target_text": "my",
+        "hint": "принадлежит мне",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0877",
+        "category_id": "srv_cat_030",
+        "source_text": "твой\/ваш",
+        "target_text": "your",
+        "hint": "принадлежит тебе\/вам",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0878",
+        "category_id": "srv_cat_030",
+        "source_text": "его",
+        "target_text": "his",
+        "hint": "принадлежит ему",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0879",
+        "category_id": "srv_cat_030",
+        "source_text": "её",
+        "target_text": "her",
+        "hint": "принадлежит ей",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0880",
+        "category_id": "srv_cat_030",
+        "source_text": "некоторые\/немного",
+        "target_text": "some",
+        "hint": "неопределённое количество",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0881",
+        "category_id": "srv_cat_030",
+        "source_text": "любой\/никакой",
+        "target_text": "any",
+        "hint": "неопределённый выбор",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0882",
+        "category_id": "srv_cat_030",
+        "source_text": "много",
+        "target_text": "many",
+        "hint": "большое количество (исчисляемые)",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0883",
+        "category_id": "srv_cat_030",
+        "source_text": "много",
+        "target_text": "much",
+        "hint": "большой объём (неисчисляемые)",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0884",
+        "category_id": "srv_cat_030",
+        "source_text": "все",
+        "target_text": "all",
+        "hint": "полное количество",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0885",
+        "category_id": "srv_cat_030",
+        "source_text": "оба",
+        "target_text": "both",
+        "hint": "два вместе",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0886",
+        "category_id": "srv_cat_030",
+        "source_text": "каждый",
+        "target_text": "each",
+        "hint": "по отдельности",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0887",
+        "category_id": "srv_cat_030",
+        "source_text": "каждый",
+        "target_text": "every",
+        "hint": "без исключения",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0888",
+        "category_id": "srv_cat_030",
+        "source_text": "другой",
+        "target_text": "other",
+        "hint": "не этот",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0889",
+        "category_id": "srv_cat_030",
+        "source_text": "ещё один",
+        "target_text": "another",
+        "hint": "дополнительный",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0890",
+        "category_id": "srv_cat_030",
+        "source_text": "тот же",
+        "target_text": "same",
+        "hint": "идентичный",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0891",
+        "category_id": "srv_cat_030",
+        "source_text": "какой\/что",
+        "target_text": "what",
+        "hint": "вопросительное слово",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0892",
+        "category_id": "srv_cat_030",
+        "source_text": "который\/какой",
+        "target_text": "which",
+        "hint": "выбор из нескольких",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0893",
+        "category_id": "srv_cat_030",
+        "source_text": "кто",
+        "target_text": "who",
+        "hint": "вопрос о человеке",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0894",
+        "category_id": "srv_cat_030",
+        "source_text": "где\/куда",
+        "target_text": "where",
+        "hint": "вопрос о месте",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0895",
+        "category_id": "srv_cat_030",
+        "source_text": "когда",
+        "target_text": "when",
+        "hint": "вопрос о времени",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0896",
+        "category_id": "srv_cat_030",
+        "source_text": "как",
+        "target_text": "how",
+        "hint": "вопрос о способе",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0897",
+        "category_id": "srv_cat_030",
+        "source_text": "никакой\/нет",
+        "target_text": "no",
+        "hint": "отрицание",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0898",
+        "category_id": "srv_cat_030",
+        "source_text": "собственный",
+        "target_text": "own",
+        "hint": "принадлежащий себе",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0899",
+        "category_id": "srv_cat_030",
+        "source_text": "такой",
+        "target_text": "such",
+        "hint": "подобный",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "030"
+    },
+    {
+        "id": "srv_word_0900",
+        "category_id": "srv_cat_030",
+        "source_text": "достаточно",
+        "target_text": "enough",
+        "hint": "хватает",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "030"
+    }
+]
