@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0661",
+        "category_id": "srv_cat_023",
+        "source_text": "идти",
+        "target_text": "go",
+        "hint": "двигаться куда-то",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0662",
+        "category_id": "srv_cat_023",
+        "source_text": "приходить",
+        "target_text": "come",
+        "hint": "двигаться сюда",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0663",
+        "category_id": "srv_cat_023",
+        "source_text": "ходить",
+        "target_text": "walk",
+        "hint": "двигаться пешком",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0664",
+        "category_id": "srv_cat_023",
+        "source_text": "бегать",
+        "target_text": "run",
+        "hint": "быстро двигаться",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0665",
+        "category_id": "srv_cat_023",
+        "source_text": "прыгать",
+        "target_text": "jump",
+        "hint": "подниматься вверх",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0666",
+        "category_id": "srv_cat_023",
+        "source_text": "плавать",
+        "target_text": "swim",
+        "hint": "двигаться в воде",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0667",
+        "category_id": "srv_cat_023",
+        "source_text": "летать",
+        "target_text": "fly",
+        "hint": "двигаться в воздухе",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0668",
+        "category_id": "srv_cat_023",
+        "source_text": "водить",
+        "target_text": "drive",
+        "hint": "управлять машиной",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0669",
+        "category_id": "srv_cat_023",
+        "source_text": "ехать",
+        "target_text": "ride",
+        "hint": "ехать на чём-то",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0670",
+        "category_id": "srv_cat_023",
+        "source_text": "лазить",
+        "target_text": "climb",
+        "hint": "подниматься вверх",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0671",
+        "category_id": "srv_cat_023",
+        "source_text": "падать",
+        "target_text": "fall",
+        "hint": "опускаться вниз",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0672",
+        "category_id": "srv_cat_023",
+        "source_text": "стоять",
+        "target_text": "stand",
+        "hint": "быть на ногах",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0673",
+        "category_id": "srv_cat_023",
+        "source_text": "сидеть",
+        "target_text": "sit",
+        "hint": "быть на стуле",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0674",
+        "category_id": "srv_cat_023",
+        "source_text": "лежать",
+        "target_text": "lie",
+        "hint": "быть горизонтально",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0675",
+        "category_id": "srv_cat_023",
+        "source_text": "останавливаться",
+        "target_text": "stop",
+        "hint": "прекращать движение",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0676",
+        "category_id": "srv_cat_023",
+        "source_text": "начинать",
+        "target_text": "start",
+        "hint": "начинать движение",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0677",
+        "category_id": "srv_cat_023",
+        "source_text": "поворачивать",
+        "target_text": "turn",
+        "hint": "менять направление",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0678",
+        "category_id": "srv_cat_023",
+        "source_text": "входить",
+        "target_text": "enter",
+        "hint": "заходить внутрь",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0679",
+        "category_id": "srv_cat_023",
+        "source_text": "выходить",
+        "target_text": "exit",
+        "hint": "покидать место",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0680",
+        "category_id": "srv_cat_023",
+        "source_text": "прибывать",
+        "target_text": "arrive",
+        "hint": "достигать места",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0681",
+        "category_id": "srv_cat_023",
+        "source_text": "уходить",
+        "target_text": "leave",
+        "hint": "покидать место",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0682",
+        "category_id": "srv_cat_023",
+        "source_text": "проходить",
+        "target_text": "pass",
+        "hint": "двигаться мимо",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0683",
+        "category_id": "srv_cat_023",
+        "source_text": "переходить",
+        "target_text": "cross",
+        "hint": "пересекать что-то",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0684",
+        "category_id": "srv_cat_023",
+        "source_text": "ждать",
+        "target_text": "wait",
+        "hint": "оставаться на месте",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0685",
+        "category_id": "srv_cat_023",
+        "source_text": "помогать",
+        "target_text": "help",
+        "hint": "оказывать помощь",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0686",
+        "category_id": "srv_cat_023",
+        "source_text": "играть",
+        "target_text": "play",
+        "hint": "развлекаться",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0687",
+        "category_id": "srv_cat_023",
+        "source_text": "работать",
+        "target_text": "work",
+        "hint": "выполнять работу",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0688",
+        "category_id": "srv_cat_023",
+        "source_text": "смотреть",
+        "target_text": "look",
+        "hint": "направлять взгляд",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0689",
+        "category_id": "srv_cat_023",
+        "source_text": "слушать",
+        "target_text": "listen",
+        "hint": "воспринимать звук",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "023"
+    },
+    {
+        "id": "srv_word_0690",
+        "category_id": "srv_cat_023",
+        "source_text": "танцевать",
+        "target_text": "dance",
+        "hint": "двигаться ритмично",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "023"
+    }
+]
