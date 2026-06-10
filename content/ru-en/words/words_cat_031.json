@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0901",
+        "category_id": "srv_cat_031",
+        "source_text": "говорить",
+        "target_text": "talk",
+        "hint": "общаться словами",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0902",
+        "category_id": "srv_cat_031",
+        "source_text": "разговаривать",
+        "target_text": "speak",
+        "hint": "произносить слова",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0903",
+        "category_id": "srv_cat_031",
+        "source_text": "сказать",
+        "target_text": "say",
+        "hint": "произнести что-то",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0904",
+        "category_id": "srv_cat_031",
+        "source_text": "рассказывать",
+        "target_text": "tell",
+        "hint": "сообщать информацию",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0905",
+        "category_id": "srv_cat_031",
+        "source_text": "спрашивать",
+        "target_text": "ask",
+        "hint": "задавать вопрос",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0906",
+        "category_id": "srv_cat_031",
+        "source_text": "отвечать",
+        "target_text": "answer",
+        "hint": "давать ответ",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0907",
+        "category_id": "srv_cat_031",
+        "source_text": "звонить",
+        "target_text": "call",
+        "hint": "связываться по телефону",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0908",
+        "category_id": "srv_cat_031",
+        "source_text": "болтать",
+        "target_text": "chat",
+        "hint": "неформально общаться",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0909",
+        "category_id": "srv_cat_031",
+        "source_text": "объяснять",
+        "target_text": "explain",
+        "hint": "делать понятным",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0910",
+        "category_id": "srv_cat_031",
+        "source_text": "соглашаться",
+        "target_text": "agree",
+        "hint": "быть за что-то",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0911",
+        "category_id": "srv_cat_031",
+        "source_text": "благодарить",
+        "target_text": "thank",
+        "hint": "говорить \"спасибо\"",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0912",
+        "category_id": "srv_cat_031",
+        "source_text": "приглашать",
+        "target_text": "invite",
+        "hint": "звать куда-то",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0913",
+        "category_id": "srv_cat_031",
+        "source_text": "обещать",
+        "target_text": "promise",
+        "hint": "гарантировать что-то",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0914",
+        "category_id": "srv_cat_031",
+        "source_text": "повторять",
+        "target_text": "repeat",
+        "hint": "говорить ещё раз",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0915",
+        "category_id": "srv_cat_031",
+        "source_text": "кричать",
+        "target_text": "shout",
+        "hint": "говорить громко",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0916",
+        "category_id": "srv_cat_031",
+        "source_text": "помогать",
+        "target_text": "help",
+        "hint": "оказывать помощь",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0917",
+        "category_id": "srv_cat_031",
+        "source_text": "хотеть",
+        "target_text": "want",
+        "hint": "желать чего-то",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0918",
+        "category_id": "srv_cat_031",
+        "source_text": "нуждаться",
+        "target_text": "need",
+        "hint": "испытывать потребность",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0919",
+        "category_id": "srv_cat_031",
+        "source_text": "нравиться",
+        "target_text": "like",
+        "hint": "испытывать симпатию",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0920",
+        "category_id": "srv_cat_031",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0921",
+        "category_id": "srv_cat_031",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "осознавать смысл",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0922",
+        "category_id": "srv_cat_031",
+        "source_text": "учиться",
+        "target_text": "learn",
+        "hint": "получать знания",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0923",
+        "category_id": "srv_cat_031",
+        "source_text": "работать",
+        "target_text": "work",
+        "hint": "выполнять работу",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0924",
+        "category_id": "srv_cat_031",
+        "source_text": "использовать",
+        "target_text": "use",
+        "hint": "применять в деле",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0925",
+        "category_id": "srv_cat_031",
+        "source_text": "начинать",
+        "target_text": "start",
+        "hint": "начинать что-то",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0926",
+        "category_id": "srv_cat_031",
+        "source_text": "заканчивать",
+        "target_text": "finish",
+        "hint": "завершать что-то",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0927",
+        "category_id": "srv_cat_031",
+        "source_text": "пытаться",
+        "target_text": "try",
+        "hint": "делать усилие",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0928",
+        "category_id": "srv_cat_031",
+        "source_text": "играть",
+        "target_text": "play",
+        "hint": "развлекаться",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0929",
+        "category_id": "srv_cat_031",
+        "source_text": "жить",
+        "target_text": "live",
+        "hint": "проживать жизнь",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "031"
+    },
+    {
+        "id": "srv_word_0930",
+        "category_id": "srv_cat_031",
+        "source_text": "любить",
+        "target_text": "love",
+        "hint": "сильное чувство",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "031"
+    }
+]
