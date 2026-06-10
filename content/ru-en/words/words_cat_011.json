@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0301",
+        "category_id": "srv_cat_011",
+        "source_text": "телефон",
+        "target_text": "phone",
+        "hint": "звонят людям",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0302",
+        "category_id": "srv_cat_011",
+        "source_text": "мобильный",
+        "target_text": "mobile",
+        "hint": "телефон",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0303",
+        "category_id": "srv_cat_011",
+        "source_text": "компьютер",
+        "target_text": "computer",
+        "hint": "работают на нём",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0304",
+        "category_id": "srv_cat_011",
+        "source_text": "ноутбук",
+        "target_text": "laptop",
+        "hint": "переносной компьютер",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0305",
+        "category_id": "srv_cat_011",
+        "source_text": "планшет",
+        "target_text": "tablet",
+        "hint": "сенсорный компьютер",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0306",
+        "category_id": "srv_cat_011",
+        "source_text": "телевизор",
+        "target_text": "tv",
+        "hint": "смотрят передачи",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0307",
+        "category_id": "srv_cat_011",
+        "source_text": "радио",
+        "target_text": "radio",
+        "hint": "слушают передачи",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0308",
+        "category_id": "srv_cat_011",
+        "source_text": "фотоаппарат",
+        "target_text": "camera",
+        "hint": "делают фото",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0309",
+        "category_id": "srv_cat_011",
+        "source_text": "экран",
+        "target_text": "screen",
+        "hint": "показывают изображение",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0310",
+        "category_id": "srv_cat_011",
+        "source_text": "кнопка",
+        "target_text": "button",
+        "hint": "нажимают пальцем",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0311",
+        "category_id": "srv_cat_011",
+        "source_text": "компьютерная мышь",
+        "target_text": "mouse",
+        "hint": "управляют компьютером",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0312",
+        "category_id": "srv_cat_011",
+        "source_text": "клавиатура",
+        "target_text": "keyboard",
+        "hint": "печатают буквы",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0313",
+        "category_id": "srv_cat_011",
+        "source_text": "наушники",
+        "target_text": "headphones",
+        "hint": "слушают музыку",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0314",
+        "category_id": "srv_cat_011",
+        "source_text": "зарядка",
+        "target_text": "charger",
+        "hint": "заряжает телефон",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0315",
+        "category_id": "srv_cat_011",
+        "source_text": "ключ",
+        "target_text": "key",
+        "hint": "открывает замок",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0316",
+        "category_id": "srv_cat_011",
+        "source_text": "часы",
+        "target_text": "clock",
+        "hint": "показывают время",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0317",
+        "category_id": "srv_cat_011",
+        "source_text": "наручные часы",
+        "target_text": "watch",
+        "hint": "носят на руке",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0318",
+        "category_id": "srv_cat_011",
+        "source_text": "кошелёк",
+        "target_text": "wallet",
+        "hint": "хранят деньги",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0319",
+        "category_id": "srv_cat_011",
+        "source_text": "сумка",
+        "target_text": "bag",
+        "hint": "носят вещи",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0320",
+        "category_id": "srv_cat_011",
+        "source_text": "коробка",
+        "target_text": "box",
+        "hint": "хранят предметы",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0321",
+        "category_id": "srv_cat_011",
+        "source_text": "свет",
+        "target_text": "light",
+        "hint": "освещает комнату",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0322",
+        "category_id": "srv_cat_011",
+        "source_text": "ручка",
+        "target_text": "pen",
+        "hint": "пишут слова",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0323",
+        "category_id": "srv_cat_011",
+        "source_text": "карандаш",
+        "target_text": "pencil",
+        "hint": "рисуют линии",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0324",
+        "category_id": "srv_cat_011",
+        "source_text": "бумага",
+        "target_text": "paper",
+        "hint": "пишут на ней",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0325",
+        "category_id": "srv_cat_011",
+        "source_text": "блокнот",
+        "target_text": "notebook",
+        "hint": "записывают заметки",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0326",
+        "category_id": "srv_cat_011",
+        "source_text": "книга",
+        "target_text": "book",
+        "hint": "читают истории",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0327",
+        "category_id": "srv_cat_011",
+        "source_text": "деньги",
+        "target_text": "money",
+        "hint": "платят за вещи",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0328",
+        "category_id": "srv_cat_011",
+        "source_text": "машина",
+        "target_text": "car",
+        "hint": "ездят на ней",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0329",
+        "category_id": "srv_cat_011",
+        "source_text": "велосипед",
+        "target_text": "bike",
+        "hint": "катаются на нём",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "011"
+    },
+    {
+        "id": "srv_word_0330",
+        "category_id": "srv_cat_011",
+        "source_text": "карта",
+        "target_text": "map",
+        "hint": "показывает дорогу",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "011"
+    }
+]
