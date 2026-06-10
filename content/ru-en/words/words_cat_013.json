@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0361",
+        "category_id": "srv_cat_013",
+        "source_text": "брать",
+        "target_text": "take",
+        "hint": "брать в руки",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0362",
+        "category_id": "srv_cat_013",
+        "source_text": "давать",
+        "target_text": "give",
+        "hint": "передавать кому-то",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0363",
+        "category_id": "srv_cat_013",
+        "source_text": "класть",
+        "target_text": "put",
+        "hint": "помещать куда-то",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0364",
+        "category_id": "srv_cat_013",
+        "source_text": "делать",
+        "target_text": "make",
+        "hint": "создавать что-то",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0365",
+        "category_id": "srv_cat_013",
+        "source_text": "использовать",
+        "target_text": "use",
+        "hint": "применять в деле",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0366",
+        "category_id": "srv_cat_013",
+        "source_text": "открывать",
+        "target_text": "open",
+        "hint": "делать доступным",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0367",
+        "category_id": "srv_cat_013",
+        "source_text": "закрывать",
+        "target_text": "close",
+        "hint": "делать недоступным",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0368",
+        "category_id": "srv_cat_013",
+        "source_text": "держать",
+        "target_text": "hold",
+        "hint": "держать в руках",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0369",
+        "category_id": "srv_cat_013",
+        "source_text": "находить",
+        "target_text": "find",
+        "hint": "обнаруживать что-то",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0370",
+        "category_id": "srv_cat_013",
+        "source_text": "терять",
+        "target_text": "lose",
+        "hint": "не находить",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0371",
+        "category_id": "srv_cat_013",
+        "source_text": "ломать",
+        "target_text": "break",
+        "hint": "повреждать предмет",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0372",
+        "category_id": "srv_cat_013",
+        "source_text": "чинить",
+        "target_text": "fix",
+        "hint": "восстанавливать работу",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0373",
+        "category_id": "srv_cat_013",
+        "source_text": "резать",
+        "target_text": "cut",
+        "hint": "разделять ножом",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0374",
+        "category_id": "srv_cat_013",
+        "source_text": "наполнять",
+        "target_text": "fill",
+        "hint": "делать полным",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0375",
+        "category_id": "srv_cat_013",
+        "source_text": "трогать",
+        "target_text": "touch",
+        "hint": "касаться рукой",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0376",
+        "category_id": "srv_cat_013",
+        "source_text": "поворачивать",
+        "target_text": "turn",
+        "hint": "менять направление",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0377",
+        "category_id": "srv_cat_013",
+        "source_text": "двигать",
+        "target_text": "move",
+        "hint": "изменять положение",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0378",
+        "category_id": "srv_cat_013",
+        "source_text": "мыть",
+        "target_text": "wash",
+        "hint": "очищать водой",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0379",
+        "category_id": "srv_cat_013",
+        "source_text": "чистить",
+        "target_text": "clean",
+        "hint": "убирать грязь",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0380",
+        "category_id": "srv_cat_013",
+        "source_text": "пить",
+        "target_text": "drink",
+        "hint": "употреблять жидкость",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0381",
+        "category_id": "srv_cat_013",
+        "source_text": "читать",
+        "target_text": "read",
+        "hint": "воспринимать текст",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0382",
+        "category_id": "srv_cat_013",
+        "source_text": "писать",
+        "target_text": "write",
+        "hint": "создавать текст",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0383",
+        "category_id": "srv_cat_013",
+        "source_text": "покупать",
+        "target_text": "buy",
+        "hint": "приобретать за деньги",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0384",
+        "category_id": "srv_cat_013",
+        "source_text": "носить",
+        "target_text": "wear",
+        "hint": "одеваться во что-то",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0385",
+        "category_id": "srv_cat_013",
+        "source_text": "ждать",
+        "target_text": "wait",
+        "hint": "оставаться до чего-то",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0386",
+        "category_id": "srv_cat_013",
+        "source_text": "ронять",
+        "target_text": "drop",
+        "hint": "выпускать из рук",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0387",
+        "category_id": "srv_cat_013",
+        "source_text": "бросать",
+        "target_text": "throw",
+        "hint": "кидать куда-то",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0388",
+        "category_id": "srv_cat_013",
+        "source_text": "толкать",
+        "target_text": "push",
+        "hint": "двигать от себя",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0389",
+        "category_id": "srv_cat_013",
+        "source_text": "тянуть",
+        "target_text": "pull",
+        "hint": "двигать к себе",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "013"
+    },
+    {
+        "id": "srv_word_0390",
+        "category_id": "srv_cat_013",
+        "source_text": "поднимать",
+        "target_text": "lift",
+        "hint": "двигать вверх",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "013"
+    }
+]
