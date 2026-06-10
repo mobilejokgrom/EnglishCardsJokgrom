@@ -1,0 +1,42 @@
+[
+    {
+        "id": "srv_cat_036",
+        "theme_id": "srv_theme_002",
+        "name": "👨‍👩‍👧‍👦 Люди и семья",
+        "sort_order": "10",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_037",
+        "theme_id": "srv_theme_002",
+        "name": "🧍 Тело и здоровье",
+        "sort_order": "20",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_038",
+        "theme_id": "srv_theme_002",
+        "name": "🔄 Состояния и изменения",
+        "sort_order": "30",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_039",
+        "theme_id": "srv_theme_002",
+        "name": "😊 Качество и оценка",
+        "sort_order": "40",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_040",
+        "theme_id": "srv_theme_002",
+        "name": "🔹 Местоимения",
+        "sort_order": "50",
+        "source": "srv",
+        "theme_num": "002"
+    }
+]
