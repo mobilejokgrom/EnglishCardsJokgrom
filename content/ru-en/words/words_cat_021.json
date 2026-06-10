@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0601",
+        "category_id": "srv_cat_021",
+        "source_text": "мяч",
+        "target_text": "ball",
+        "hint": "круглый предмет для игр",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0602",
+        "category_id": "srv_cat_021",
+        "source_text": "футбол",
+        "target_text": "football",
+        "hint": "популярный вид спорта",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0603",
+        "category_id": "srv_cat_021",
+        "source_text": "теннис",
+        "target_text": "tennis",
+        "hint": "игра с ракеткой",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0604",
+        "category_id": "srv_cat_021",
+        "source_text": "гол\/ворота",
+        "target_text": "goal",
+        "hint": "цель в игре",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0605",
+        "category_id": "srv_cat_021",
+        "source_text": "команда",
+        "target_text": "team",
+        "hint": "группа игроков",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0606",
+        "category_id": "srv_cat_021",
+        "source_text": "игрок",
+        "target_text": "player",
+        "hint": "участник игры",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0607",
+        "category_id": "srv_cat_021",
+        "source_text": "игра",
+        "target_text": "game",
+        "hint": "развлечение с правилами",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0608",
+        "category_id": "srv_cat_021",
+        "source_text": "спорт",
+        "target_text": "sport",
+        "hint": "физическая активность",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0609",
+        "category_id": "srv_cat_021",
+        "source_text": "матч",
+        "target_text": "match",
+        "hint": "соревнование",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0610",
+        "category_id": "srv_cat_021",
+        "source_text": "счёт",
+        "target_text": "score",
+        "hint": "результат игры",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0611",
+        "category_id": "srv_cat_021",
+        "source_text": "победа",
+        "target_text": "win",
+        "hint": "успешный результат",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0612",
+        "category_id": "srv_cat_021",
+        "source_text": "тренировка",
+        "target_text": "practice",
+        "hint": "занятие для улучшения",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0613",
+        "category_id": "srv_cat_021",
+        "source_text": "упражнение",
+        "target_text": "exercise",
+        "hint": "физическая активность",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0614",
+        "category_id": "srv_cat_021",
+        "source_text": "спортзал",
+        "target_text": "gym",
+        "hint": "место для тренировок",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0615",
+        "category_id": "srv_cat_021",
+        "source_text": "бассейн",
+        "target_text": "pool",
+        "hint": "место для плавания",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0616",
+        "category_id": "srv_cat_021",
+        "source_text": "плавание",
+        "target_text": "swim",
+        "hint": "вид спорта в воде",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0617",
+        "category_id": "srv_cat_021",
+        "source_text": "бег",
+        "target_text": "run",
+        "hint": "быстрое движение",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0618",
+        "category_id": "srv_cat_021",
+        "source_text": "прогулка",
+        "target_text": "walk",
+        "hint": "медленное движение",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0619",
+        "category_id": "srv_cat_021",
+        "source_text": "велосипед",
+        "target_text": "bike",
+        "hint": "средство передвижения",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0620",
+        "category_id": "srv_cat_021",
+        "source_text": "коньки",
+        "target_text": "skates",
+        "hint": "для катания на льду",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0621",
+        "category_id": "srv_cat_021",
+        "source_text": "лыжи",
+        "target_text": "ski",
+        "hint": "для зимнего спорта",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0622",
+        "category_id": "srv_cat_021",
+        "source_text": "шлем",
+        "target_text": "helmet",
+        "hint": "защита головы",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0623",
+        "category_id": "srv_cat_021",
+        "source_text": "хобби",
+        "target_text": "hobby",
+        "hint": "увлечение в свободное время",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0624",
+        "category_id": "srv_cat_021",
+        "source_text": "танец",
+        "target_text": "dance",
+        "hint": "движения под музыку",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0625",
+        "category_id": "srv_cat_021",
+        "source_text": "музыка",
+        "target_text": "music",
+        "hint": "звуки для удовольствия",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0626",
+        "category_id": "srv_cat_021",
+        "source_text": "веселье",
+        "target_text": "fun",
+        "hint": "приятное время",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0627",
+        "category_id": "srv_cat_021",
+        "source_text": "отпуск",
+        "target_text": "vacation",
+        "hint": "время отдыха",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0628",
+        "category_id": "srv_cat_021",
+        "source_text": "парк",
+        "target_text": "park",
+        "hint": "место для отдыха",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0629",
+        "category_id": "srv_cat_021",
+        "source_text": "игра\/играть",
+        "target_text": "play",
+        "hint": "развлечение",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "021"
+    },
+    {
+        "id": "srv_word_0630",
+        "category_id": "srv_cat_021",
+        "source_text": "друг",
+        "target_text": "friend",
+        "hint": "компания для игр",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "021"
+    }
+]
