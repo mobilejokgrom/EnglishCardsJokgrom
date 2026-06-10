@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0721",
+        "category_id": "srv_cat_025",
+        "source_text": "о",
+        "target_text": "oh",
+        "hint": "выражает удивление",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0722",
+        "category_id": "srv_cat_025",
+        "source_text": "вау",
+        "target_text": "wow",
+        "hint": "выражает восхищение",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0723",
+        "category_id": "srv_cat_025",
+        "source_text": "круто",
+        "target_text": "awesome",
+        "hint": "сильное восхищение",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0724",
+        "category_id": "srv_cat_025",
+        "source_text": "ой",
+        "target_text": "ouch",
+        "hint": "выражает боль",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0725",
+        "category_id": "srv_cat_025",
+        "source_text": "эй",
+        "target_text": "hey",
+        "hint": "привлекает внимание",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0726",
+        "category_id": "srv_cat_025",
+        "source_text": "привет",
+        "target_text": "hi",
+        "hint": "неформальное приветствие",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0727",
+        "category_id": "srv_cat_025",
+        "source_text": "здравствуй",
+        "target_text": "hello",
+        "hint": "формальное приветствие",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0728",
+        "category_id": "srv_cat_025",
+        "source_text": "пока",
+        "target_text": "bye",
+        "hint": "неформальное прощание",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0729",
+        "category_id": "srv_cat_025",
+        "source_text": "до свидания",
+        "target_text": "goodbye",
+        "hint": "формальное прощание",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0730",
+        "category_id": "srv_cat_025",
+        "source_text": "да",
+        "target_text": "yes",
+        "hint": "подтверждение",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0731",
+        "category_id": "srv_cat_025",
+        "source_text": "нет",
+        "target_text": "no",
+        "hint": "отрицание",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0732",
+        "category_id": "srv_cat_025",
+        "source_text": "пожалуйста",
+        "target_text": "please",
+        "hint": "вежливая просьба",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0733",
+        "category_id": "srv_cat_025",
+        "source_text": "спасибо",
+        "target_text": "thanks",
+        "hint": "благодарность",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0734",
+        "category_id": "srv_cat_025",
+        "source_text": "извини",
+        "target_text": "sorry",
+        "hint": "извинение",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0735",
+        "category_id": "srv_cat_025",
+        "source_text": "упс",
+        "target_text": "oops",
+        "hint": "небольшая ошибка",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0736",
+        "category_id": "srv_cat_025",
+        "source_text": "а",
+        "target_text": "ah",
+        "hint": "понимание или вздох",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0737",
+        "category_id": "srv_cat_025",
+        "source_text": "фух",
+        "target_text": "phew",
+        "hint": "облегчение",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0738",
+        "category_id": "srv_cat_025",
+        "source_text": "фу",
+        "target_text": "yuck",
+        "hint": "отвращение",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0739",
+        "category_id": "srv_cat_025",
+        "source_text": "ням",
+        "target_text": "yum",
+        "hint": "вкусно",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0740",
+        "category_id": "srv_cat_025",
+        "source_text": "ура",
+        "target_text": "yay",
+        "hint": "радость",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0741",
+        "category_id": "srv_cat_025",
+        "source_text": "ура",
+        "target_text": "hooray",
+        "hint": "радость (более эмоционально)",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0742",
+        "category_id": "srv_cat_025",
+        "source_text": "тише",
+        "target_text": "shh",
+        "hint": "просьба замолчать",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0743",
+        "category_id": "srv_cat_025",
+        "source_text": "стоп",
+        "target_text": "stop",
+        "hint": "прекратить",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0744",
+        "category_id": "srv_cat_025",
+        "source_text": "отлично",
+        "target_text": "great",
+        "hint": "одобрение",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0745",
+        "category_id": "srv_cat_025",
+        "source_text": "удивительно",
+        "target_text": "amazing",
+        "hint": "восхищение",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0746",
+        "category_id": "srv_cat_025",
+        "source_text": "ужасно",
+        "target_text": "terrible",
+        "hint": "неодобрение",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0747",
+        "category_id": "srv_cat_025",
+        "source_text": "ну",
+        "target_text": "well",
+        "hint": "начало фразы",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0748",
+        "category_id": "srv_cat_025",
+        "source_text": "э",
+        "target_text": "eh",
+        "hint": "неуверенность",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0749",
+        "category_id": "srv_cat_025",
+        "source_text": "эм",
+        "target_text": "um",
+        "hint": "пауза в речи",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "025"
+    },
+    {
+        "id": "srv_word_0750",
+        "category_id": "srv_cat_025",
+        "source_text": "поздравляю",
+        "target_text": "congrats",
+        "hint": "поздравление",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "025"
+    }
+]
