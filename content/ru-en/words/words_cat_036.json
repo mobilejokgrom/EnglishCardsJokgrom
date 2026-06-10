@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1051",
+        "category_id": "srv_cat_036",
+        "source_text": "родственник",
+        "target_text": "relative",
+        "hint": "член семьи",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1052",
+        "category_id": "srv_cat_036",
+        "source_text": "родитель",
+        "target_text": "parent",
+        "hint": "мама или папа",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1053",
+        "category_id": "srv_cat_036",
+        "source_text": "ребёнок",
+        "target_text": "child",
+        "hint": "сын или дочь",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1054",
+        "category_id": "srv_cat_036",
+        "source_text": "брат или сестра",
+        "target_text": "sibling",
+        "hint": "братья и сёстры",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1055",
+        "category_id": "srv_cat_036",
+        "source_text": "партнёр",
+        "target_text": "partner",
+        "hint": "человек в отношениях",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1056",
+        "category_id": "srv_cat_036",
+        "source_text": "муж",
+        "target_text": "husband",
+        "hint": "женатый мужчина",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1057",
+        "category_id": "srv_cat_036",
+        "source_text": "жена",
+        "target_text": "wife",
+        "hint": "замужняя женщина",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1058",
+        "category_id": "srv_cat_036",
+        "source_text": "сын",
+        "target_text": "son",
+        "hint": "мужской ребёнок",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1059",
+        "category_id": "srv_cat_036",
+        "source_text": "дочь",
+        "target_text": "daughter",
+        "hint": "женский ребёнок",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1060",
+        "category_id": "srv_cat_036",
+        "source_text": "брат",
+        "target_text": "brother",
+        "hint": "мужской сиблинг",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1061",
+        "category_id": "srv_cat_036",
+        "source_text": "сестра",
+        "target_text": "sister",
+        "hint": "женский сиблинг",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1062",
+        "category_id": "srv_cat_036",
+        "source_text": "двоюродный брат\/сестра",
+        "target_text": "cousin",
+        "hint": "ребёнок дяди\/тёти",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1063",
+        "category_id": "srv_cat_036",
+        "source_text": "племянник",
+        "target_text": "nephew",
+        "hint": "сын брата\/сестры",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1064",
+        "category_id": "srv_cat_036",
+        "source_text": "племянница",
+        "target_text": "niece",
+        "hint": "дочь брата\/сестры",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1065",
+        "category_id": "srv_cat_036",
+        "source_text": "дядя",
+        "target_text": "uncle",
+        "hint": "брат родителя",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1066",
+        "category_id": "srv_cat_036",
+        "source_text": "тётя",
+        "target_text": "aunt",
+        "hint": "сестра родителя",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1067",
+        "category_id": "srv_cat_036",
+        "source_text": "дедушка",
+        "target_text": "grandfather",
+        "hint": "папа родителя",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1068",
+        "category_id": "srv_cat_036",
+        "source_text": "бабушка",
+        "target_text": "grandmother",
+        "hint": "мама родителя",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1069",
+        "category_id": "srv_cat_036",
+        "source_text": "внук",
+        "target_text": "grandson",
+        "hint": "сын ребёнка",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1070",
+        "category_id": "srv_cat_036",
+        "source_text": "внучка",
+        "target_text": "granddaughter",
+        "hint": "дочь ребёнка",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1071",
+        "category_id": "srv_cat_036",
+        "source_text": "тёща\/свекровь",
+        "target_text": "mother-in-law",
+        "hint": "мама супруга(и)",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1072",
+        "category_id": "srv_cat_036",
+        "source_text": "тесть\/свёкор",
+        "target_text": "father-in-law",
+        "hint": "папа супруга(и)",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1073",
+        "category_id": "srv_cat_036",
+        "source_text": "шурин\/зять",
+        "target_text": "brother-in-law",
+        "hint": "брат супруга(и)",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1074",
+        "category_id": "srv_cat_036",
+        "source_text": "невестка\/золовка",
+        "target_text": "sister-in-law",
+        "hint": "сестра супруга(и)",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1075",
+        "category_id": "srv_cat_036",
+        "source_text": "отчим",
+        "target_text": "stepfather",
+        "hint": "муж матери",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1076",
+        "category_id": "srv_cat_036",
+        "source_text": "мачеха",
+        "target_text": "stepmother",
+        "hint": "жена отца",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1077",
+        "category_id": "srv_cat_036",
+        "source_text": "сводный брат",
+        "target_text": "stepbrother",
+        "hint": "сын отчима\/мачехи",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1078",
+        "category_id": "srv_cat_036",
+        "source_text": "сводная сестра",
+        "target_text": "stepsister",
+        "hint": "дочь отчима\/мачехи",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1079",
+        "category_id": "srv_cat_036",
+        "source_text": "единокровный брат",
+        "target_text": "half-brother",
+        "hint": "один общий родитель",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1080",
+        "category_id": "srv_cat_036",
+        "source_text": "единокровная сестра",
+        "target_text": "half-sister",
+        "hint": "один общий родитель",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1081",
+        "category_id": "srv_cat_036",
+        "source_text": "крёстный отец",
+        "target_text": "godfather",
+        "hint": "духовный наставник",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1082",
+        "category_id": "srv_cat_036",
+        "source_text": "крёстная мать",
+        "target_text": "godmother",
+        "hint": "духовная наставница",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1083",
+        "category_id": "srv_cat_036",
+        "source_text": "жених",
+        "target_text": "fiancé",
+        "hint": "помолвленный мужчина",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1084",
+        "category_id": "srv_cat_036",
+        "source_text": "невеста",
+        "target_text": "fiancée",
+        "hint": "помолвленная женщина",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1085",
+        "category_id": "srv_cat_036",
+        "source_text": "бывший муж",
+        "target_text": "ex-husband",
+        "hint": "после развода",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1086",
+        "category_id": "srv_cat_036",
+        "source_text": "бывшая жена",
+        "target_text": "ex-wife",
+        "hint": "после развода",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1087",
+        "category_id": "srv_cat_036",
+        "source_text": "холостой\/незамужняя",
+        "target_text": "single",
+        "hint": "не в браке",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1088",
+        "category_id": "srv_cat_036",
+        "source_text": "женатый\/замужняя",
+        "target_text": "married",
+        "hint": "в браке",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1089",
+        "category_id": "srv_cat_036",
+        "source_text": "разведённый",
+        "target_text": "divorced",
+        "hint": "после развода",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1090",
+        "category_id": "srv_cat_036",
+        "source_text": "вдова",
+        "target_text": "widow",
+        "hint": "потеряла мужа",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1091",
+        "category_id": "srv_cat_036",
+        "source_text": "вдовец",
+        "target_text": "widower",
+        "hint": "потерял жену",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1092",
+        "category_id": "srv_cat_036",
+        "source_text": "сирота",
+        "target_text": "orphan",
+        "hint": "без родителей",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1093",
+        "category_id": "srv_cat_036",
+        "source_text": "младенец",
+        "target_text": "infant",
+        "hint": "0-1 год",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1094",
+        "category_id": "srv_cat_036",
+        "source_text": "малыш",
+        "target_text": "toddler",
+        "hint": "1-3 года",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1095",
+        "category_id": "srv_cat_036",
+        "source_text": "подросток",
+        "target_text": "teenager",
+        "hint": "13-19 лет",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1096",
+        "category_id": "srv_cat_036",
+        "source_text": "взрослый",
+        "target_text": "adult",
+        "hint": "совершеннолетний",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1097",
+        "category_id": "srv_cat_036",
+        "source_text": "пожилой человек",
+        "target_text": "senior",
+        "hint": "старше 65",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1098",
+        "category_id": "srv_cat_036",
+        "source_text": "близнец",
+        "target_text": "twin",
+        "hint": "родился вместе",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1099",
+        "category_id": "srv_cat_036",
+        "source_text": "генеалогическое древо",
+        "target_text": "family tree",
+        "hint": "схема родственников",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "036"
+    },
+    {
+        "id": "srv_word_1100",
+        "category_id": "srv_cat_036",
+        "source_text": "поколение",
+        "target_text": "generation",
+        "hint": "люди одного возраста",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "036"
+    }
+]
