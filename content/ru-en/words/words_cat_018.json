@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0511",
+        "category_id": "srv_cat_018",
+        "source_text": "есть",
+        "target_text": "eat",
+        "hint": "употребляют пищу",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0512",
+        "category_id": "srv_cat_018",
+        "source_text": "пить",
+        "target_text": "drink",
+        "hint": "употребляют жидкость",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0513",
+        "category_id": "srv_cat_018",
+        "source_text": "спать",
+        "target_text": "sleep",
+        "hint": "отдыхают ночью",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0514",
+        "category_id": "srv_cat_018",
+        "source_text": "просыпаться",
+        "target_text": "wake",
+        "hint": "прекращают спать",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0515",
+        "category_id": "srv_cat_018",
+        "source_text": "вставать",
+        "target_text": "get up",
+        "hint": "поднимаются с кровати",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0516",
+        "category_id": "srv_cat_018",
+        "source_text": "мыть",
+        "target_text": "wash",
+        "hint": "очищают водой",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0517",
+        "category_id": "srv_cat_018",
+        "source_text": "готовить",
+        "target_text": "cook",
+        "hint": "делают еду",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0518",
+        "category_id": "srv_cat_018",
+        "source_text": "чистить",
+        "target_text": "clean",
+        "hint": "убирают грязь",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0519",
+        "category_id": "srv_cat_018",
+        "source_text": "чистить",
+        "target_text": "brush",
+        "hint": "удаляют налёт",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0520",
+        "category_id": "srv_cat_018",
+        "source_text": "одеваться",
+        "target_text": "get dressed",
+        "hint": "надевают одежду",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0521",
+        "category_id": "srv_cat_018",
+        "source_text": "покупать",
+        "target_text": "buy",
+        "hint": "приобретают за деньги",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0522",
+        "category_id": "srv_cat_018",
+        "source_text": "принимать душ",
+        "target_text": "have a shower",
+        "hint": "моются под душем",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0523",
+        "category_id": "srv_cat_018",
+        "source_text": "бриться",
+        "target_text": "shave",
+        "hint": "удаляют волосы",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0524",
+        "category_id": "srv_cat_018",
+        "source_text": "расчёсывать",
+        "target_text": "comb",
+        "hint": "причёсывают волосы",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0525",
+        "category_id": "srv_cat_018",
+        "source_text": "прибирать",
+        "target_text": "tidy",
+        "hint": "наводят порядок",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0526",
+        "category_id": "srv_cat_018",
+        "source_text": "подметать",
+        "target_text": "sweep",
+        "hint": "убирают пол",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0527",
+        "category_id": "srv_cat_018",
+        "source_text": "мыть пол",
+        "target_text": "mop",
+        "hint": "моют шваброй",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0528",
+        "category_id": "srv_cat_018",
+        "source_text": "стирать",
+        "target_text": "do laundry",
+        "hint": "моют одежду",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0529",
+        "category_id": "srv_cat_018",
+        "source_text": "складывать",
+        "target_text": "fold",
+        "hint": "укладывают аккуратно",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0530",
+        "category_id": "srv_cat_018",
+        "source_text": "гладить",
+        "target_text": "iron",
+        "hint": "убирают складки",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0531",
+        "category_id": "srv_cat_018",
+        "source_text": "готовить",
+        "target_text": "prepare",
+        "hint": "делают заранее",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0532",
+        "category_id": "srv_cat_018",
+        "source_text": "подавать",
+        "target_text": "serve",
+        "hint": "дают еду",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0533",
+        "category_id": "srv_cat_018",
+        "source_text": "сушить",
+        "target_text": "dry",
+        "hint": "убирают влагу",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0534",
+        "category_id": "srv_cat_018",
+        "source_text": "протирать",
+        "target_text": "wipe",
+        "hint": "очищают поверхность",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0535",
+        "category_id": "srv_cat_018",
+        "source_text": "помогать",
+        "target_text": "help",
+        "hint": "оказывают помощь",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0536",
+        "category_id": "srv_cat_018",
+        "source_text": "делать",
+        "target_text": "do",
+        "hint": "совершают действие",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0537",
+        "category_id": "srv_cat_018",
+        "source_text": "начинать",
+        "target_text": "start",
+        "hint": "начинают что-то",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0538",
+        "category_id": "srv_cat_018",
+        "source_text": "заканчивать",
+        "target_text": "finish",
+        "hint": "завершают что-то",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0539",
+        "category_id": "srv_cat_018",
+        "source_text": "идти",
+        "target_text": "go",
+        "hint": "двигаются куда-то",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "018"
+    },
+    {
+        "id": "srv_word_0540",
+        "category_id": "srv_cat_018",
+        "source_text": "приходить",
+        "target_text": "come",
+        "hint": "прибывают куда-то",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "018"
+    }
+]
