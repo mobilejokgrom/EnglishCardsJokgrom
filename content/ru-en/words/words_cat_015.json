@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0421",
+        "category_id": "srv_cat_015",
+        "source_text": "сейчас",
+        "target_text": "now",
+        "hint": "в этот момент",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0422",
+        "category_id": "srv_cat_015",
+        "source_text": "сегодня",
+        "target_text": "today",
+        "hint": "в этот день",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0423",
+        "category_id": "srv_cat_015",
+        "source_text": "завтра",
+        "target_text": "tomorrow",
+        "hint": "в следующий день",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0424",
+        "category_id": "srv_cat_015",
+        "source_text": "вчера",
+        "target_text": "yesterday",
+        "hint": "в прошлый день",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0425",
+        "category_id": "srv_cat_015",
+        "source_text": "скоро",
+        "target_text": "soon",
+        "hint": "в ближайшее время",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0426",
+        "category_id": "srv_cat_015",
+        "source_text": "позже",
+        "target_text": "later",
+        "hint": "в более позднее время",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0427",
+        "category_id": "srv_cat_015",
+        "source_text": "уже",
+        "target_text": "already",
+        "hint": "раньше ожидаемого",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0428",
+        "category_id": "srv_cat_015",
+        "source_text": "ещё",
+        "target_text": "yet",
+        "hint": "в вопросах и отрицаниях",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0429",
+        "category_id": "srv_cat_015",
+        "source_text": "всё ещё",
+        "target_text": "still",
+        "hint": "продолжается",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0430",
+        "category_id": "srv_cat_015",
+        "source_text": "всегда",
+        "target_text": "always",
+        "hint": "постоянно",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0431",
+        "category_id": "srv_cat_015",
+        "source_text": "никогда",
+        "target_text": "never",
+        "hint": "ни в какое время",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0432",
+        "category_id": "srv_cat_015",
+        "source_text": "часто",
+        "target_text": "often",
+        "hint": "много раз",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0433",
+        "category_id": "srv_cat_015",
+        "source_text": "иногда",
+        "target_text": "sometimes",
+        "hint": "не всегда",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0434",
+        "category_id": "srv_cat_015",
+        "source_text": "здесь",
+        "target_text": "here",
+        "hint": "в этом месте",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0435",
+        "category_id": "srv_cat_015",
+        "source_text": "там",
+        "target_text": "there",
+        "hint": "в том месте",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0436",
+        "category_id": "srv_cat_015",
+        "source_text": "назад",
+        "target_text": "back",
+        "hint": "обратно",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0437",
+        "category_id": "srv_cat_015",
+        "source_text": "снаружи",
+        "target_text": "out",
+        "hint": "вне помещения",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0438",
+        "category_id": "srv_cat_015",
+        "source_text": "вверх",
+        "target_text": "up",
+        "hint": "направление вверх",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0439",
+        "category_id": "srv_cat_015",
+        "source_text": "вниз",
+        "target_text": "down",
+        "hint": "направление вниз",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0440",
+        "category_id": "srv_cat_015",
+        "source_text": "домой",
+        "target_text": "home",
+        "hint": "к себе домой",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0441",
+        "category_id": "srv_cat_015",
+        "source_text": "очень",
+        "target_text": "very",
+        "hint": "усиливает значение",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0442",
+        "category_id": "srv_cat_015",
+        "source_text": "слишком",
+        "target_text": "too",
+        "hint": "чересчур много",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0443",
+        "category_id": "srv_cat_015",
+        "source_text": "действительно",
+        "target_text": "really",
+        "hint": "на самом деле",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0444",
+        "category_id": "srv_cat_015",
+        "source_text": "только",
+        "target_text": "just",
+        "hint": "лишь, только что",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0445",
+        "category_id": "srv_cat_015",
+        "source_text": "только",
+        "target_text": "only",
+        "hint": "исключительно",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0446",
+        "category_id": "srv_cat_015",
+        "source_text": "снова",
+        "target_text": "again",
+        "hint": "повторно",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0447",
+        "category_id": "srv_cat_015",
+        "source_text": "вместе",
+        "target_text": "together",
+        "hint": "совместно",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0448",
+        "category_id": "srv_cat_015",
+        "source_text": "хорошо",
+        "target_text": "well",
+        "hint": "качественно",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0449",
+        "category_id": "srv_cat_015",
+        "source_text": "быстро",
+        "target_text": "fast",
+        "hint": "с большой скоростью",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "015"
+    },
+    {
+        "id": "srv_word_0450",
+        "category_id": "srv_cat_015",
+        "source_text": "медленно",
+        "target_text": "slowly",
+        "hint": "с маленькой скоростью",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "015"
+    }
+]
