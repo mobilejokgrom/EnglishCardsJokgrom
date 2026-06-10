@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0811",
+        "category_id": "srv_cat_028",
+        "source_text": "видеть",
+        "target_text": "see",
+        "hint": "использовать глаза",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0812",
+        "category_id": "srv_cat_028",
+        "source_text": "слышать",
+        "target_text": "hear",
+        "hint": "использовать уши",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0813",
+        "category_id": "srv_cat_028",
+        "source_text": "смотреть",
+        "target_text": "look",
+        "hint": "направлять взгляд",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0814",
+        "category_id": "srv_cat_028",
+        "source_text": "слушать",
+        "target_text": "listen",
+        "hint": "внимательно слышать",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0815",
+        "category_id": "srv_cat_028",
+        "source_text": "наблюдать",
+        "target_text": "watch",
+        "hint": "смотреть внимательно",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0816",
+        "category_id": "srv_cat_028",
+        "source_text": "чувствовать",
+        "target_text": "feel",
+        "hint": "ощущать телом",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0817",
+        "category_id": "srv_cat_028",
+        "source_text": "трогать",
+        "target_text": "touch",
+        "hint": "касаться рукой",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0818",
+        "category_id": "srv_cat_028",
+        "source_text": "нюхать",
+        "target_text": "smell",
+        "hint": "использовать нос",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0819",
+        "category_id": "srv_cat_028",
+        "source_text": "пробовать",
+        "target_text": "taste",
+        "hint": "использовать язык",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0820",
+        "category_id": "srv_cat_028",
+        "source_text": "замечать",
+        "target_text": "notice",
+        "hint": "обращать внимание",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0821",
+        "category_id": "srv_cat_028",
+        "source_text": "узнавать",
+        "target_text": "recognize",
+        "hint": "идентифицировать",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0822",
+        "category_id": "srv_cat_028",
+        "source_text": "замечать",
+        "target_text": "spot",
+        "hint": "видеть что-то конкретное",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0823",
+        "category_id": "srv_cat_028",
+        "source_text": "искать",
+        "target_text": "search",
+        "hint": "пытаться найти",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0824",
+        "category_id": "srv_cat_028",
+        "source_text": "находить",
+        "target_text": "find",
+        "hint": "обнаруживать",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0825",
+        "category_id": "srv_cat_028",
+        "source_text": "проверять",
+        "target_text": "check",
+        "hint": "убеждаться",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0826",
+        "category_id": "srv_cat_028",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0827",
+        "category_id": "srv_cat_028",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "осознавать смысл",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0828",
+        "category_id": "srv_cat_028",
+        "source_text": "помнить",
+        "target_text": "remember",
+        "hint": "хранить в памяти",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0829",
+        "category_id": "srv_cat_028",
+        "source_text": "забывать",
+        "target_text": "forget",
+        "hint": "терять из памяти",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0830",
+        "category_id": "srv_cat_028",
+        "source_text": "думать",
+        "target_text": "think",
+        "hint": "размышлять",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0831",
+        "category_id": "srv_cat_028",
+        "source_text": "верить",
+        "target_text": "believe",
+        "hint": "доверять",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0832",
+        "category_id": "srv_cat_028",
+        "source_text": "пытаться",
+        "target_text": "try",
+        "hint": "делать усилие",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0833",
+        "category_id": "srv_cat_028",
+        "source_text": "хотеть",
+        "target_text": "want",
+        "hint": "желать чего-то",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0834",
+        "category_id": "srv_cat_028",
+        "source_text": "нуждаться",
+        "target_text": "need",
+        "hint": "испытывать потребность",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0835",
+        "category_id": "srv_cat_028",
+        "source_text": "нравиться",
+        "target_text": "like",
+        "hint": "испытывать симпатию",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0836",
+        "category_id": "srv_cat_028",
+        "source_text": "наслаждаться",
+        "target_text": "enjoy",
+        "hint": "получать удовольствие",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0837",
+        "category_id": "srv_cat_028",
+        "source_text": "помогать",
+        "target_text": "help",
+        "hint": "оказывать помощь",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0838",
+        "category_id": "srv_cat_028",
+        "source_text": "фокусироваться",
+        "target_text": "focus",
+        "hint": "концентрировать внимание",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0839",
+        "category_id": "srv_cat_028",
+        "source_text": "определять",
+        "target_text": "identify",
+        "hint": "устанавливать что-то",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "028"
+    },
+    {
+        "id": "srv_word_0840",
+        "category_id": "srv_cat_028",
+        "source_text": "ощущать",
+        "target_text": "sense",
+        "hint": "чувствовать интуитивно",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "028"
+    }
+]
