@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_1021",
+        "category_id": "srv_cat_035",
+        "source_text": "понедельник",
+        "target_text": "Monday",
+        "hint": "первый день недели",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1022",
+        "category_id": "srv_cat_035",
+        "source_text": "вторник",
+        "target_text": "Tuesday",
+        "hint": "второй день недели",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1023",
+        "category_id": "srv_cat_035",
+        "source_text": "среда",
+        "target_text": "Wednesday",
+        "hint": "середина недели",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1024",
+        "category_id": "srv_cat_035",
+        "source_text": "четверг",
+        "target_text": "Thursday",
+        "hint": "четвёртый день недели",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1025",
+        "category_id": "srv_cat_035",
+        "source_text": "пятница",
+        "target_text": "Friday",
+        "hint": "последний рабочий день",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1026",
+        "category_id": "srv_cat_035",
+        "source_text": "суббота",
+        "target_text": "Saturday",
+        "hint": "выходной день",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1027",
+        "category_id": "srv_cat_035",
+        "source_text": "воскресенье",
+        "target_text": "Sunday",
+        "hint": "последний день недели",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1028",
+        "category_id": "srv_cat_035",
+        "source_text": "утро",
+        "target_text": "morning",
+        "hint": "начало дня",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1029",
+        "category_id": "srv_cat_035",
+        "source_text": "день",
+        "target_text": "afternoon",
+        "hint": "после полудня",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1030",
+        "category_id": "srv_cat_035",
+        "source_text": "вечер",
+        "target_text": "evening",
+        "hint": "конец дня",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1031",
+        "category_id": "srv_cat_035",
+        "source_text": "ночь",
+        "target_text": "night",
+        "hint": "когда темно",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1032",
+        "category_id": "srv_cat_035",
+        "source_text": "полночь",
+        "target_text": "midnight",
+        "hint": "середина ночи",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1033",
+        "category_id": "srv_cat_035",
+        "source_text": "январь",
+        "target_text": "January",
+        "hint": "первый месяц",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1034",
+        "category_id": "srv_cat_035",
+        "source_text": "февраль",
+        "target_text": "February",
+        "hint": "второй месяц",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1035",
+        "category_id": "srv_cat_035",
+        "source_text": "март",
+        "target_text": "March",
+        "hint": "третий месяц",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1036",
+        "category_id": "srv_cat_035",
+        "source_text": "апрель",
+        "target_text": "April",
+        "hint": "четвёртый месяц",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1037",
+        "category_id": "srv_cat_035",
+        "source_text": "май",
+        "target_text": "May",
+        "hint": "пятый месяц",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1038",
+        "category_id": "srv_cat_035",
+        "source_text": "июнь",
+        "target_text": "June",
+        "hint": "шестой месяц",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1039",
+        "category_id": "srv_cat_035",
+        "source_text": "июль",
+        "target_text": "July",
+        "hint": "седьмой месяц",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1040",
+        "category_id": "srv_cat_035",
+        "source_text": "август",
+        "target_text": "August",
+        "hint": "восьмой месяц",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1041",
+        "category_id": "srv_cat_035",
+        "source_text": "сентябрь",
+        "target_text": "September",
+        "hint": "девятый месяц",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1042",
+        "category_id": "srv_cat_035",
+        "source_text": "октябрь",
+        "target_text": "October",
+        "hint": "десятый месяц",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1043",
+        "category_id": "srv_cat_035",
+        "source_text": "ноябрь",
+        "target_text": "November",
+        "hint": "одиннадцатый месяц",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1044",
+        "category_id": "srv_cat_035",
+        "source_text": "декабрь",
+        "target_text": "December",
+        "hint": "двенадцатый месяц",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1045",
+        "category_id": "srv_cat_035",
+        "source_text": "сегодня",
+        "target_text": "today",
+        "hint": "этот день",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1046",
+        "category_id": "srv_cat_035",
+        "source_text": "завтра",
+        "target_text": "tomorrow",
+        "hint": "следующий день",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1047",
+        "category_id": "srv_cat_035",
+        "source_text": "вчера",
+        "target_text": "yesterday",
+        "hint": "прошлый день",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1048",
+        "category_id": "srv_cat_035",
+        "source_text": "неделя",
+        "target_text": "week",
+        "hint": "7 дней",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1049",
+        "category_id": "srv_cat_035",
+        "source_text": "месяц",
+        "target_text": "month",
+        "hint": "30-31 день",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "035"
+    },
+    {
+        "id": "srv_word_1050",
+        "category_id": "srv_cat_035",
+        "source_text": "год",
+        "target_text": "year",
+        "hint": "12 месяцев",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "035"
+    }
+]
