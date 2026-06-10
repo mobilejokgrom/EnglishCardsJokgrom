@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1101",
+        "category_id": "srv_cat_037",
+        "source_text": "мышца",
+        "target_text": "muscle",
+        "hint": "ткань для движения",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1102",
+        "category_id": "srv_cat_037",
+        "source_text": "кость",
+        "target_text": "bone",
+        "hint": "твёрдая часть скелета",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1103",
+        "category_id": "srv_cat_037",
+        "source_text": "мозг",
+        "target_text": "brain",
+        "hint": "управляет телом",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1104",
+        "category_id": "srv_cat_037",
+        "source_text": "сердце",
+        "target_text": "heart",
+        "hint": "качает кровь",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1105",
+        "category_id": "srv_cat_037",
+        "source_text": "лёгкое",
+        "target_text": "lung",
+        "hint": "для дыхания",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1106",
+        "category_id": "srv_cat_037",
+        "source_text": "желудок",
+        "target_text": "stomach",
+        "hint": "переваривает пищу",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1107",
+        "category_id": "srv_cat_037",
+        "source_text": "колено",
+        "target_text": "knee",
+        "hint": "сустав ноги",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1108",
+        "category_id": "srv_cat_037",
+        "source_text": "зуб",
+        "target_text": "tooth",
+        "hint": "для пережёвывания",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1109",
+        "category_id": "srv_cat_037",
+        "source_text": "язык",
+        "target_text": "tongue",
+        "hint": "для вкуса и речи",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1110",
+        "category_id": "srv_cat_037",
+        "source_text": "горло",
+        "target_text": "throat",
+        "hint": "проход для пищи",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1111",
+        "category_id": "srv_cat_037",
+        "source_text": "грудь",
+        "target_text": "chest",
+        "hint": "передняя часть торса",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1112",
+        "category_id": "srv_cat_037",
+        "source_text": "плечо",
+        "target_text": "shoulder",
+        "hint": "верхняя часть руки",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1113",
+        "category_id": "srv_cat_037",
+        "source_text": "температура",
+        "target_text": "fever",
+        "hint": "повышенная температура",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1114",
+        "category_id": "srv_cat_037",
+        "source_text": "кашель",
+        "target_text": "cough",
+        "hint": "рефлекс дыхательных путей",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1115",
+        "category_id": "srv_cat_037",
+        "source_text": "головная боль",
+        "target_text": "headache",
+        "hint": "боль в голове",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1116",
+        "category_id": "srv_cat_037",
+        "source_text": "глаз",
+        "target_text": "eye",
+        "hint": "орган зрения",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1117",
+        "category_id": "srv_cat_037",
+        "source_text": "ухо",
+        "target_text": "ear",
+        "hint": "орган слуха",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1118",
+        "category_id": "srv_cat_037",
+        "source_text": "нос",
+        "target_text": "nose",
+        "hint": "орган обоняния",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1119",
+        "category_id": "srv_cat_037",
+        "source_text": "рот",
+        "target_text": "mouth",
+        "hint": "орган речи",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1120",
+        "category_id": "srv_cat_037",
+        "source_text": "рука",
+        "target_text": "hand",
+        "hint": "кисть",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1121",
+        "category_id": "srv_cat_037",
+        "source_text": "рука",
+        "target_text": "arm",
+        "hint": "от плеча до кисти",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1122",
+        "category_id": "srv_cat_037",
+        "source_text": "нога",
+        "target_text": "leg",
+        "hint": "от бедра до стопы",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1123",
+        "category_id": "srv_cat_037",
+        "source_text": "стопа",
+        "target_text": "foot",
+        "hint": "нижняя часть ноги",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1124",
+        "category_id": "srv_cat_037",
+        "source_text": "палец",
+        "target_text": "finger",
+        "hint": "на руке",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1125",
+        "category_id": "srv_cat_037",
+        "source_text": "спина",
+        "target_text": "back",
+        "hint": "задняя часть тела",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1126",
+        "category_id": "srv_cat_037",
+        "source_text": "шея",
+        "target_text": "neck",
+        "hint": "соединяет голову",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1127",
+        "category_id": "srv_cat_037",
+        "source_text": "лицо",
+        "target_text": "face",
+        "hint": "передняя часть головы",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1128",
+        "category_id": "srv_cat_037",
+        "source_text": "кожа",
+        "target_text": "skin",
+        "hint": "покров тела",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1129",
+        "category_id": "srv_cat_037",
+        "source_text": "волосы",
+        "target_text": "hair",
+        "hint": "растут на голове",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1130",
+        "category_id": "srv_cat_037",
+        "source_text": "боль",
+        "target_text": "pain",
+        "hint": "неприятное ощущение",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1131",
+        "category_id": "srv_cat_037",
+        "source_text": "простуда",
+        "target_text": "cold",
+        "hint": "лёгкая болезнь",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1132",
+        "category_id": "srv_cat_037",
+        "source_text": "грипп",
+        "target_text": "flu",
+        "hint": "вирусная болезнь",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1133",
+        "category_id": "srv_cat_037",
+        "source_text": "лекарство",
+        "target_text": "medicine",
+        "hint": "помогает выздороветь",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1134",
+        "category_id": "srv_cat_037",
+        "source_text": "врач",
+        "target_text": "doctor",
+        "hint": "лечит людей",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1135",
+        "category_id": "srv_cat_037",
+        "source_text": "больница",
+        "target_text": "hospital",
+        "hint": "лечат людей",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1136",
+        "category_id": "srv_cat_037",
+        "source_text": "таблетка",
+        "target_text": "pill",
+        "hint": "лекарство в форме",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1137",
+        "category_id": "srv_cat_037",
+        "source_text": "больной",
+        "target_text": "sick",
+        "hint": "нездоровый",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1138",
+        "category_id": "srv_cat_037",
+        "source_text": "больной",
+        "target_text": "ill",
+        "hint": "нездоровый",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1139",
+        "category_id": "srv_cat_037",
+        "source_text": "здоровый",
+        "target_text": "healthy",
+        "hint": "в хорошем состоянии",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1140",
+        "category_id": "srv_cat_037",
+        "source_text": "болеть",
+        "target_text": "hurt",
+        "hint": "испытывать боль",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1141",
+        "category_id": "srv_cat_037",
+        "source_text": "сломанный",
+        "target_text": "broken",
+        "hint": "повреждённый",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1142",
+        "category_id": "srv_cat_037",
+        "source_text": "порез",
+        "target_text": "cut",
+        "hint": "рана от острого",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1143",
+        "category_id": "srv_cat_037",
+        "source_text": "болящий",
+        "target_text": "sore",
+        "hint": "болезненный",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1144",
+        "category_id": "srv_cat_037",
+        "source_text": "уставший",
+        "target_text": "tired",
+        "hint": "нужен отдых",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1145",
+        "category_id": "srv_cat_037",
+        "source_text": "слабый",
+        "target_text": "weak",
+        "hint": "без силы",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1146",
+        "category_id": "srv_cat_037",
+        "source_text": "сильный",
+        "target_text": "strong",
+        "hint": "с силой",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1147",
+        "category_id": "srv_cat_037",
+        "source_text": "чихать",
+        "target_text": "sneeze",
+        "hint": "рефлекс носа",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1148",
+        "category_id": "srv_cat_037",
+        "source_text": "кровоточить",
+        "target_text": "bleed",
+        "hint": "течёт кровь",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1149",
+        "category_id": "srv_cat_037",
+        "source_text": "спать",
+        "target_text": "sleep",
+        "hint": "отдых ночью",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "037"
+    },
+    {
+        "id": "srv_word_1150",
+        "category_id": "srv_cat_037",
+        "source_text": "отдых",
+        "target_text": "rest",
+        "hint": "восстановление сил",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "037"
+    }
+]
