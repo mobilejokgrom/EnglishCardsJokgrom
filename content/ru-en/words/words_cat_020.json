@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0571",
+        "category_id": "srv_cat_020",
+        "source_text": "ноль",
+        "target_text": "zero",
+        "hint": "отсутствие количества",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0572",
+        "category_id": "srv_cat_020",
+        "source_text": "один",
+        "target_text": "one",
+        "hint": "первое число",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0573",
+        "category_id": "srv_cat_020",
+        "source_text": "два",
+        "target_text": "two",
+        "hint": "второе число",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0574",
+        "category_id": "srv_cat_020",
+        "source_text": "три",
+        "target_text": "three",
+        "hint": "третье число",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0575",
+        "category_id": "srv_cat_020",
+        "source_text": "четыре",
+        "target_text": "four",
+        "hint": "четвёртое число",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0576",
+        "category_id": "srv_cat_020",
+        "source_text": "пять",
+        "target_text": "five",
+        "hint": "пятое число",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0577",
+        "category_id": "srv_cat_020",
+        "source_text": "шесть",
+        "target_text": "six",
+        "hint": "шестое число",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0578",
+        "category_id": "srv_cat_020",
+        "source_text": "семь",
+        "target_text": "seven",
+        "hint": "седьмое число",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0579",
+        "category_id": "srv_cat_020",
+        "source_text": "восемь",
+        "target_text": "eight",
+        "hint": "восьмое число",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0580",
+        "category_id": "srv_cat_020",
+        "source_text": "девять",
+        "target_text": "nine",
+        "hint": "девятое число",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0581",
+        "category_id": "srv_cat_020",
+        "source_text": "десять",
+        "target_text": "ten",
+        "hint": "десятое число",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0582",
+        "category_id": "srv_cat_020",
+        "source_text": "одиннадцать",
+        "target_text": "eleven",
+        "hint": "один плюс десять",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0583",
+        "category_id": "srv_cat_020",
+        "source_text": "двенадцать",
+        "target_text": "twelve",
+        "hint": "два плюс десять",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0584",
+        "category_id": "srv_cat_020",
+        "source_text": "тринадцать",
+        "target_text": "thirteen",
+        "hint": "три плюс десять",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0585",
+        "category_id": "srv_cat_020",
+        "source_text": "четырнадцать",
+        "target_text": "fourteen",
+        "hint": "четыре плюс десять",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0586",
+        "category_id": "srv_cat_020",
+        "source_text": "пятнадцать",
+        "target_text": "fifteen",
+        "hint": "пять плюс десять",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0587",
+        "category_id": "srv_cat_020",
+        "source_text": "двадцать",
+        "target_text": "twenty",
+        "hint": "дважды десять",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0588",
+        "category_id": "srv_cat_020",
+        "source_text": "тридцать",
+        "target_text": "thirty",
+        "hint": "трижды десять",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0589",
+        "category_id": "srv_cat_020",
+        "source_text": "сорок",
+        "target_text": "forty",
+        "hint": "четырежды десять",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0590",
+        "category_id": "srv_cat_020",
+        "source_text": "пятьдесят",
+        "target_text": "fifty",
+        "hint": "пять раз по десять",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0591",
+        "category_id": "srv_cat_020",
+        "source_text": "шестьдесят",
+        "target_text": "sixty",
+        "hint": "шесть раз по десять",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0592",
+        "category_id": "srv_cat_020",
+        "source_text": "семьдесят",
+        "target_text": "seventy",
+        "hint": "семь раз по десять",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0593",
+        "category_id": "srv_cat_020",
+        "source_text": "восемьдесят",
+        "target_text": "eighty",
+        "hint": "восемь раз по десять",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0594",
+        "category_id": "srv_cat_020",
+        "source_text": "девяносто",
+        "target_text": "ninety",
+        "hint": "девять раз по десять",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0595",
+        "category_id": "srv_cat_020",
+        "source_text": "сто",
+        "target_text": "hundred",
+        "hint": "десять раз по десять",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0596",
+        "category_id": "srv_cat_020",
+        "source_text": "первый",
+        "target_text": "first",
+        "hint": "номер один",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0597",
+        "category_id": "srv_cat_020",
+        "source_text": "второй",
+        "target_text": "second",
+        "hint": "номер два",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0598",
+        "category_id": "srv_cat_020",
+        "source_text": "третий",
+        "target_text": "third",
+        "hint": "номер три",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0599",
+        "category_id": "srv_cat_020",
+        "source_text": "четвёртый",
+        "target_text": "fourth",
+        "hint": "номер четыре",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "020"
+    },
+    {
+        "id": "srv_word_0600",
+        "category_id": "srv_cat_020",
+        "source_text": "половина",
+        "target_text": "half",
+        "hint": "часть целого",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "020"
+    }
+]
