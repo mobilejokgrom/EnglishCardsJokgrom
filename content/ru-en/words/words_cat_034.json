@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0991",
+        "category_id": "srv_cat_034",
+        "source_text": "что",
+        "target_text": "what",
+        "hint": "спрашивает о предмете",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0992",
+        "category_id": "srv_cat_034",
+        "source_text": "где",
+        "target_text": "where",
+        "hint": "спрашивает о месте",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0993",
+        "category_id": "srv_cat_034",
+        "source_text": "когда",
+        "target_text": "when",
+        "hint": "спрашивает о времени",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0994",
+        "category_id": "srv_cat_034",
+        "source_text": "почему",
+        "target_text": "why",
+        "hint": "спрашивает о причине",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0995",
+        "category_id": "srv_cat_034",
+        "source_text": "кто",
+        "target_text": "who",
+        "hint": "спрашивает о человеке",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0996",
+        "category_id": "srv_cat_034",
+        "source_text": "как",
+        "target_text": "how",
+        "hint": "спрашивает о способе",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0997",
+        "category_id": "srv_cat_034",
+        "source_text": "какой",
+        "target_text": "which",
+        "hint": "выбор из вариантов",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0998",
+        "category_id": "srv_cat_034",
+        "source_text": "что это",
+        "target_text": "what's",
+        "hint": "вопрос о предмете",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_0999",
+        "category_id": "srv_cat_034",
+        "source_text": "где находится",
+        "target_text": "where's",
+        "hint": "вопрос о месте",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1000",
+        "category_id": "srv_cat_034",
+        "source_text": "когда",
+        "target_text": "when's",
+        "hint": "вопрос о времени",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1001",
+        "category_id": "srv_cat_034",
+        "source_text": "как дела\/как",
+        "target_text": "how's",
+        "hint": "вопрос о состоянии",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1002",
+        "category_id": "srv_cat_034",
+        "source_text": "кто это",
+        "target_text": "who's",
+        "hint": "вопрос о человеке",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1003",
+        "category_id": "srv_cat_034",
+        "source_text": "почему",
+        "target_text": "why's",
+        "hint": "вопрос о причине",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1004",
+        "category_id": "srv_cat_034",
+        "source_text": "во сколько",
+        "target_text": "what time",
+        "hint": "точное время",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1005",
+        "category_id": "srv_cat_034",
+        "source_text": "сколько",
+        "target_text": "how much",
+        "hint": "неисчисляемое",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1006",
+        "category_id": "srv_cat_034",
+        "source_text": "сколько",
+        "target_text": "how many",
+        "hint": "исчисляемое",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1007",
+        "category_id": "srv_cat_034",
+        "source_text": "как долго",
+        "target_text": "how long",
+        "hint": "продолжительность",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1008",
+        "category_id": "srv_cat_034",
+        "source_text": "сколько лет",
+        "target_text": "how old",
+        "hint": "возраст",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1009",
+        "category_id": "srv_cat_034",
+        "source_text": "какого цвета",
+        "target_text": "what color",
+        "hint": "цвет",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1010",
+        "category_id": "srv_cat_034",
+        "source_text": "откуда",
+        "target_text": "where from",
+        "hint": "происхождение",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1011",
+        "category_id": "srv_cat_034",
+        "source_text": "куда",
+        "target_text": "where to",
+        "hint": "направление",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1012",
+        "category_id": "srv_cat_034",
+        "source_text": "зачем",
+        "target_text": "what for",
+        "hint": "цель",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1013",
+        "category_id": "srv_cat_034",
+        "source_text": "ты\/вы",
+        "target_text": "do you",
+        "hint": "начало вопроса",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1014",
+        "category_id": "srv_cat_034",
+        "source_text": "можешь ли ты",
+        "target_text": "can you",
+        "hint": "просьба",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1015",
+        "category_id": "srv_cat_034",
+        "source_text": "есть ли",
+        "target_text": "is there",
+        "hint": "вопрос о наличии",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1016",
+        "category_id": "srv_cat_034",
+        "source_text": "ты\/вы",
+        "target_text": "are you",
+        "hint": "вопрос о состоянии",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1017",
+        "category_id": "srv_cat_034",
+        "source_text": "ты будешь",
+        "target_text": "will you",
+        "hint": "вопрос о будущем",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1018",
+        "category_id": "srv_cat_034",
+        "source_text": "ты сделал",
+        "target_text": "did you",
+        "hint": "вопрос о прошлом",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1019",
+        "category_id": "srv_cat_034",
+        "source_text": "ты сделал",
+        "target_text": "have you",
+        "hint": "вопрос о завершении",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "034"
+    },
+    {
+        "id": "srv_word_1020",
+        "category_id": "srv_cat_034",
+        "source_text": "давай",
+        "target_text": "let's",
+        "hint": "предложение",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "034"
+    }
+]
