@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1151",
+        "category_id": "srv_cat_038",
+        "source_text": "становиться",
+        "target_text": "become",
+        "hint": "менять состояние",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1152",
+        "category_id": "srv_cat_038",
+        "source_text": "меняться",
+        "target_text": "change",
+        "hint": "изменять форму или вид",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1153",
+        "category_id": "srv_cat_038",
+        "source_text": "расти",
+        "target_text": "grow",
+        "hint": "увеличиваться в размере",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1154",
+        "category_id": "srv_cat_038",
+        "source_text": "сжиматься",
+        "target_text": "shrink",
+        "hint": "уменьшаться в размере",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1155",
+        "category_id": "srv_cat_038",
+        "source_text": "улучшаться",
+        "target_text": "improve",
+        "hint": "становиться лучше",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1156",
+        "category_id": "srv_cat_038",
+        "source_text": "ухудшаться",
+        "target_text": "worsen",
+        "hint": "становиться хуже",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1157",
+        "category_id": "srv_cat_038",
+        "source_text": "увеличиваться",
+        "target_text": "increase",
+        "hint": "расти в количестве",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1158",
+        "category_id": "srv_cat_038",
+        "source_text": "уменьшаться",
+        "target_text": "decrease",
+        "hint": "падать в количестве",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1159",
+        "category_id": "srv_cat_038",
+        "source_text": "подниматься",
+        "target_text": "rise",
+        "hint": "идти вверх",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1160",
+        "category_id": "srv_cat_038",
+        "source_text": "падать",
+        "target_text": "fall",
+        "hint": "идти вниз",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1161",
+        "category_id": "srv_cat_038",
+        "source_text": "превращаться",
+        "target_text": "turn",
+        "hint": "менять форму или цвет",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1162",
+        "category_id": "srv_cat_038",
+        "source_text": "таять",
+        "target_text": "melt",
+        "hint": "переходить в жидкое состояние",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1163",
+        "category_id": "srv_cat_038",
+        "source_text": "замерзать",
+        "target_text": "freeze",
+        "hint": "переходить в твёрдое состояние",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1164",
+        "category_id": "srv_cat_038",
+        "source_text": "кипеть",
+        "target_text": "boil",
+        "hint": "переходить в газообразное состояние",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1165",
+        "category_id": "srv_cat_038",
+        "source_text": "остывать",
+        "target_text": "cool",
+        "hint": "терять тепло",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1166",
+        "category_id": "srv_cat_038",
+        "source_text": "высыхать",
+        "target_text": "dry",
+        "hint": "терять влагу",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1167",
+        "category_id": "srv_cat_038",
+        "source_text": "выздоравливать",
+        "target_text": "recover",
+        "hint": "возвращаться к здоровью",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1168",
+        "category_id": "srv_cat_038",
+        "source_text": "расслабляться",
+        "target_text": "relax",
+        "hint": "терять напряжение",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1169",
+        "category_id": "srv_cat_038",
+        "source_text": "гнуться",
+        "target_text": "bend",
+        "hint": "менять форму под углом",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1170",
+        "category_id": "srv_cat_038",
+        "source_text": "трескаться",
+        "target_text": "crack",
+        "hint": "появляются трещины",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1171",
+        "category_id": "srv_cat_038",
+        "source_text": "начинать",
+        "target_text": "start",
+        "hint": "начало действия",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1172",
+        "category_id": "srv_cat_038",
+        "source_text": "останавливаться",
+        "target_text": "stop",
+        "hint": "прекращать действие",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1173",
+        "category_id": "srv_cat_038",
+        "source_text": "начинать",
+        "target_text": "begin",
+        "hint": "старт",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1174",
+        "category_id": "srv_cat_038",
+        "source_text": "заканчивать",
+        "target_text": "end",
+        "hint": "конец",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1175",
+        "category_id": "srv_cat_038",
+        "source_text": "заканчивать",
+        "target_text": "finish",
+        "hint": "завершение",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1176",
+        "category_id": "srv_cat_038",
+        "source_text": "открывать",
+        "target_text": "open",
+        "hint": "делать доступным",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1177",
+        "category_id": "srv_cat_038",
+        "source_text": "закрывать",
+        "target_text": "close",
+        "hint": "делать недоступным",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1178",
+        "category_id": "srv_cat_038",
+        "source_text": "ломать",
+        "target_text": "break",
+        "hint": "повреждать",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1179",
+        "category_id": "srv_cat_038",
+        "source_text": "чинить",
+        "target_text": "fix",
+        "hint": "восстанавливать",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1180",
+        "category_id": "srv_cat_038",
+        "source_text": "двигать",
+        "target_text": "move",
+        "hint": "изменять положение",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1181",
+        "category_id": "srv_cat_038",
+        "source_text": "оставаться",
+        "target_text": "stay",
+        "hint": "не двигаться",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1182",
+        "category_id": "srv_cat_038",
+        "source_text": "ждать",
+        "target_text": "wait",
+        "hint": "оставаться до",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1183",
+        "category_id": "srv_cat_038",
+        "source_text": "держать",
+        "target_text": "keep",
+        "hint": "сохранять",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1184",
+        "category_id": "srv_cat_038",
+        "source_text": "продолжать",
+        "target_text": "continue",
+        "hint": "не останавливаться",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1185",
+        "category_id": "srv_cat_038",
+        "source_text": "уходить",
+        "target_text": "leave",
+        "hint": "покидать место",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1186",
+        "category_id": "srv_cat_038",
+        "source_text": "прибывать",
+        "target_text": "arrive",
+        "hint": "достигать места",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1187",
+        "category_id": "srv_cat_038",
+        "source_text": "возвращаться",
+        "target_text": "return",
+        "hint": "приходить назад",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1188",
+        "category_id": "srv_cat_038",
+        "source_text": "случаться",
+        "target_text": "happen",
+        "hint": "происходить",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1189",
+        "category_id": "srv_cat_038",
+        "source_text": "появляться",
+        "target_text": "appear",
+        "hint": "становиться видимым",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1190",
+        "category_id": "srv_cat_038",
+        "source_text": "исчезать",
+        "target_text": "disappear",
+        "hint": "перестать быть видимым",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1191",
+        "category_id": "srv_cat_038",
+        "source_text": "получать\/становиться",
+        "target_text": "get",
+        "hint": "приобретать",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1192",
+        "category_id": "srv_cat_038",
+        "source_text": "делать",
+        "target_text": "make",
+        "hint": "создавать",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1193",
+        "category_id": "srv_cat_038",
+        "source_text": "брать",
+        "target_text": "take",
+        "hint": "взять",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1194",
+        "category_id": "srv_cat_038",
+        "source_text": "давать",
+        "target_text": "give",
+        "hint": "передать",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1195",
+        "category_id": "srv_cat_038",
+        "source_text": "видеть",
+        "target_text": "see",
+        "hint": "воспринимать глазами",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1196",
+        "category_id": "srv_cat_038",
+        "source_text": "слышать",
+        "target_text": "hear",
+        "hint": "воспринимать ушами",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1197",
+        "category_id": "srv_cat_038",
+        "source_text": "чувствовать",
+        "target_text": "feel",
+        "hint": "ощущать",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1198",
+        "category_id": "srv_cat_038",
+        "source_text": "думать",
+        "target_text": "think",
+        "hint": "размышлять",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1199",
+        "category_id": "srv_cat_038",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "038"
+    },
+    {
+        "id": "srv_word_1200",
+        "category_id": "srv_cat_038",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "осознавать",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "038"
+    }
+]
