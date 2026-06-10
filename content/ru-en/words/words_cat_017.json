@@ -1,0 +1,302 @@
+[
+    {
+        "id": "srv_word_0481",
+        "category_id": "srv_cat_017",
+        "source_text": "улица",
+        "target_text": "street",
+        "hint": "городская улица",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0482",
+        "category_id": "srv_cat_017",
+        "source_text": "дорога",
+        "target_text": "road",
+        "hint": "путь между городами",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0483",
+        "category_id": "srv_cat_017",
+        "source_text": "машина",
+        "target_text": "car",
+        "hint": "личное авто",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0484",
+        "category_id": "srv_cat_017",
+        "source_text": "автобус",
+        "target_text": "bus",
+        "hint": "общественный транспорт",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0485",
+        "category_id": "srv_cat_017",
+        "source_text": "поезд",
+        "target_text": "train",
+        "hint": "ездит по рельсам",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0486",
+        "category_id": "srv_cat_017",
+        "source_text": "такси",
+        "target_text": "taxi",
+        "hint": "платная поездка",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0487",
+        "category_id": "srv_cat_017",
+        "source_text": "велосипед",
+        "target_text": "bike",
+        "hint": "ездят на педалях",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0488",
+        "category_id": "srv_cat_017",
+        "source_text": "метро",
+        "target_text": "subway",
+        "hint": "подземный транспорт",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0489",
+        "category_id": "srv_cat_017",
+        "source_text": "самолёт",
+        "target_text": "plane",
+        "hint": "летает в небе",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0490",
+        "category_id": "srv_cat_017",
+        "source_text": "лодка",
+        "target_text": "boat",
+        "hint": "плавает по воде",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0491",
+        "category_id": "srv_cat_017",
+        "source_text": "станция",
+        "target_text": "station",
+        "hint": "остановка транспорта",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0492",
+        "category_id": "srv_cat_017",
+        "source_text": "магазин",
+        "target_text": "shop",
+        "hint": "покупают товары",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0493",
+        "category_id": "srv_cat_017",
+        "source_text": "супермаркет",
+        "target_text": "supermarket",
+        "hint": "большой магазин",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0494",
+        "category_id": "srv_cat_017",
+        "source_text": "кафе",
+        "target_text": "cafe",
+        "hint": "едят и пьют",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0495",
+        "category_id": "srv_cat_017",
+        "source_text": "парк",
+        "target_text": "park",
+        "hint": "отдыхают на природе",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0496",
+        "category_id": "srv_cat_017",
+        "source_text": "мост",
+        "target_text": "bridge",
+        "hint": "переходят реку",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0497",
+        "category_id": "srv_cat_017",
+        "source_text": "водитель",
+        "target_text": "driver",
+        "hint": "управляет машиной",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0498",
+        "category_id": "srv_cat_017",
+        "source_text": "билет",
+        "target_text": "ticket",
+        "hint": "платят за проезд",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0499",
+        "category_id": "srv_cat_017",
+        "source_text": "аэропорт",
+        "target_text": "airport",
+        "hint": "летают самолёты",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0500",
+        "category_id": "srv_cat_017",
+        "source_text": "отель",
+        "target_text": "hotel",
+        "hint": "живут туристы",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0501",
+        "category_id": "srv_cat_017",
+        "source_text": "ресторан",
+        "target_text": "restaurant",
+        "hint": "едят вне дома",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0502",
+        "category_id": "srv_cat_017",
+        "source_text": "банк",
+        "target_text": "bank",
+        "hint": "хранят деньги",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0503",
+        "category_id": "srv_cat_017",
+        "source_text": "больница",
+        "target_text": "hospital",
+        "hint": "лечат людей",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0504",
+        "category_id": "srv_cat_017",
+        "source_text": "школа",
+        "target_text": "school",
+        "hint": "учатся дети",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0505",
+        "category_id": "srv_cat_017",
+        "source_text": "дом",
+        "target_text": "house",
+        "hint": "живут люди",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0506",
+        "category_id": "srv_cat_017",
+        "source_text": "офис",
+        "target_text": "office",
+        "hint": "работают люди",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0507",
+        "category_id": "srv_cat_017",
+        "source_text": "музей",
+        "target_text": "museum",
+        "hint": "хранят экспонаты",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0508",
+        "category_id": "srv_cat_017",
+        "source_text": "кинотеатр",
+        "target_text": "cinema",
+        "hint": "смотрят фильмы",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0509",
+        "category_id": "srv_cat_017",
+        "source_text": "библиотека",
+        "target_text": "library",
+        "hint": "берут книги",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "017"
+    },
+    {
+        "id": "srv_word_0510",
+        "category_id": "srv_cat_017",
+        "source_text": "туалет",
+        "target_text": "toilet",
+        "hint": "комната для нужд",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "017"
+    }
+]
