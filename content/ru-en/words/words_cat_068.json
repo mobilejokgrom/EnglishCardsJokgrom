@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2651",
+        "category_id": "srv_cat_068",
+        "source_text": "сказать",
+        "target_text": "say",
+        "hint": "произнести слова",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2652",
+        "category_id": "srv_cat_068",
+        "source_text": "рассказать",
+        "target_text": "tell",
+        "hint": "сообщить информацию",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2653",
+        "category_id": "srv_cat_068",
+        "source_text": "говорить",
+        "target_text": "speak",
+        "hint": "произносить речь",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2654",
+        "category_id": "srv_cat_068",
+        "source_text": "разговаривать",
+        "target_text": "talk",
+        "hint": "общаться словами",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2655",
+        "category_id": "srv_cat_068",
+        "source_text": "спросить",
+        "target_text": "ask",
+        "hint": "задать вопрос",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2656",
+        "category_id": "srv_cat_068",
+        "source_text": "ответить",
+        "target_text": "answer",
+        "hint": "дать ответ",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2657",
+        "category_id": "srv_cat_068",
+        "source_text": "звонить",
+        "target_text": "call",
+        "hint": "связаться по телефону",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2658",
+        "category_id": "srv_cat_068",
+        "source_text": "писать",
+        "target_text": "write",
+        "hint": "создавать текст",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2659",
+        "category_id": "srv_cat_068",
+        "source_text": "читать",
+        "target_text": "read",
+        "hint": "воспринимать текст",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2660",
+        "category_id": "srv_cat_068",
+        "source_text": "слушать",
+        "target_text": "listen",
+        "hint": "внимательно слышать",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2661",
+        "category_id": "srv_cat_068",
+        "source_text": "слышать",
+        "target_text": "hear",
+        "hint": "воспринимать ушами",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2662",
+        "category_id": "srv_cat_068",
+        "source_text": "кричать",
+        "target_text": "shout",
+        "hint": "говорить громко",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2663",
+        "category_id": "srv_cat_068",
+        "source_text": "шептать",
+        "target_text": "whisper",
+        "hint": "говорить тихо",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2664",
+        "category_id": "srv_cat_068",
+        "source_text": "объяснять",
+        "target_text": "explain",
+        "hint": "делать понятным",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2665",
+        "category_id": "srv_cat_068",
+        "source_text": "описывать",
+        "target_text": "describe",
+        "hint": "рассказывать подробно",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2666",
+        "category_id": "srv_cat_068",
+        "source_text": "упоминать",
+        "target_text": "mention",
+        "hint": "говорить вскользь",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2667",
+        "category_id": "srv_cat_068",
+        "source_text": "предлагать",
+        "target_text": "suggest",
+        "hint": "давать идею",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2668",
+        "category_id": "srv_cat_068",
+        "source_text": "обсуждать",
+        "target_text": "discuss",
+        "hint": "говорить о теме",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2669",
+        "category_id": "srv_cat_068",
+        "source_text": "приветствовать",
+        "target_text": "greet",
+        "hint": "говорить привет",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2670",
+        "category_id": "srv_cat_068",
+        "source_text": "приветствовать",
+        "target_text": "welcome",
+        "hint": "встречать гостя",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2671",
+        "category_id": "srv_cat_068",
+        "source_text": "приглашать",
+        "target_text": "invite",
+        "hint": "звать куда-то",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2672",
+        "category_id": "srv_cat_068",
+        "source_text": "представлять",
+        "target_text": "introduce",
+        "hint": "знакомить людей",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2673",
+        "category_id": "srv_cat_068",
+        "source_text": "благодарить",
+        "target_text": "thank",
+        "hint": "говорить спасибо",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2674",
+        "category_id": "srv_cat_068",
+        "source_text": "извиняться",
+        "target_text": "apologize",
+        "hint": "просить прощения",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2675",
+        "category_id": "srv_cat_068",
+        "source_text": "обещать",
+        "target_text": "promise",
+        "hint": "гарантировать что-то",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2676",
+        "category_id": "srv_cat_068",
+        "source_text": "предупреждать",
+        "target_text": "warn",
+        "hint": "говорить об опасности",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2677",
+        "category_id": "srv_cat_068",
+        "source_text": "советовать",
+        "target_text": "advise",
+        "hint": "давать совет",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2678",
+        "category_id": "srv_cat_068",
+        "source_text": "соглашаться",
+        "target_text": "agree",
+        "hint": "быть за",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2679",
+        "category_id": "srv_cat_068",
+        "source_text": "не соглашаться",
+        "target_text": "disagree",
+        "hint": "быть против",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2680",
+        "category_id": "srv_cat_068",
+        "source_text": "спорить",
+        "target_text": "argue",
+        "hint": "выражать несогласие",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2681",
+        "category_id": "srv_cat_068",
+        "source_text": "жаловаться",
+        "target_text": "complain",
+        "hint": "выражать недовольство",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2682",
+        "category_id": "srv_cat_068",
+        "source_text": "отказываться",
+        "target_text": "refuse",
+        "hint": "говорить нет",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2683",
+        "category_id": "srv_cat_068",
+        "source_text": "принимать",
+        "target_text": "accept",
+        "hint": "соглашаться",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2684",
+        "category_id": "srv_cat_068",
+        "source_text": "отрицать",
+        "target_text": "deny",
+        "hint": "говорить что не так",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2685",
+        "category_id": "srv_cat_068",
+        "source_text": "признавать",
+        "target_text": "admit",
+        "hint": "соглашаться с правдой",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2686",
+        "category_id": "srv_cat_068",
+        "source_text": "отвечать",
+        "target_text": "reply",
+        "hint": "давать ответ",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2687",
+        "category_id": "srv_cat_068",
+        "source_text": "повторять",
+        "target_text": "repeat",
+        "hint": "говорить снова",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2688",
+        "category_id": "srv_cat_068",
+        "source_text": "произносить",
+        "target_text": "pronounce",
+        "hint": "говорить звук",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2689",
+        "category_id": "srv_cat_068",
+        "source_text": "переводить",
+        "target_text": "translate",
+        "hint": "менять язык",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2690",
+        "category_id": "srv_cat_068",
+        "source_text": "общаться",
+        "target_text": "communicate",
+        "hint": "обмениваться информацией",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2691",
+        "category_id": "srv_cat_068",
+        "source_text": "выражать",
+        "target_text": "express",
+        "hint": "показывать чувства",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2692",
+        "category_id": "srv_cat_068",
+        "source_text": "информировать",
+        "target_text": "inform",
+        "hint": "сообщать факты",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2693",
+        "category_id": "srv_cat_068",
+        "source_text": "объявлять",
+        "target_text": "announce",
+        "hint": "сообщать публично",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2694",
+        "category_id": "srv_cat_068",
+        "source_text": "заявлять",
+        "target_text": "declare",
+        "hint": "официально говорить",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2695",
+        "category_id": "srv_cat_068",
+        "source_text": "подтверждать",
+        "target_text": "confirm",
+        "hint": "говорить что верно",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2696",
+        "category_id": "srv_cat_068",
+        "source_text": "отклонять",
+        "target_text": "reject",
+        "hint": "говорить что неверно",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2697",
+        "category_id": "srv_cat_068",
+        "source_text": "убеждать",
+        "target_text": "persuade",
+        "hint": "убедить согласиться",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2698",
+        "category_id": "srv_cat_068",
+        "source_text": "убедить",
+        "target_text": "convince",
+        "hint": "доказать правоту",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2699",
+        "category_id": "srv_cat_068",
+        "source_text": "доказывать",
+        "target_text": "prove",
+        "hint": "приводить аргументы",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "068"
+    },
+    {
+        "id": "srv_word_2700",
+        "category_id": "srv_cat_068",
+        "source_text": "договариваться",
+        "target_text": "negotiate",
+        "hint": "обсуждать условия",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "068"
+    }
+]
