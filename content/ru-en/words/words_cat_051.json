@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1801",
+        "category_id": "srv_cat_051",
+        "source_text": "одежда",
+        "target_text": "clothes",
+        "hint": "общее название",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1802",
+        "category_id": "srv_cat_051",
+        "source_text": "рубашка",
+        "target_text": "shirt",
+        "hint": "носят на торс",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1803",
+        "category_id": "srv_cat_051",
+        "source_text": "футболка",
+        "target_text": "t-shirt",
+        "hint": "повседневная одежда",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1804",
+        "category_id": "srv_cat_051",
+        "source_text": "блузка",
+        "target_text": "blouse",
+        "hint": "женская рубашка",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1805",
+        "category_id": "srv_cat_051",
+        "source_text": "свитер",
+        "target_text": "sweater",
+        "hint": "тёплая вязаная",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1806",
+        "category_id": "srv_cat_051",
+        "source_text": "худи",
+        "target_text": "hoodie",
+        "hint": "с капюшоном",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1807",
+        "category_id": "srv_cat_051",
+        "source_text": "куртка",
+        "target_text": "jacket",
+        "hint": "верхняя одежда",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1808",
+        "category_id": "srv_cat_051",
+        "source_text": "пальто",
+        "target_text": "coat",
+        "hint": "тёплая зимняя",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1809",
+        "category_id": "srv_cat_051",
+        "source_text": "дождевик",
+        "target_text": "raincoat",
+        "hint": "защита от дождя",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1810",
+        "category_id": "srv_cat_051",
+        "source_text": "брюки",
+        "target_text": "pants",
+        "hint": "носят на ноги",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1811",
+        "category_id": "srv_cat_051",
+        "source_text": "джинсы",
+        "target_text": "jeans",
+        "hint": "плотные брюки",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1812",
+        "category_id": "srv_cat_051",
+        "source_text": "шорты",
+        "target_text": "shorts",
+        "hint": "короткие брюки",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1813",
+        "category_id": "srv_cat_051",
+        "source_text": "юбка",
+        "target_text": "skirt",
+        "hint": "женская одежда",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1814",
+        "category_id": "srv_cat_051",
+        "source_text": "платье",
+        "target_text": "dress",
+        "hint": "женская одежда",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1815",
+        "category_id": "srv_cat_051",
+        "source_text": "костюм",
+        "target_text": "suit",
+        "hint": "пиджак и брюки",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1816",
+        "category_id": "srv_cat_051",
+        "source_text": "форма",
+        "target_text": "uniform",
+        "hint": "для работы\/школы",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1817",
+        "category_id": "srv_cat_051",
+        "source_text": "пижама",
+        "target_text": "pajamas",
+        "hint": "одежда для сна",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1818",
+        "category_id": "srv_cat_051",
+        "source_text": "нижнее бельё",
+        "target_text": "underwear",
+        "hint": "под одеждой",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1819",
+        "category_id": "srv_cat_051",
+        "source_text": "носки",
+        "target_text": "socks",
+        "hint": "надевают на ноги",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1820",
+        "category_id": "srv_cat_051",
+        "source_text": "туфли\/обувь",
+        "target_text": "shoes",
+        "hint": "носят на ногах",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1821",
+        "category_id": "srv_cat_051",
+        "source_text": "сапоги\/ботинки",
+        "target_text": "boots",
+        "hint": "высокая обувь",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1822",
+        "category_id": "srv_cat_051",
+        "source_text": "кроссовки",
+        "target_text": "sneakers",
+        "hint": "спортивная обувь",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1823",
+        "category_id": "srv_cat_051",
+        "source_text": "сандалии",
+        "target_text": "sandals",
+        "hint": "открытая летняя",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1824",
+        "category_id": "srv_cat_051",
+        "source_text": "тапочки",
+        "target_text": "slippers",
+        "hint": "домашняя обувь",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1825",
+        "category_id": "srv_cat_051",
+        "source_text": "шляпа\/шапка",
+        "target_text": "hat",
+        "hint": "носят на голове",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1826",
+        "category_id": "srv_cat_051",
+        "source_text": "кепка",
+        "target_text": "cap",
+        "hint": "с козырьком",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1827",
+        "category_id": "srv_cat_051",
+        "source_text": "шарф",
+        "target_text": "scarf",
+        "hint": "греет шею",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1828",
+        "category_id": "srv_cat_051",
+        "source_text": "перчатки",
+        "target_text": "gloves",
+        "hint": "надевают на руки",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1829",
+        "category_id": "srv_cat_051",
+        "source_text": "ремень",
+        "target_text": "belt",
+        "hint": "держит брюки",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1830",
+        "category_id": "srv_cat_051",
+        "source_text": "галстук",
+        "target_text": "tie",
+        "hint": "носят с рубашкой",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1831",
+        "category_id": "srv_cat_051",
+        "source_text": "солнечные очки",
+        "target_text": "sunglasses",
+        "hint": "защита от солнца",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1832",
+        "category_id": "srv_cat_051",
+        "source_text": "наручные часы",
+        "target_text": "watch",
+        "hint": "показывают время",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1833",
+        "category_id": "srv_cat_051",
+        "source_text": "украшения",
+        "target_text": "jewelry",
+        "hint": "для красоты",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1834",
+        "category_id": "srv_cat_051",
+        "source_text": "кольцо",
+        "target_text": "ring",
+        "hint": "надевают на палец",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1835",
+        "category_id": "srv_cat_051",
+        "source_text": "ожерелье\/цепочка",
+        "target_text": "necklace",
+        "hint": "на шею",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1836",
+        "category_id": "srv_cat_051",
+        "source_text": "браслет",
+        "target_text": "bracelet",
+        "hint": "на руку",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1837",
+        "category_id": "srv_cat_051",
+        "source_text": "серьги",
+        "target_text": "earrings",
+        "hint": "в уши",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1838",
+        "category_id": "srv_cat_051",
+        "source_text": "сумка",
+        "target_text": "bag",
+        "hint": "носят вещи",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1839",
+        "category_id": "srv_cat_051",
+        "source_text": "рюкзак",
+        "target_text": "backpack",
+        "hint": "носят за спиной",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1840",
+        "category_id": "srv_cat_051",
+        "source_text": "кошелёк\/дамская сумка",
+        "target_text": "purse",
+        "hint": "для денег",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1841",
+        "category_id": "srv_cat_051",
+        "source_text": "кошелёк",
+        "target_text": "wallet",
+        "hint": "мужской, для денег",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1842",
+        "category_id": "srv_cat_051",
+        "source_text": "зонт",
+        "target_text": "umbrella",
+        "hint": "защита от дождя",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1843",
+        "category_id": "srv_cat_051",
+        "source_text": "пуговица",
+        "target_text": "button",
+        "hint": "застёжка на одежде",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1844",
+        "category_id": "srv_cat_051",
+        "source_text": "карман",
+        "target_text": "pocket",
+        "hint": "в одежде",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1845",
+        "category_id": "srv_cat_051",
+        "source_text": "молния",
+        "target_text": "zipper",
+        "hint": "застёжка",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1846",
+        "category_id": "srv_cat_051",
+        "source_text": "очки",
+        "target_text": "glasses",
+        "hint": "для улучшения зрения",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1847",
+        "category_id": "srv_cat_051",
+        "source_text": "ткань",
+        "target_text": "fabric",
+        "hint": "материал одежды",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1848",
+        "category_id": "srv_cat_051",
+        "source_text": "хлопок",
+        "target_text": "cotton",
+        "hint": "натуральная ткань",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1849",
+        "category_id": "srv_cat_051",
+        "source_text": "кожа",
+        "target_text": "leather",
+        "hint": "материал обуви\/сумок",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "051"
+    },
+    {
+        "id": "srv_word_1850",
+        "category_id": "srv_cat_051",
+        "source_text": "размер",
+        "target_text": "size",
+        "hint": "одежды\/обуви",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "051"
+    }
+]
