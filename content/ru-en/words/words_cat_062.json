@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2351",
+        "category_id": "srv_cat_062",
+        "source_text": "животное",
+        "target_text": "animal",
+        "hint": "общее название",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2352",
+        "category_id": "srv_cat_062",
+        "source_text": "питомец",
+        "target_text": "pet",
+        "hint": "домашнее животное",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2353",
+        "category_id": "srv_cat_062",
+        "source_text": "собака",
+        "target_text": "dog",
+        "hint": "домашний питомец",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2354",
+        "category_id": "srv_cat_062",
+        "source_text": "кошка",
+        "target_text": "cat",
+        "hint": "ловит мышей",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2355",
+        "category_id": "srv_cat_062",
+        "source_text": "птица",
+        "target_text": "bird",
+        "hint": "летает в небе",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2356",
+        "category_id": "srv_cat_062",
+        "source_text": "рыба",
+        "target_text": "fish",
+        "hint": "живёт в воде",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2357",
+        "category_id": "srv_cat_062",
+        "source_text": "лошадь",
+        "target_text": "horse",
+        "hint": "ездят верхом",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2358",
+        "category_id": "srv_cat_062",
+        "source_text": "корова",
+        "target_text": "cow",
+        "hint": "даёт молоко",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2359",
+        "category_id": "srv_cat_062",
+        "source_text": "свинья",
+        "target_text": "pig",
+        "hint": "домашнее животное",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2360",
+        "category_id": "srv_cat_062",
+        "source_text": "овца",
+        "target_text": "sheep",
+        "hint": "даёт шерсть",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2361",
+        "category_id": "srv_cat_062",
+        "source_text": "коза",
+        "target_text": "goat",
+        "hint": "ест траву",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2362",
+        "category_id": "srv_cat_062",
+        "source_text": "курица",
+        "target_text": "chicken",
+        "hint": "несёт яйца",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2363",
+        "category_id": "srv_cat_062",
+        "source_text": "утка",
+        "target_text": "duck",
+        "hint": "плавает в пруду",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2364",
+        "category_id": "srv_cat_062",
+        "source_text": "кролик",
+        "target_text": "rabbit",
+        "hint": "прыгает ест морковь",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2365",
+        "category_id": "srv_cat_062",
+        "source_text": "мышь",
+        "target_text": "mouse",
+        "hint": "маленький грызун",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2366",
+        "category_id": "srv_cat_062",
+        "source_text": "медведь",
+        "target_text": "bear",
+        "hint": "живёт в лесу",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2367",
+        "category_id": "srv_cat_062",
+        "source_text": "волк",
+        "target_text": "wolf",
+        "hint": "воет на луну",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2368",
+        "category_id": "srv_cat_062",
+        "source_text": "лиса",
+        "target_text": "fox",
+        "hint": "хитрый хищник",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2369",
+        "category_id": "srv_cat_062",
+        "source_text": "олень",
+        "target_text": "deer",
+        "hint": "носит рога",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2370",
+        "category_id": "srv_cat_062",
+        "source_text": "слон",
+        "target_text": "elephant",
+        "hint": "большой с хоботом",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2371",
+        "category_id": "srv_cat_062",
+        "source_text": "лев",
+        "target_text": "lion",
+        "hint": "царь зверей",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2372",
+        "category_id": "srv_cat_062",
+        "source_text": "тигр",
+        "target_text": "tiger",
+        "hint": "полосатый хищник",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2373",
+        "category_id": "srv_cat_062",
+        "source_text": "обезьяна",
+        "target_text": "monkey",
+        "hint": "лазит по деревьям",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2374",
+        "category_id": "srv_cat_062",
+        "source_text": "змея",
+        "target_text": "snake",
+        "hint": "ползает без ног",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2375",
+        "category_id": "srv_cat_062",
+        "source_text": "лягушка",
+        "target_text": "frog",
+        "hint": "прыгает квакает",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2376",
+        "category_id": "srv_cat_062",
+        "source_text": "бабочка",
+        "target_text": "butterfly",
+        "hint": "летает красивая",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2377",
+        "category_id": "srv_cat_062",
+        "source_text": "пчела",
+        "target_text": "bee",
+        "hint": "делает мёд",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2378",
+        "category_id": "srv_cat_062",
+        "source_text": "паук",
+        "target_text": "spider",
+        "hint": "плетёт паутину",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2379",
+        "category_id": "srv_cat_062",
+        "source_text": "муравей",
+        "target_text": "ant",
+        "hint": "маленький трудолюбивый",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2380",
+        "category_id": "srv_cat_062",
+        "source_text": "муха",
+        "target_text": "fly",
+        "hint": "летает жужжит",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2381",
+        "category_id": "srv_cat_062",
+        "source_text": "москит",
+        "target_text": "mosquito",
+        "hint": "кусает пьёт кровь",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2382",
+        "category_id": "srv_cat_062",
+        "source_text": "кит",
+        "target_text": "whale",
+        "hint": "большое морское животное",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2383",
+        "category_id": "srv_cat_062",
+        "source_text": "дельфин",
+        "target_text": "dolphin",
+        "hint": "умный морской зверь",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2384",
+        "category_id": "srv_cat_062",
+        "source_text": "акула",
+        "target_text": "shark",
+        "hint": "опасная рыба",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2385",
+        "category_id": "srv_cat_062",
+        "source_text": "орёл",
+        "target_text": "eagle",
+        "hint": "большая птица",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2386",
+        "category_id": "srv_cat_062",
+        "source_text": "сова",
+        "target_text": "owl",
+        "hint": "ночная птица",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2387",
+        "category_id": "srv_cat_062",
+        "source_text": "попугай",
+        "target_text": "parrot",
+        "hint": "говорит яркая птица",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2388",
+        "category_id": "srv_cat_062",
+        "source_text": "пингвин",
+        "target_text": "penguin",
+        "hint": "не летает живёт на льду",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2389",
+        "category_id": "srv_cat_062",
+        "source_text": "верблюд",
+        "target_text": "camel",
+        "hint": "живёт в пустыне",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2390",
+        "category_id": "srv_cat_062",
+        "source_text": "кенгуру",
+        "target_text": "kangaroo",
+        "hint": "прыгает с сумкой",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2391",
+        "category_id": "srv_cat_062",
+        "source_text": "жираф",
+        "target_text": "giraffe",
+        "hint": "самое высокое животное",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2392",
+        "category_id": "srv_cat_062",
+        "source_text": "зебра",
+        "target_text": "zebra",
+        "hint": "чёрно-белая лошадь",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2393",
+        "category_id": "srv_cat_062",
+        "source_text": "панда",
+        "target_text": "panda",
+        "hint": "ест бамбук",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2394",
+        "category_id": "srv_cat_062",
+        "source_text": "черепаха",
+        "target_text": "turtle",
+        "hint": "носит панцирь",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2395",
+        "category_id": "srv_cat_062",
+        "source_text": "крокодил",
+        "target_text": "crocodile",
+        "hint": "живёт в реке",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2396",
+        "category_id": "srv_cat_062",
+        "source_text": "насекомое",
+        "target_text": "insect",
+        "hint": "маленькое существо",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2397",
+        "category_id": "srv_cat_062",
+        "source_text": "дикая природа",
+        "target_text": "wildlife",
+        "hint": "дикие животные",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2398",
+        "category_id": "srv_cat_062",
+        "source_text": "зоопарк",
+        "target_text": "zoo",
+        "hint": "где живут животные",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2399",
+        "category_id": "srv_cat_062",
+        "source_text": "ферма",
+        "target_text": "farm",
+        "hint": "где живут домашние животные",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "062"
+    },
+    {
+        "id": "srv_word_2400",
+        "category_id": "srv_cat_062",
+        "source_text": "клетка",
+        "target_text": "cage",
+        "hint": "где держат животных",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "062"
+    }
+]
