@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2301",
+        "category_id": "srv_cat_061",
+        "source_text": "солнце",
+        "target_text": "sun",
+        "hint": "светит днём",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2302",
+        "category_id": "srv_cat_061",
+        "source_text": "луна",
+        "target_text": "moon",
+        "hint": "светит ночью",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2303",
+        "category_id": "srv_cat_061",
+        "source_text": "звезда",
+        "target_text": "star",
+        "hint": "мерцает в небе",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2304",
+        "category_id": "srv_cat_061",
+        "source_text": "небо",
+        "target_text": "sky",
+        "hint": "над головой",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2305",
+        "category_id": "srv_cat_061",
+        "source_text": "облако",
+        "target_text": "cloud",
+        "hint": "плывёт по небу",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2306",
+        "category_id": "srv_cat_061",
+        "source_text": "дождь",
+        "target_text": "rain",
+        "hint": "падает с неба",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2307",
+        "category_id": "srv_cat_061",
+        "source_text": "снег",
+        "target_text": "snow",
+        "hint": "белый, холодный",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2308",
+        "category_id": "srv_cat_061",
+        "source_text": "ветер",
+        "target_text": "wind",
+        "hint": "движет воздух",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2309",
+        "category_id": "srv_cat_061",
+        "source_text": "шторм",
+        "target_text": "storm",
+        "hint": "сильная погода",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2310",
+        "category_id": "srv_cat_061",
+        "source_text": "туман",
+        "target_text": "fog",
+        "hint": "плохая видимость",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2311",
+        "category_id": "srv_cat_061",
+        "source_text": "радуга",
+        "target_text": "rainbow",
+        "hint": "после дождя",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2312",
+        "category_id": "srv_cat_061",
+        "source_text": "гром",
+        "target_text": "thunder",
+        "hint": "звук во время грозы",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2313",
+        "category_id": "srv_cat_061",
+        "source_text": "молния",
+        "target_text": "lightning",
+        "hint": "вспышка в небе",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2314",
+        "category_id": "srv_cat_061",
+        "source_text": "лёд",
+        "target_text": "ice",
+        "hint": "замёрзшая вода",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2315",
+        "category_id": "srv_cat_061",
+        "source_text": "мороз",
+        "target_text": "frost",
+        "hint": "холодное утро",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2316",
+        "category_id": "srv_cat_061",
+        "source_text": "дерево",
+        "target_text": "tree",
+        "hint": "растёт в лесу",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2317",
+        "category_id": "srv_cat_061",
+        "source_text": "цветок",
+        "target_text": "flower",
+        "hint": "красиво пахнет",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2318",
+        "category_id": "srv_cat_061",
+        "source_text": "трава",
+        "target_text": "grass",
+        "hint": "зелёный покров",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2319",
+        "category_id": "srv_cat_061",
+        "source_text": "лист",
+        "target_text": "leaf",
+        "hint": "часть дерева",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2320",
+        "category_id": "srv_cat_061",
+        "source_text": "лес",
+        "target_text": "forest",
+        "hint": "много деревьев",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2321",
+        "category_id": "srv_cat_061",
+        "source_text": "река",
+        "target_text": "river",
+        "hint": "течёт вода",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2322",
+        "category_id": "srv_cat_061",
+        "source_text": "озеро",
+        "target_text": "lake",
+        "hint": "стоячая вода",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2323",
+        "category_id": "srv_cat_061",
+        "source_text": "море",
+        "target_text": "sea",
+        "hint": "большая вода",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2324",
+        "category_id": "srv_cat_061",
+        "source_text": "океан",
+        "target_text": "ocean",
+        "hint": "очень большая вода",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2325",
+        "category_id": "srv_cat_061",
+        "source_text": "гора",
+        "target_text": "mountain",
+        "hint": "высокая земля",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2326",
+        "category_id": "srv_cat_061",
+        "source_text": "холм",
+        "target_text": "hill",
+        "hint": "невысокая гора",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2327",
+        "category_id": "srv_cat_061",
+        "source_text": "камень",
+        "target_text": "rock",
+        "hint": "твёрдая порода",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2328",
+        "category_id": "srv_cat_061",
+        "source_text": "песок",
+        "target_text": "sand",
+        "hint": "на пляже",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2329",
+        "category_id": "srv_cat_061",
+        "source_text": "пляж",
+        "target_text": "beach",
+        "hint": "отдых у воды",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2330",
+        "category_id": "srv_cat_061",
+        "source_text": "остров",
+        "target_text": "island",
+        "hint": "земля в воде",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2331",
+        "category_id": "srv_cat_061",
+        "source_text": "водопад",
+        "target_text": "waterfall",
+        "hint": "вода падает",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2332",
+        "category_id": "srv_cat_061",
+        "source_text": "долина",
+        "target_text": "valley",
+        "hint": "между горами",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2333",
+        "category_id": "srv_cat_061",
+        "source_text": "поле",
+        "target_text": "field",
+        "hint": "открытая земля",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2334",
+        "category_id": "srv_cat_061",
+        "source_text": "земля",
+        "target_text": "earth",
+        "hint": "планета, почва",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2335",
+        "category_id": "srv_cat_061",
+        "source_text": "вода",
+        "target_text": "water",
+        "hint": "жидкость для питья",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2336",
+        "category_id": "srv_cat_061",
+        "source_text": "воздух",
+        "target_text": "air",
+        "hint": "дышим им",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2337",
+        "category_id": "srv_cat_061",
+        "source_text": "огонь",
+        "target_text": "fire",
+        "hint": "горит, греет",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2338",
+        "category_id": "srv_cat_061",
+        "source_text": "погода",
+        "target_text": "weather",
+        "hint": "состояние атмосферы",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2339",
+        "category_id": "srv_cat_061",
+        "source_text": "температура",
+        "target_text": "temperature",
+        "hint": "градусы тепла",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2340",
+        "category_id": "srv_cat_061",
+        "source_text": "сезон",
+        "target_text": "season",
+        "hint": "время года",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2341",
+        "category_id": "srv_cat_061",
+        "source_text": "весна",
+        "target_text": "spring",
+        "hint": "цветут цветы",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2342",
+        "category_id": "srv_cat_061",
+        "source_text": "лето",
+        "target_text": "summer",
+        "hint": "тёплое время",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2343",
+        "category_id": "srv_cat_061",
+        "source_text": "осень",
+        "target_text": "autumn",
+        "hint": "желтеют листья",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2344",
+        "category_id": "srv_cat_061",
+        "source_text": "зима",
+        "target_text": "winter",
+        "hint": "холодно и снег",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2345",
+        "category_id": "srv_cat_061",
+        "source_text": "климат",
+        "target_text": "climate",
+        "hint": "погода в регионе",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2346",
+        "category_id": "srv_cat_061",
+        "source_text": "окружающая среда",
+        "target_text": "environment",
+        "hint": "природа вокруг",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2347",
+        "category_id": "srv_cat_061",
+        "source_text": "загрязнение",
+        "target_text": "pollution",
+        "hint": "грязный воздух\/вода",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2348",
+        "category_id": "srv_cat_061",
+        "source_text": "природа",
+        "target_text": "nature",
+        "hint": "всё живое",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2349",
+        "category_id": "srv_cat_061",
+        "source_text": "пейзаж",
+        "target_text": "landscape",
+        "hint": "вид природы",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "061"
+    },
+    {
+        "id": "srv_word_2350",
+        "category_id": "srv_cat_061",
+        "source_text": "растение",
+        "target_text": "plant",
+        "hint": "растёт в земле",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "061"
+    }
+]
