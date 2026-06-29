@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2201",
+        "category_id": "srv_cat_059",
+        "source_text": "новый",
+        "target_text": "new",
+        "hint": "только что появился",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2202",
+        "category_id": "srv_cat_059",
+        "source_text": "старый",
+        "target_text": "old",
+        "hint": "был давно",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2203",
+        "category_id": "srv_cat_059",
+        "source_text": "свежий",
+        "target_text": "fresh",
+        "hint": "только что сделан",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2204",
+        "category_id": "srv_cat_059",
+        "source_text": "молодой",
+        "target_text": "young",
+        "hint": "не старый",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2205",
+        "category_id": "srv_cat_059",
+        "source_text": "первый",
+        "target_text": "first",
+        "hint": "начало порядка",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2206",
+        "category_id": "srv_cat_059",
+        "source_text": "последний",
+        "target_text": "last",
+        "hint": "конец порядка",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2207",
+        "category_id": "srv_cat_059",
+        "source_text": "следующий",
+        "target_text": "next",
+        "hint": "после этого",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2208",
+        "category_id": "srv_cat_059",
+        "source_text": "предыдущий",
+        "target_text": "previous",
+        "hint": "перед этим",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2209",
+        "category_id": "srv_cat_059",
+        "source_text": "ранний",
+        "target_text": "early",
+        "hint": "в начале периода",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2210",
+        "category_id": "srv_cat_059",
+        "source_text": "поздний",
+        "target_text": "late",
+        "hint": "в конце периода",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2211",
+        "category_id": "srv_cat_059",
+        "source_text": "недавний",
+        "target_text": "recent",
+        "hint": "не так давно",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2212",
+        "category_id": "srv_cat_059",
+        "source_text": "текущий",
+        "target_text": "current",
+        "hint": "сейчас происходит",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2213",
+        "category_id": "srv_cat_059",
+        "source_text": "будущий",
+        "target_text": "future",
+        "hint": "будет потом",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2214",
+        "category_id": "srv_cat_059",
+        "source_text": "прошлый",
+        "target_text": "past",
+        "hint": "был раньше",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2215",
+        "category_id": "srv_cat_059",
+        "source_text": "настоящий",
+        "target_text": "present",
+        "hint": "сейчас",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2216",
+        "category_id": "srv_cat_059",
+        "source_text": "современный",
+        "target_text": "modern",
+        "hint": "сейчас актуально",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2217",
+        "category_id": "srv_cat_059",
+        "source_text": "древний",
+        "target_text": "ancient",
+        "hint": "очень старый",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2218",
+        "category_id": "srv_cat_059",
+        "source_text": "новейший",
+        "target_text": "latest",
+        "hint": "самый последний",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2219",
+        "category_id": "srv_cat_059",
+        "source_text": "оригинальный",
+        "target_text": "original",
+        "hint": "первый, настоящий",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2220",
+        "category_id": "srv_cat_059",
+        "source_text": "уникальный",
+        "target_text": "unique",
+        "hint": "только один такой",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2221",
+        "category_id": "srv_cat_059",
+        "source_text": "одинаковый",
+        "target_text": "same",
+        "hint": "не отличается",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2222",
+        "category_id": "srv_cat_059",
+        "source_text": "другой",
+        "target_text": "different",
+        "hint": "не такой же",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2223",
+        "category_id": "srv_cat_059",
+        "source_text": "похожий",
+        "target_text": "similar",
+        "hint": "почти одинаковый",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2224",
+        "category_id": "srv_cat_059",
+        "source_text": "регулярный",
+        "target_text": "regular",
+        "hint": "по порядку",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2225",
+        "category_id": "srv_cat_059",
+        "source_text": "нормальный",
+        "target_text": "normal",
+        "hint": "как обычно",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2226",
+        "category_id": "srv_cat_059",
+        "source_text": "обычный",
+        "target_text": "usual",
+        "hint": "как всегда",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2227",
+        "category_id": "srv_cat_059",
+        "source_text": "странный",
+        "target_text": "strange",
+        "hint": "не как обычно",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2228",
+        "category_id": "srv_cat_059",
+        "source_text": "базовый",
+        "target_text": "basic",
+        "hint": "основной, простой",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2229",
+        "category_id": "srv_cat_059",
+        "source_text": "распространённый",
+        "target_text": "common",
+        "hint": "часто встречается",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2230",
+        "category_id": "srv_cat_059",
+        "source_text": "редкий",
+        "target_text": "rare",
+        "hint": "мало встречается",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2231",
+        "category_id": "srv_cat_059",
+        "source_text": "типичный",
+        "target_text": "typical",
+        "hint": "характерный",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2232",
+        "category_id": "srv_cat_059",
+        "source_text": "финальный",
+        "target_text": "final",
+        "hint": "в самом конце",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2233",
+        "category_id": "srv_cat_059",
+        "source_text": "начальный",
+        "target_text": "initial",
+        "hint": "в самом начале",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2234",
+        "category_id": "srv_cat_059",
+        "source_text": "предшествующий",
+        "target_text": "before",
+        "hint": "до чего-то",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2235",
+        "category_id": "srv_cat_059",
+        "source_text": "последующий",
+        "target_text": "later",
+        "hint": "после чего-то",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2236",
+        "category_id": "srv_cat_059",
+        "source_text": "следующий",
+        "target_text": "following",
+        "hint": "идущий после",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2237",
+        "category_id": "srv_cat_059",
+        "source_text": "предыдущий",
+        "target_text": "earlier",
+        "hint": "идущий до",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2238",
+        "category_id": "srv_cat_059",
+        "source_text": "современный",
+        "target_text": "current",
+        "hint": "одного времени",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2239",
+        "category_id": "srv_cat_059",
+        "source_text": "классический",
+        "target_text": "classic",
+        "hint": "проверенный временем",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2240",
+        "category_id": "srv_cat_059",
+        "source_text": "старинный",
+        "target_text": "antique",
+        "hint": "из прошлого",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2241",
+        "category_id": "srv_cat_059",
+        "source_text": "старомодный",
+        "target_text": "antique",
+        "hint": "не современный",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2242",
+        "category_id": "srv_cat_059",
+        "source_text": "современный",
+        "target_text": "updated",
+        "hint": "самый новый",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2243",
+        "category_id": "srv_cat_059",
+        "source_text": "устаревший",
+        "target_text": "outdated",
+        "hint": "уже не актуально",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2244",
+        "category_id": "srv_cat_059",
+        "source_text": "подержанный",
+        "target_text": "used",
+        "hint": "уже использовался",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2245",
+        "category_id": "srv_cat_059",
+        "source_text": "совершенно новый",
+        "target_text": "newest",
+        "hint": "только из магазина",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2246",
+        "category_id": "srv_cat_059",
+        "source_text": "второй",
+        "target_text": "second",
+        "hint": "номер два",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2247",
+        "category_id": "srv_cat_059",
+        "source_text": "третий",
+        "target_text": "third",
+        "hint": "номер три",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2248",
+        "category_id": "srv_cat_059",
+        "source_text": "главный",
+        "target_text": "main",
+        "hint": "самый важный",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2249",
+        "category_id": "srv_cat_059",
+        "source_text": "первичный",
+        "target_text": "primary",
+        "hint": "первый по важности",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "059"
+    },
+    {
+        "id": "srv_word_2250",
+        "category_id": "srv_cat_059",
+        "source_text": "вторичный",
+        "target_text": "secondary",
+        "hint": "второй по важности",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "059"
+    }
+]
