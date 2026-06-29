@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2101",
+        "category_id": "srv_cat_057",
+        "source_text": "работа",
+        "target_text": "work",
+        "hint": "место деятельности",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2102",
+        "category_id": "srv_cat_057",
+        "source_text": "работа",
+        "target_text": "job",
+        "hint": "должность за деньги",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2103",
+        "category_id": "srv_cat_057",
+        "source_text": "офис",
+        "target_text": "office",
+        "hint": "место работы",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2104",
+        "category_id": "srv_cat_057",
+        "source_text": "компания",
+        "target_text": "company",
+        "hint": "организация",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2105",
+        "category_id": "srv_cat_057",
+        "source_text": "бизнес",
+        "target_text": "business",
+        "hint": "дело, предприятие",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2106",
+        "category_id": "srv_cat_057",
+        "source_text": "начальник",
+        "target_text": "boss",
+        "hint": "руководит работой",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2107",
+        "category_id": "srv_cat_057",
+        "source_text": "менеджер",
+        "target_text": "manager",
+        "hint": "управляет людьми",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2108",
+        "category_id": "srv_cat_057",
+        "source_text": "коллега",
+        "target_text": "colleague",
+        "hint": "работает вместе",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2109",
+        "category_id": "srv_cat_057",
+        "source_text": "сотрудник",
+        "target_text": "employee",
+        "hint": "работает в компании",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2110",
+        "category_id": "srv_cat_057",
+        "source_text": "работодатель",
+        "target_text": "employer",
+        "hint": "нанимает людей",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2111",
+        "category_id": "srv_cat_057",
+        "source_text": "зарплата",
+        "target_text": "salary",
+        "hint": "деньги за работу",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2112",
+        "category_id": "srv_cat_057",
+        "source_text": "встреча",
+        "target_text": "meeting",
+        "hint": "деловая встреча",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2113",
+        "category_id": "srv_cat_057",
+        "source_text": "проект",
+        "target_text": "project",
+        "hint": "большая задача",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2114",
+        "category_id": "srv_cat_057",
+        "source_text": "задача",
+        "target_text": "task",
+        "hint": "что нужно сделать",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2115",
+        "category_id": "srv_cat_057",
+        "source_text": "собеседование",
+        "target_text": "interview",
+        "hint": "при приёме на работу",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2116",
+        "category_id": "srv_cat_057",
+        "source_text": "опыт",
+        "target_text": "experience",
+        "hint": "навыки из прошлого",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2117",
+        "category_id": "srv_cat_057",
+        "source_text": "школа",
+        "target_text": "school",
+        "hint": "учатся дети",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2118",
+        "category_id": "srv_cat_057",
+        "source_text": "университет",
+        "target_text": "university",
+        "hint": "высшее образование",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2119",
+        "category_id": "srv_cat_057",
+        "source_text": "колледж",
+        "target_text": "college",
+        "hint": "среднее специальное",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2120",
+        "category_id": "srv_cat_057",
+        "source_text": "класс",
+        "target_text": "class",
+        "hint": "группа учеников",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2121",
+        "category_id": "srv_cat_057",
+        "source_text": "урок",
+        "target_text": "lesson",
+        "hint": "занятие по предмету",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2122",
+        "category_id": "srv_cat_057",
+        "source_text": "предмет",
+        "target_text": "subject",
+        "hint": "изучают в школе",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2123",
+        "category_id": "srv_cat_057",
+        "source_text": "экзамен",
+        "target_text": "exam",
+        "hint": "большая проверка",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2124",
+        "category_id": "srv_cat_057",
+        "source_text": "тест",
+        "target_text": "test",
+        "hint": "маленькая проверка",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2125",
+        "category_id": "srv_cat_057",
+        "source_text": "оценка",
+        "target_text": "grade",
+        "hint": "результат учёбы",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2126",
+        "category_id": "srv_cat_057",
+        "source_text": "домашнее задание",
+        "target_text": "homework",
+        "hint": "задание на дом",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2127",
+        "category_id": "srv_cat_057",
+        "source_text": "студент",
+        "target_text": "student",
+        "hint": "учится в вузе",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2128",
+        "category_id": "srv_cat_057",
+        "source_text": "ученик",
+        "target_text": "pupil",
+        "hint": "учится в школе",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2129",
+        "category_id": "srv_cat_057",
+        "source_text": "учитель",
+        "target_text": "teacher",
+        "hint": "преподаёт в школе",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2130",
+        "category_id": "srv_cat_057",
+        "source_text": "профессор",
+        "target_text": "professor",
+        "hint": "преподаёт в вузе",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2131",
+        "category_id": "srv_cat_057",
+        "source_text": "книга",
+        "target_text": "book",
+        "hint": "читают информацию",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2132",
+        "category_id": "srv_cat_057",
+        "source_text": "учебник",
+        "target_text": "textbook",
+        "hint": "для изучения предмета",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2133",
+        "category_id": "srv_cat_057",
+        "source_text": "тетрадь",
+        "target_text": "notebook",
+        "hint": "пишут заметки",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2134",
+        "category_id": "srv_cat_057",
+        "source_text": "ручка",
+        "target_text": "pen",
+        "hint": "пишут чернилами",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2135",
+        "category_id": "srv_cat_057",
+        "source_text": "карандаш",
+        "target_text": "pencil",
+        "hint": "пишут графитом",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2136",
+        "category_id": "srv_cat_057",
+        "source_text": "бумага",
+        "target_text": "paper",
+        "hint": "пишут на ней",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2137",
+        "category_id": "srv_cat_057",
+        "source_text": "ластик",
+        "target_text": "eraser",
+        "hint": "стирает карандаш",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2138",
+        "category_id": "srv_cat_057",
+        "source_text": "линейка",
+        "target_text": "ruler",
+        "hint": "для ровных линий",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2139",
+        "category_id": "srv_cat_057",
+        "source_text": "словарь",
+        "target_text": "dictionary",
+        "hint": "словарь переводов",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2140",
+        "category_id": "srv_cat_057",
+        "source_text": "библиотека",
+        "target_text": "library",
+        "hint": "берут книги",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2141",
+        "category_id": "srv_cat_057",
+        "source_text": "парта",
+        "target_text": "desk",
+        "hint": "сидят за ней",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2142",
+        "category_id": "srv_cat_057",
+        "source_text": "стул",
+        "target_text": "chair",
+        "hint": "сидят на нём",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2143",
+        "category_id": "srv_cat_057",
+        "source_text": "компьютер",
+        "target_text": "computer",
+        "hint": "работают на нём",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2144",
+        "category_id": "srv_cat_057",
+        "source_text": "диплом",
+        "target_text": "diploma",
+        "hint": "документ об образовании",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2145",
+        "category_id": "srv_cat_057",
+        "source_text": "степень",
+        "target_text": "degree",
+        "hint": "учёная квалификация",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2146",
+        "category_id": "srv_cat_057",
+        "source_text": "сертификат",
+        "target_text": "certificate",
+        "hint": "документ о навыках",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2147",
+        "category_id": "srv_cat_057",
+        "source_text": "учиться",
+        "target_text": "study",
+        "hint": "процесс обучения",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2148",
+        "category_id": "srv_cat_057",
+        "source_text": "перерыв",
+        "target_text": "break",
+        "hint": "отдыхают временно",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2149",
+        "category_id": "srv_cat_057",
+        "source_text": "каникулы",
+        "target_text": "holiday",
+        "hint": "отдых от учёбы",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "057"
+    },
+    {
+        "id": "srv_word_2150",
+        "category_id": "srv_cat_057",
+        "source_text": "образование",
+        "target_text": "education",
+        "hint": "процесс обучения",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "057"
+    }
+]
