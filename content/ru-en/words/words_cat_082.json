@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3351",
+        "category_id": "srv_cat_082",
+        "source_text": "вода",
+        "target_text": "water",
+        "hint": "основной напиток",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3352",
+        "category_id": "srv_cat_082",
+        "source_text": "молоко",
+        "target_text": "milk",
+        "hint": "белый напиток",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3353",
+        "category_id": "srv_cat_082",
+        "source_text": "сок",
+        "target_text": "juice",
+        "hint": "из фруктов",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3354",
+        "category_id": "srv_cat_082",
+        "source_text": "кофе",
+        "target_text": "coffee",
+        "hint": "горячий бодрящий",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3355",
+        "category_id": "srv_cat_082",
+        "source_text": "чай",
+        "target_text": "tea",
+        "hint": "заваривают листья",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3356",
+        "category_id": "srv_cat_082",
+        "source_text": "какао",
+        "target_text": "cocoa",
+        "hint": "шоколадный горячий",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3357",
+        "category_id": "srv_cat_082",
+        "source_text": "газировка",
+        "target_text": "soda",
+        "hint": "с пузырьками",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3358",
+        "category_id": "srv_cat_082",
+        "source_text": "кола",
+        "target_text": "cola",
+        "hint": "чёрная газировка",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3359",
+        "category_id": "srv_cat_082",
+        "source_text": "лимонад",
+        "target_text": "lemonade",
+        "hint": "с лимоном",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3360",
+        "category_id": "srv_cat_082",
+        "source_text": "смузи",
+        "target_text": "smoothie",
+        "hint": "взбитые фрукты",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3361",
+        "category_id": "srv_cat_082",
+        "source_text": "молочный коктейль",
+        "target_text": "shake",
+        "hint": "взбитый молочный",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3362",
+        "category_id": "srv_cat_082",
+        "source_text": "коктейль",
+        "target_text": "cocktail",
+        "hint": "смесь напитков",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3363",
+        "category_id": "srv_cat_082",
+        "source_text": "эспрессо",
+        "target_text": "espresso",
+        "hint": "крепкий кофе",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3364",
+        "category_id": "srv_cat_082",
+        "source_text": "капучино",
+        "target_text": "cappuccino",
+        "hint": "кофе с молоком",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3365",
+        "category_id": "srv_cat_082",
+        "source_text": "латте",
+        "target_text": "latte",
+        "hint": "много молока",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3366",
+        "category_id": "srv_cat_082",
+        "source_text": "мокко",
+        "target_text": "mocha",
+        "hint": "кофе с шоколадом",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3367",
+        "category_id": "srv_cat_082",
+        "source_text": "пиво",
+        "target_text": "beer",
+        "hint": "алкогольный напиток",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3368",
+        "category_id": "srv_cat_082",
+        "source_text": "вино",
+        "target_text": "wine",
+        "hint": "из винограда",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3369",
+        "category_id": "srv_cat_082",
+        "source_text": "водка",
+        "target_text": "vodka",
+        "hint": "прозрачный алкоголь",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3370",
+        "category_id": "srv_cat_082",
+        "source_text": "виски",
+        "target_text": "whiskey",
+        "hint": "крепкий алкоголь",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3371",
+        "category_id": "srv_cat_082",
+        "source_text": "ром",
+        "target_text": "rum",
+        "hint": "из тростника",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3372",
+        "category_id": "srv_cat_082",
+        "source_text": "джин",
+        "target_text": "gin",
+        "hint": "с можжевельником",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3373",
+        "category_id": "srv_cat_082",
+        "source_text": "бренди",
+        "target_text": "brandy",
+        "hint": "из вина",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3374",
+        "category_id": "srv_cat_082",
+        "source_text": "шампанское",
+        "target_text": "champagne",
+        "hint": "праздничное вино",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3375",
+        "category_id": "srv_cat_082",
+        "source_text": "текила",
+        "target_text": "tequila",
+        "hint": "из кактуса",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3376",
+        "category_id": "srv_cat_082",
+        "source_text": "сидр",
+        "target_text": "cider",
+        "hint": "яблочный алкоголь",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3377",
+        "category_id": "srv_cat_082",
+        "source_text": "ликёр",
+        "target_text": "liqueur",
+        "hint": "сладкий алкоголь",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3378",
+        "category_id": "srv_cat_082",
+        "source_text": "сельтерская",
+        "target_text": "seltzer",
+        "hint": "газированная вода",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3379",
+        "category_id": "srv_cat_082",
+        "source_text": "просекко",
+        "target_text": "prosecco",
+        "hint": "игристое вино",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3380",
+        "category_id": "srv_cat_082",
+        "source_text": "тоник",
+        "target_text": "tonic",
+        "hint": "горький напиток",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3381",
+        "category_id": "srv_cat_082",
+        "source_text": "квас",
+        "target_text": "kvass",
+        "hint": "хлебный напиток",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3382",
+        "category_id": "srv_cat_082",
+        "source_text": "нектар",
+        "target_text": "nectar",
+        "hint": "сладкий сок",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3383",
+        "category_id": "srv_cat_082",
+        "source_text": "фраппе",
+        "target_text": "frappe",
+        "hint": "холодный кофе",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3384",
+        "category_id": "srv_cat_082",
+        "source_text": "настой",
+        "target_text": "brew",
+        "hint": "заваренный напиток",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3385",
+        "category_id": "srv_cat_082",
+        "source_text": "разливное",
+        "target_text": "draft",
+        "hint": "из бочки",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3386",
+        "category_id": "srv_cat_082",
+        "source_text": "медовуха",
+        "target_text": "mead",
+        "hint": "из мёда",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3387",
+        "category_id": "srv_cat_082",
+        "source_text": "абсент",
+        "target_text": "absinthe",
+        "hint": "зелёный алкоголь",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3388",
+        "category_id": "srv_cat_082",
+        "source_text": "портвейн",
+        "target_text": "port",
+        "hint": "сладкое вино",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3389",
+        "category_id": "srv_cat_082",
+        "source_text": "херес",
+        "target_text": "sherry",
+        "hint": "крепкое вино",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3390",
+        "category_id": "srv_cat_082",
+        "source_text": "бурбон",
+        "target_text": "bourbon",
+        "hint": "виски из кукурузы",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3391",
+        "category_id": "srv_cat_082",
+        "source_text": "скотч",
+        "target_text": "scotch",
+        "hint": "виски из шотландии",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3392",
+        "category_id": "srv_cat_082",
+        "source_text": "коньяк",
+        "target_text": "cognac",
+        "hint": "бренди из франции",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3393",
+        "category_id": "srv_cat_082",
+        "source_text": "саке",
+        "target_text": "sake",
+        "hint": "рисовое вино",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3394",
+        "category_id": "srv_cat_082",
+        "source_text": "комбуча",
+        "target_text": "kombucha",
+        "hint": "кислый чай",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3395",
+        "category_id": "srv_cat_082",
+        "source_text": "мате",
+        "target_text": "mate",
+        "hint": "чай из листьев",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3396",
+        "category_id": "srv_cat_082",
+        "source_text": "чай",
+        "target_text": "chai",
+        "hint": "чай с пряностями",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3397",
+        "category_id": "srv_cat_082",
+        "source_text": "пунш",
+        "target_text": "punch",
+        "hint": "смесь соков",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3398",
+        "category_id": "srv_cat_082",
+        "source_text": "бутылка",
+        "target_text": "bottle",
+        "hint": "тара для напитка",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3399",
+        "category_id": "srv_cat_082",
+        "source_text": "банка",
+        "target_text": "can",
+        "hint": "алюминиевая тара",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "082"
+    },
+    {
+        "id": "srv_word_3400",
+        "category_id": "srv_cat_082",
+        "source_text": "стакан",
+        "target_text": "glass",
+        "hint": "стеклянная тара",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "082"
+    }
+]
