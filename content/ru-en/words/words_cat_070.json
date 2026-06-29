@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2751",
+        "category_id": "srv_cat_070",
+        "source_text": "и",
+        "target_text": "and",
+        "hint": "соединяет слова",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2752",
+        "category_id": "srv_cat_070",
+        "source_text": "но",
+        "target_text": "but",
+        "hint": "противопоставление",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2753",
+        "category_id": "srv_cat_070",
+        "source_text": "или",
+        "target_text": "or",
+        "hint": "даёт выбор",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2754",
+        "category_id": "srv_cat_070",
+        "source_text": "поэтому",
+        "target_text": "so",
+        "hint": "показывает результат",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2755",
+        "category_id": "srv_cat_070",
+        "source_text": "потому что",
+        "target_text": "because",
+        "hint": "объясняет причину",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2756",
+        "category_id": "srv_cat_070",
+        "source_text": "если",
+        "target_text": "if",
+        "hint": "условие",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2757",
+        "category_id": "srv_cat_070",
+        "source_text": "когда",
+        "target_text": "when",
+        "hint": "указывает время",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2758",
+        "category_id": "srv_cat_070",
+        "source_text": "пока",
+        "target_text": "while",
+        "hint": "одновременно",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2759",
+        "category_id": "srv_cat_070",
+        "source_text": "так как",
+        "target_text": "since",
+        "hint": "причина или время",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2760",
+        "category_id": "srv_cat_070",
+        "source_text": "хотя",
+        "target_text": "although",
+        "hint": "уступка",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2761",
+        "category_id": "srv_cat_070",
+        "source_text": "хотя",
+        "target_text": "though",
+        "hint": "более кратко",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2762",
+        "category_id": "srv_cat_070",
+        "source_text": "если не",
+        "target_text": "unless",
+        "hint": "отрицательное условие",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2763",
+        "category_id": "srv_cat_070",
+        "source_text": "пока не",
+        "target_text": "until",
+        "hint": "до момента",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2764",
+        "category_id": "srv_cat_070",
+        "source_text": "перед тем как",
+        "target_text": "before",
+        "hint": "раньше",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2765",
+        "category_id": "srv_cat_070",
+        "source_text": "после того как",
+        "target_text": "after",
+        "hint": "позже",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2766",
+        "category_id": "srv_cat_070",
+        "source_text": "как",
+        "target_text": "as",
+        "hint": "сравнение или причина",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2767",
+        "category_id": "srv_cat_070",
+        "source_text": "чем",
+        "target_text": "than",
+        "hint": "сравнение",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2768",
+        "category_id": "srv_cat_070",
+        "source_text": "что",
+        "target_text": "that",
+        "hint": "вводит предложение",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2769",
+        "category_id": "srv_cat_070",
+        "source_text": "потому что",
+        "target_text": "for",
+        "hint": "причина книжная",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2770",
+        "category_id": "srv_cat_070",
+        "source_text": "однако",
+        "target_text": "yet",
+        "hint": "слабое противопоставление",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2771",
+        "category_id": "srv_cat_070",
+        "source_text": "ни",
+        "target_text": "nor",
+        "hint": "отрицание после neither",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2772",
+        "category_id": "srv_cat_070",
+        "source_text": "ли",
+        "target_text": "whether",
+        "hint": "вопрос выбор",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2773",
+        "category_id": "srv_cat_070",
+        "source_text": "либо",
+        "target_text": "either",
+        "hint": "один из двух",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2774",
+        "category_id": "srv_cat_070",
+        "source_text": "ни один",
+        "target_text": "neither",
+        "hint": "не тот не другой",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2775",
+        "category_id": "srv_cat_070",
+        "source_text": "оба",
+        "target_text": "both",
+        "hint": "два вместе",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2776",
+        "category_id": "srv_cat_070",
+        "source_text": "также",
+        "target_text": "also",
+        "hint": "добавление",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2777",
+        "category_id": "srv_cat_070",
+        "source_text": "даже",
+        "target_text": "even",
+        "hint": "усиление",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2778",
+        "category_id": "srv_cat_070",
+        "source_text": "тогда как",
+        "target_text": "but",
+        "hint": "противопоставление",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2779",
+        "category_id": "srv_cat_070",
+        "source_text": "как только",
+        "target_text": "once",
+        "hint": "после того как",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2780",
+        "category_id": "srv_cat_070",
+        "source_text": "всякий раз когда",
+        "target_text": "whenever",
+        "hint": "каждый раз",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2781",
+        "category_id": "srv_cat_070",
+        "source_text": "где бы ни",
+        "target_text": "wherever",
+        "hint": "в любом месте",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2782",
+        "category_id": "srv_cat_070",
+        "source_text": "что бы ни",
+        "target_text": "whatever",
+        "hint": "любое значение",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2783",
+        "category_id": "srv_cat_070",
+        "source_text": "кто бы ни",
+        "target_text": "whoever",
+        "hint": "любой человек",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2784",
+        "category_id": "srv_cat_070",
+        "source_text": "однако",
+        "target_text": "however",
+        "hint": "тем не менее",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2785",
+        "category_id": "srv_cat_070",
+        "source_text": "следовательно",
+        "target_text": "therefore",
+        "hint": "вывод",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2786",
+        "category_id": "srv_cat_070",
+        "source_text": "более того",
+        "target_text": "moreover",
+        "hint": "добавление",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2787",
+        "category_id": "srv_cat_070",
+        "source_text": "кроме того",
+        "target_text": "also",
+        "hint": "дополнение",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2788",
+        "category_id": "srv_cat_070",
+        "source_text": "тем не менее",
+        "target_text": "but",
+        "hint": "несмотря на это",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2789",
+        "category_id": "srv_cat_070",
+        "source_text": "иначе",
+        "target_text": "otherwise",
+        "hint": "в другом случае",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2790",
+        "category_id": "srv_cat_070",
+        "source_text": "вместо",
+        "target_text": "instead",
+        "hint": "замена",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2791",
+        "category_id": "srv_cat_070",
+        "source_text": "тем временем",
+        "target_text": "meanwhile",
+        "hint": "в это же время",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2792",
+        "category_id": "srv_cat_070",
+        "source_text": "отсюда",
+        "target_text": "hence",
+        "hint": "поэтому",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2793",
+        "category_id": "srv_cat_070",
+        "source_text": "таким образом",
+        "target_text": "thus",
+        "hint": "итог",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2794",
+        "category_id": "srv_cat_070",
+        "source_text": "действительно",
+        "target_text": "indeed",
+        "hint": "подтверждение",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2795",
+        "category_id": "srv_cat_070",
+        "source_text": "и также",
+        "target_text": "plus",
+        "hint": "добавление",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2796",
+        "category_id": "srv_cat_070",
+        "source_text": "при условии",
+        "target_text": "if",
+        "hint": "если",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2797",
+        "category_id": "srv_cat_070",
+        "source_text": "предполагая",
+        "target_text": "if",
+        "hint": "если допустить",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2798",
+        "category_id": "srv_cat_070",
+        "source_text": "учитывая",
+        "target_text": "since",
+        "hint": "принимая во внимание",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2799",
+        "category_id": "srv_cat_070",
+        "source_text": "учитывая",
+        "target_text": "since",
+        "hint": "имея в виду",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "070"
+    },
+    {
+        "id": "srv_word_2800",
+        "category_id": "srv_cat_070",
+        "source_text": "чтобы не",
+        "target_text": "so",
+        "hint": "избегание",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "070"
+    }
+]
