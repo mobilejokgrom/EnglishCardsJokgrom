@@ -38,5 +38,365 @@
         "sort_order": "50",
         "source": "srv",
         "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_041",
+        "theme_id": "srv_theme_002",
+        "name": "🏡 Дом и мебель",
+        "sort_order": "60",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_042",
+        "theme_id": "srv_theme_002",
+        "name": "🍽️ Еда и напитки",
+        "sort_order": "70",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_043",
+        "theme_id": "srv_theme_002",
+        "name": "🧠 Мышление и чувства",
+        "sort_order": "80",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_044",
+        "theme_id": "srv_theme_002",
+        "name": "🌡️ Физические свойства",
+        "sort_order": "90",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_045",
+        "theme_id": "srv_theme_002",
+        "name": "🔹 Предлоги",
+        "sort_order": "100",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_046",
+        "theme_id": "srv_theme_002",
+        "name": "💻 Вещи и технологии",
+        "sort_order": "110",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_047",
+        "theme_id": "srv_theme_002",
+        "name": "📅 Время",
+        "sort_order": "120",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_048",
+        "theme_id": "srv_theme_002",
+        "name": "✋ Действия с предметами",
+        "sort_order": "130",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_049",
+        "theme_id": "srv_theme_002",
+        "name": "📏 Размер и количество",
+        "sort_order": "140",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_050",
+        "theme_id": "srv_theme_002",
+        "name": "🔹 Наречия",
+        "sort_order": "150",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_051",
+        "theme_id": "srv_theme_002",
+        "name": "👔 Одежда и аксессуары",
+        "sort_order": "160",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_052",
+        "theme_id": "srv_theme_002",
+        "name": "🏙️ Город и транспорт",
+        "sort_order": "170",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_053",
+        "theme_id": "srv_theme_002",
+        "name": "🏠 Бытовые ритуалы",
+        "sort_order": "180",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_054",
+        "theme_id": "srv_theme_002",
+        "name": "😊 Эмоции и состояния",
+        "sort_order": "190",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_055",
+        "theme_id": "srv_theme_002",
+        "name": "🔢 Числительные",
+        "sort_order": "200",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_056",
+        "theme_id": "srv_theme_002",
+        "name": "🏠 Жильё",
+        "sort_order": "210",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_057",
+        "theme_id": "srv_theme_002",
+        "name": "💼 Работа и учёба",
+        "sort_order": "220",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_058",
+        "theme_id": "srv_theme_002",
+        "name": "🏃 Движение",
+        "sort_order": "230",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_059",
+        "theme_id": "srv_theme_002",
+        "name": "📋 Порядок и новизна",
+        "sort_order": "240",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_060",
+        "theme_id": "srv_theme_002",
+        "name": "💬 Междометия",
+        "sort_order": "250",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_061",
+        "theme_id": "srv_theme_002",
+        "name": "🌳 Природа и погода",
+        "sort_order": "260",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_062",
+        "theme_id": "srv_theme_002",
+        "name": " Животные",
+        "sort_order": "270",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_063",
+        "theme_id": "srv_theme_002",
+        "name": "👁️ Восприятие",
+        "sort_order": "280",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_064",
+        "theme_id": "srv_theme_002",
+        "name": "🎨 Цвета",
+        "sort_order": "290",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_065",
+        "theme_id": "srv_theme_002",
+        "name": "📝 Артикли\/Определители",
+        "sort_order": "300",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_066",
+        "theme_id": "srv_theme_002",
+        "name": "🥕 Овощи",
+        "sort_order": "310",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_067",
+        "theme_id": "srv_theme_002",
+        "name": "🍎 Фрукты и ягоды",
+        "sort_order": "320",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_068",
+        "theme_id": "srv_theme_002",
+        "name": "💬 Общение",
+        "sort_order": "330",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_069",
+        "theme_id": "srv_theme_002",
+        "name": "⚡ Скорость и сложность",
+        "sort_order": "340",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_070",
+        "theme_id": "srv_theme_002",
+        "name": "🔗 Союзы",
+        "sort_order": "350",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_071",
+        "theme_id": "srv_theme_002",
+        "name": "🥩 Мясо и рыба",
+        "sort_order": "360",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_072",
+        "theme_id": "srv_theme_002",
+        "name": "🥛 Молочные продукты",
+        "sort_order": "370",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_073",
+        "theme_id": "srv_theme_002",
+        "name": "🔛 Начало и окончание",
+        "sort_order": "380",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_074",
+        "theme_id": "srv_theme_002",
+        "name": "👍 Положительная оценка",
+        "sort_order": "390",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_075",
+        "theme_id": "srv_theme_002",
+        "name": "❓ Вопросительные слова",
+        "sort_order": "400",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_076",
+        "theme_id": "srv_theme_002",
+        "name": "🍞 Хлеб и выпечка",
+        "sort_order": "410",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_077",
+        "theme_id": "srv_theme_002",
+        "name": "🧂 Специи и приправы",
+        "sort_order": "420",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_078",
+        "theme_id": "srv_theme_002",
+        "name": "📈 Рост и улучшение",
+        "sort_order": "430",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_079",
+        "theme_id": "srv_theme_002",
+        "name": "👎 Отрицательная оценка",
+        "sort_order": "440",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_080",
+        "theme_id": "srv_theme_002",
+        "name": "🔑 Модальные глаголы",
+        "sort_order": "450",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_081",
+        "theme_id": "srv_theme_002",
+        "name": "🍳 Блюда и кулинария",
+        "sort_order": "460",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_082",
+        "theme_id": "srv_theme_002",
+        "name": "🥤 Напитки",
+        "sort_order": "470",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_083",
+        "theme_id": "srv_theme_002",
+        "name": "🥐 Завтрак",
+        "sort_order": "480",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_084",
+        "theme_id": "srv_theme_002",
+        "name": "📉 Снижение и ухудшение",
+        "sort_order": "490",
+        "source": "srv",
+        "theme_num": "002"
+    },
+    {
+        "id": "srv_cat_085",
+        "theme_id": "srv_theme_002",
+        "name": "😐 Нейтральная оценка",
+        "sort_order": "500",
+        "source": "srv",
+        "theme_num": "002"
     }
 ]
