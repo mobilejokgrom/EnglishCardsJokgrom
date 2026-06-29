@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3201",
+        "category_id": "srv_cat_079",
+        "source_text": "плохой",
+        "target_text": "bad",
+        "hint": "отрицательный",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3202",
+        "category_id": "srv_cat_079",
+        "source_text": "ужасный",
+        "target_text": "very bad",
+        "hint": "очень плохой",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3203",
+        "category_id": "srv_cat_079",
+        "source_text": "ужасный",
+        "target_text": "very bad",
+        "hint": "крайне неприятный",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3204",
+        "category_id": "srv_cat_079",
+        "source_text": "ужасный",
+        "target_text": "bad",
+        "hint": "вызывает страх",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3205",
+        "category_id": "srv_cat_079",
+        "source_text": "бедный",
+        "target_text": "poor",
+        "hint": "низкого качества",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3206",
+        "category_id": "srv_cat_079",
+        "source_text": "уродливый",
+        "target_text": "ugly",
+        "hint": "некрасивый",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3207",
+        "category_id": "srv_cat_079",
+        "source_text": "противный",
+        "target_text": "nasty",
+        "hint": "неприятный",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3208",
+        "category_id": "srv_cat_079",
+        "source_text": "отвратительный",
+        "target_text": "gross",
+        "hint": "вызывает отвращение",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3209",
+        "category_id": "srv_cat_079",
+        "source_text": "грубый",
+        "target_text": "rude",
+        "hint": "невежливый",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3210",
+        "category_id": "srv_cat_079",
+        "source_text": "злой",
+        "target_text": "mean",
+        "hint": "недобрый",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3211",
+        "category_id": "srv_cat_079",
+        "source_text": "жестокий",
+        "target_text": "cruel",
+        "hint": "причиняет боль",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3212",
+        "category_id": "srv_cat_079",
+        "source_text": "эгоистичный",
+        "target_text": "selfish",
+        "hint": "только о себе",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3213",
+        "category_id": "srv_cat_079",
+        "source_text": "ленивый",
+        "target_text": "lazy",
+        "hint": "не хочет работать",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3214",
+        "category_id": "srv_cat_079",
+        "source_text": "глупый",
+        "target_text": "stupid",
+        "hint": "не умный",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3215",
+        "category_id": "srv_cat_079",
+        "source_text": "скучный",
+        "target_text": "boring",
+        "hint": "не интересный",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3216",
+        "category_id": "srv_cat_079",
+        "source_text": "раздражающий",
+        "target_text": "annoying",
+        "hint": "вызывает злость",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3217",
+        "category_id": "srv_cat_079",
+        "source_text": "злой",
+        "target_text": "angry",
+        "hint": "чувствует гнев",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3218",
+        "category_id": "srv_cat_079",
+        "source_text": "грустный",
+        "target_text": "sad",
+        "hint": "чувствует печаль",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3219",
+        "category_id": "srv_cat_079",
+        "source_text": "уставший",
+        "target_text": "tired",
+        "hint": "нужен отдых",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3220",
+        "category_id": "srv_cat_079",
+        "source_text": "больной",
+        "target_text": "sick",
+        "hint": "нездоров",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3221",
+        "category_id": "srv_cat_079",
+        "source_text": "голодный",
+        "target_text": "hungry",
+        "hint": "хочет есть",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3222",
+        "category_id": "srv_cat_079",
+        "source_text": "хочет пить",
+        "target_text": "thirsty",
+        "hint": "нужна вода",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3223",
+        "category_id": "srv_cat_079",
+        "source_text": "скучающий",
+        "target_text": "bored",
+        "hint": "нет интереса",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3224",
+        "category_id": "srv_cat_079",
+        "source_text": "нервный",
+        "target_text": "nervous",
+        "hint": "тревожный",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3225",
+        "category_id": "srv_cat_079",
+        "source_text": "обеспокоенный",
+        "target_text": "worried",
+        "hint": "тревожится",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3226",
+        "category_id": "srv_cat_079",
+        "source_text": "напряжённый",
+        "target_text": "very tired",
+        "hint": "под давлением",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3227",
+        "category_id": "srv_cat_079",
+        "source_text": "подавленный",
+        "target_text": "very sad",
+        "hint": "в плохом настроении",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3228",
+        "category_id": "srv_cat_079",
+        "source_text": "одинокий",
+        "target_text": "lonely",
+        "hint": "нет друзей",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3229",
+        "category_id": "srv_cat_079",
+        "source_text": "стыдящийся",
+        "target_text": "sorry",
+        "hint": "чувствует стыд",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3230",
+        "category_id": "srv_cat_079",
+        "source_text": "виноватый",
+        "target_text": "bad",
+        "hint": "совершил проступок",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3231",
+        "category_id": "srv_cat_079",
+        "source_text": "ревнивый",
+        "target_text": "envious",
+        "hint": "завидует",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3232",
+        "category_id": "srv_cat_079",
+        "source_text": "разочарованный",
+        "target_text": "sad",
+        "hint": "ожидания не сбылись",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3233",
+        "category_id": "srv_cat_079",
+        "source_text": "бесполезный",
+        "target_text": "useless",
+        "hint": "не помогает",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3234",
+        "category_id": "srv_cat_079",
+        "source_text": "сломанный",
+        "target_text": "broken",
+        "hint": "не работает",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3235",
+        "category_id": "srv_cat_079",
+        "source_text": "повреждённый",
+        "target_text": "damaged",
+        "hint": "с дефектом",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3236",
+        "category_id": "srv_cat_079",
+        "source_text": "грязный",
+        "target_text": "dirty",
+        "hint": "в грязи",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3237",
+        "category_id": "srv_cat_079",
+        "source_text": "некрасивый",
+        "target_text": "ugly",
+        "hint": "неприятный вид",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3238",
+        "category_id": "srv_cat_079",
+        "source_text": "дешёвый",
+        "target_text": "cheap",
+        "hint": "низкого качества",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3239",
+        "category_id": "srv_cat_079",
+        "source_text": "дорогой",
+        "target_text": "overpriced",
+        "hint": "завышенная цена",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3240",
+        "category_id": "srv_cat_079",
+        "source_text": "слабый",
+        "target_text": "weak",
+        "hint": "без силы",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3241",
+        "category_id": "srv_cat_079",
+        "source_text": "тяжёлый",
+        "target_text": "too heavy",
+        "hint": "большой вес",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3242",
+        "category_id": "srv_cat_079",
+        "source_text": "трудный",
+        "target_text": "difficult",
+        "hint": "сложно сделать",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3243",
+        "category_id": "srv_cat_079",
+        "source_text": "трудный",
+        "target_text": "hard",
+        "hint": "с усилиями",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3244",
+        "category_id": "srv_cat_079",
+        "source_text": "невозможный",
+        "target_text": "impossible",
+        "hint": "нельзя сделать",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3245",
+        "category_id": "srv_cat_079",
+        "source_text": "неправильный",
+        "target_text": "wrong",
+        "hint": "с ошибкой",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3246",
+        "category_id": "srv_cat_079",
+        "source_text": "ложный",
+        "target_text": "false",
+        "hint": "не правда",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3247",
+        "category_id": "srv_cat_079",
+        "source_text": "пустой",
+        "target_text": "empty",
+        "hint": "ничего внутри",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3248",
+        "category_id": "srv_cat_079",
+        "source_text": "полный",
+        "target_text": "too full",
+        "hint": "переполнен",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3249",
+        "category_id": "srv_cat_079",
+        "source_text": "шумный",
+        "target_text": "noisy",
+        "hint": "много звуков",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "079"
+    },
+    {
+        "id": "srv_word_3250",
+        "category_id": "srv_cat_079",
+        "source_text": "опасный",
+        "target_text": "dangerous",
+        "hint": "с риском",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "079"
+    }
+]
