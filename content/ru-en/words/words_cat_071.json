@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2801",
+        "category_id": "srv_cat_071",
+        "source_text": "мясо",
+        "target_text": "meat",
+        "hint": "общее название",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2802",
+        "category_id": "srv_cat_071",
+        "source_text": "говядина",
+        "target_text": "beef",
+        "hint": "мясо коровы",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2803",
+        "category_id": "srv_cat_071",
+        "source_text": "свинина",
+        "target_text": "pork",
+        "hint": "мясо свиньи",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2804",
+        "category_id": "srv_cat_071",
+        "source_text": "курица",
+        "target_text": "chicken",
+        "hint": "мясо птицы",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2805",
+        "category_id": "srv_cat_071",
+        "source_text": "баранина",
+        "target_text": "lamb",
+        "hint": "мясо барана",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2806",
+        "category_id": "srv_cat_071",
+        "source_text": "индейка",
+        "target_text": "turkey",
+        "hint": "большая птица",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2807",
+        "category_id": "srv_cat_071",
+        "source_text": "утка",
+        "target_text": "duck",
+        "hint": "водоплавающая птица",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2808",
+        "category_id": "srv_cat_071",
+        "source_text": "гусь",
+        "target_text": "goose",
+        "hint": "большая птица",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2809",
+        "category_id": "srv_cat_071",
+        "source_text": "телятина",
+        "target_text": "young meat",
+        "hint": "мясо телёнка",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2810",
+        "category_id": "srv_cat_071",
+        "source_text": "кролик",
+        "target_text": "rabbit",
+        "hint": "белое мясо",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2811",
+        "category_id": "srv_cat_071",
+        "source_text": "оленина",
+        "target_text": "game",
+        "hint": "мясо оленя",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2812",
+        "category_id": "srv_cat_071",
+        "source_text": "рыба",
+        "target_text": "fish",
+        "hint": "общее название",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2813",
+        "category_id": "srv_cat_071",
+        "source_text": "лосось",
+        "target_text": "salmon",
+        "hint": "розовая рыба",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2814",
+        "category_id": "srv_cat_071",
+        "source_text": "тунец",
+        "target_text": "tuna",
+        "hint": "большая морская",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2815",
+        "category_id": "srv_cat_071",
+        "source_text": "треска",
+        "target_text": "cod",
+        "hint": "белая рыба",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2816",
+        "category_id": "srv_cat_071",
+        "source_text": "форель",
+        "target_text": "trout",
+        "hint": "речная рыба",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2817",
+        "category_id": "srv_cat_071",
+        "source_text": "сельдь",
+        "target_text": "herring",
+        "hint": "серебристая рыба",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2818",
+        "category_id": "srv_cat_071",
+        "source_text": "скумбрия",
+        "target_text": "mackerel",
+        "hint": "жирная рыба",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2819",
+        "category_id": "srv_cat_071",
+        "source_text": "сардина",
+        "target_text": "sardine",
+        "hint": "маленькая рыба",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2820",
+        "category_id": "srv_cat_071",
+        "source_text": "анчоус",
+        "target_text": "small fish",
+        "hint": "очень маленькая",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2821",
+        "category_id": "srv_cat_071",
+        "source_text": "рыба-меч",
+        "target_text": "big fish",
+        "hint": "с длинным носом",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2822",
+        "category_id": "srv_cat_071",
+        "source_text": "сом",
+        "target_text": "catfish",
+        "hint": "усатая рыба",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2823",
+        "category_id": "srv_cat_071",
+        "source_text": "окунь",
+        "target_text": "perch",
+        "hint": "полосатая рыба",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2824",
+        "category_id": "srv_cat_071",
+        "source_text": "бас",
+        "target_text": "морской окунь",
+        "hint": "популярная рыба",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2825",
+        "category_id": "srv_cat_071",
+        "source_text": "щука",
+        "target_text": "pike",
+        "hint": "хищная рыба",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2826",
+        "category_id": "srv_cat_071",
+        "source_text": "карп",
+        "target_text": "carp",
+        "hint": "озёрная рыба",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2827",
+        "category_id": "srv_cat_071",
+        "source_text": "креветка",
+        "target_text": "shrimp",
+        "hint": "маленький рачок",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2828",
+        "category_id": "srv_cat_071",
+        "source_text": "большая креветка",
+        "target_text": "large shrimp",
+        "hint": "крупнее shrimp",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2829",
+        "category_id": "srv_cat_071",
+        "source_text": "краб",
+        "target_text": "crab",
+        "hint": "с клешнями",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2830",
+        "category_id": "srv_cat_071",
+        "source_text": "омар",
+        "target_text": "lobster",
+        "hint": "большой морской рачок",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2831",
+        "category_id": "srv_cat_071",
+        "source_text": "устрица",
+        "target_text": "oyster",
+        "hint": "в раковине",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2832",
+        "category_id": "srv_cat_071",
+        "source_text": "мидия",
+        "target_text": "mussel",
+        "hint": "в чёрной раковине",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2833",
+        "category_id": "srv_cat_071",
+        "source_text": "моллюск",
+        "target_text": "clam",
+        "hint": "в двустворчатой раковине",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2834",
+        "category_id": "srv_cat_071",
+        "source_text": "кальмар",
+        "target_text": "squid",
+        "hint": "с щупальцами",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2835",
+        "category_id": "srv_cat_071",
+        "source_text": "осьминог",
+        "target_text": "octopus",
+        "hint": "восемь ног",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2836",
+        "category_id": "srv_cat_071",
+        "source_text": "каракатица",
+        "target_text": "sea creature",
+        "hint": "похож на кальмара",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2837",
+        "category_id": "srv_cat_071",
+        "source_text": "гребешок",
+        "target_text": "scallop",
+        "hint": "морской моллюск",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2838",
+        "category_id": "srv_cat_071",
+        "source_text": "бекон",
+        "target_text": "bacon",
+        "hint": "копчёная свинина",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2839",
+        "category_id": "srv_cat_071",
+        "source_text": "сосиска",
+        "target_text": "sausage",
+        "hint": "мясной продукт",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2840",
+        "category_id": "srv_cat_071",
+        "source_text": "ветчина",
+        "target_text": "ham",
+        "hint": "копчёная свинина",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2841",
+        "category_id": "srv_cat_071",
+        "source_text": "стейк",
+        "target_text": "steak",
+        "hint": "кусок мяса",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2842",
+        "category_id": "srv_cat_071",
+        "source_text": "фарш",
+        "target_text": "mince",
+        "hint": "молотое мясо",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2843",
+        "category_id": "srv_cat_071",
+        "source_text": "печень",
+        "target_text": "liver",
+        "hint": "орган животного",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2844",
+        "category_id": "srv_cat_071",
+        "source_text": "фрикаделька",
+        "target_text": "meatball",
+        "hint": "мясной шарик",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2845",
+        "category_id": "srv_cat_071",
+        "source_text": "салями",
+        "target_text": "salami",
+        "hint": "вид колбасы",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2846",
+        "category_id": "srv_cat_071",
+        "source_text": "прошутто",
+        "target_text": "italian ham",
+        "hint": "итальянская ветчина",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2847",
+        "category_id": "srv_cat_071",
+        "source_text": "паштет",
+        "target_text": "meat spread",
+        "hint": "мясное пюре",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2848",
+        "category_id": "srv_cat_071",
+        "source_text": "икра",
+        "target_text": "fish eggs",
+        "hint": "рыбные яйца",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2849",
+        "category_id": "srv_cat_071",
+        "source_text": "филе",
+        "target_text": "boneless piece",
+        "hint": "кусок без костей",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "071"
+    },
+    {
+        "id": "srv_word_2850",
+        "category_id": "srv_cat_071",
+        "source_text": "грудка",
+        "target_text": "breast",
+        "hint": "часть курицы",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "071"
+    }
+]
