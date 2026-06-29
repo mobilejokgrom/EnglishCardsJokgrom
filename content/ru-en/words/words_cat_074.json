@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2951",
+        "category_id": "srv_cat_074",
+        "source_text": "хороший",
+        "target_text": "good",
+        "hint": "положительный",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2952",
+        "category_id": "srv_cat_074",
+        "source_text": "отличный",
+        "target_text": "great",
+        "hint": "очень хороший",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2953",
+        "category_id": "srv_cat_074",
+        "source_text": "приятный",
+        "target_text": "nice",
+        "hint": "милый хороший",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2954",
+        "category_id": "srv_cat_074",
+        "source_text": "нормальный",
+        "target_text": "fine",
+        "hint": "в порядке",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2955",
+        "category_id": "srv_cat_074",
+        "source_text": "нормальный",
+        "target_text": "OK",
+        "hint": "приемлемый",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2956",
+        "category_id": "srv_cat_074",
+        "source_text": "превосходный",
+        "target_text": "excellent",
+        "hint": "высший класс",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2957",
+        "category_id": "srv_cat_074",
+        "source_text": "чудесный",
+        "target_text": "wonderful",
+        "hint": "вызывает радость",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2958",
+        "category_id": "srv_cat_074",
+        "source_text": "фантастический",
+        "target_text": "fantastic",
+        "hint": "очень хорошо",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2959",
+        "category_id": "srv_cat_074",
+        "source_text": "удивительный",
+        "target_text": "amazing",
+        "hint": "восхищает",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2960",
+        "category_id": "srv_cat_074",
+        "source_text": "идеальный",
+        "target_text": "perfect",
+        "hint": "без недостатков",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2961",
+        "category_id": "srv_cat_074",
+        "source_text": "блестящий",
+        "target_text": "brilliant",
+        "hint": "очень хороший",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2962",
+        "category_id": "srv_cat_074",
+        "source_text": "великолепный",
+        "target_text": "superb",
+        "hint": "высшее качество",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2963",
+        "category_id": "srv_cat_074",
+        "source_text": "выдающийся",
+        "target_text": "excellent",
+        "hint": "лучше других",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2964",
+        "category_id": "srv_cat_074",
+        "source_text": "впечатляющий",
+        "target_text": "impressive",
+        "hint": "вызывает уважение",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2965",
+        "category_id": "srv_cat_074",
+        "source_text": "замечательный",
+        "target_text": "notable",
+        "hint": "заслуживает внимания",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2966",
+        "category_id": "srv_cat_074",
+        "source_text": "прекрасный",
+        "target_text": "lovely",
+        "hint": "очень милый",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2967",
+        "category_id": "srv_cat_074",
+        "source_text": "хороший",
+        "target_text": "pleasant",
+        "hint": "доставляет удовольствие",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2968",
+        "category_id": "srv_cat_074",
+        "source_text": "восхитительный",
+        "target_text": "lovely",
+        "hint": "очень приятный",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2969",
+        "category_id": "srv_cat_074",
+        "source_text": "очаровательный",
+        "target_text": "nice",
+        "hint": "привлекает",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2970",
+        "category_id": "srv_cat_074",
+        "source_text": "красивый",
+        "target_text": "beautiful",
+        "hint": "эстетически приятный",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2971",
+        "category_id": "srv_cat_074",
+        "source_text": "хорошенький",
+        "target_text": "pretty",
+        "hint": "милый красивый",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2972",
+        "category_id": "srv_cat_074",
+        "source_text": "привлекательный",
+        "target_text": "attractive",
+        "hint": "нравится внешне",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2973",
+        "category_id": "srv_cat_074",
+        "source_text": "роскошный",
+        "target_text": "beautiful",
+        "hint": "очень красивый",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2974",
+        "category_id": "srv_cat_074",
+        "source_text": "полезный",
+        "target_text": "useful",
+        "hint": "приносит пользу",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2975",
+        "category_id": "srv_cat_074",
+        "source_text": "помогающий",
+        "target_text": "helpful",
+        "hint": "помогает",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2976",
+        "category_id": "srv_cat_074",
+        "source_text": "ценный",
+        "target_text": "valuable",
+        "hint": "имеет ценность",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2977",
+        "category_id": "srv_cat_074",
+        "source_text": "умный",
+        "target_text": "smart",
+        "hint": "сообразительный",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2978",
+        "category_id": "srv_cat_074",
+        "source_text": "сообразительный",
+        "target_text": "clever",
+        "hint": "находчивый",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2979",
+        "category_id": "srv_cat_074",
+        "source_text": "интеллектуальный",
+        "target_text": "intelligent",
+        "hint": "с высоким IQ",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2980",
+        "category_id": "srv_cat_074",
+        "source_text": "талантливый",
+        "target_text": "talented",
+        "hint": "одарённый",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2981",
+        "category_id": "srv_cat_074",
+        "source_text": "успешный",
+        "target_text": "successful",
+        "hint": "добился цели",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2982",
+        "category_id": "srv_cat_074",
+        "source_text": "эффективный",
+        "target_text": "effective",
+        "hint": "даёт результат",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2983",
+        "category_id": "srv_cat_074",
+        "source_text": "действенный",
+        "target_text": "efficient",
+        "hint": "без лишних затрат",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2984",
+        "category_id": "srv_cat_074",
+        "source_text": "вкусный",
+        "target_text": "delicious",
+        "hint": "очень вкусный",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2985",
+        "category_id": "srv_cat_074",
+        "source_text": "вкусный",
+        "target_text": "tasty",
+        "hint": "приятный на вкус",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2986",
+        "category_id": "srv_cat_074",
+        "source_text": "аппетитный",
+        "target_text": "yummy",
+        "hint": "разговорное вкусно",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2987",
+        "category_id": "srv_cat_074",
+        "source_text": "милый",
+        "target_text": "cute",
+        "hint": "вызывает умиление",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2988",
+        "category_id": "srv_cat_074",
+        "source_text": "сладкий",
+        "target_text": "sweet",
+        "hint": "приятный",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2989",
+        "category_id": "srv_cat_074",
+        "source_text": "добрый",
+        "target_text": "kind",
+        "hint": "с хорошим сердцем",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2990",
+        "category_id": "srv_cat_074",
+        "source_text": "дружелюбный",
+        "target_text": "friendly",
+        "hint": "общительный",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2991",
+        "category_id": "srv_cat_074",
+        "source_text": "интересный",
+        "target_text": "interesting",
+        "hint": "привлекает внимание",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2992",
+        "category_id": "srv_cat_074",
+        "source_text": "увлекательный",
+        "target_text": "interesting",
+        "hint": "очень интересный",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2993",
+        "category_id": "srv_cat_074",
+        "source_text": "захватывающий",
+        "target_text": "exciting",
+        "hint": "вызывает эмоции",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2994",
+        "category_id": "srv_cat_074",
+        "source_text": "весёлый",
+        "target_text": "fun",
+        "hint": "приносит радость",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2995",
+        "category_id": "srv_cat_074",
+        "source_text": "смешной",
+        "target_text": "funny",
+        "hint": "вызывает смех",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2996",
+        "category_id": "srv_cat_074",
+        "source_text": "развлекательный",
+        "target_text": "entertaining",
+        "hint": "занимает",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2997",
+        "category_id": "srv_cat_074",
+        "source_text": "забавный",
+        "target_text": "amusing",
+        "hint": "смешной",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2998",
+        "category_id": "srv_cat_074",
+        "source_text": "надёжный",
+        "target_text": "reliable",
+        "hint": "можно доверять",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_2999",
+        "category_id": "srv_cat_074",
+        "source_text": "удобный",
+        "target_text": "comfortable",
+        "hint": "даёт комфорт",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "074"
+    },
+    {
+        "id": "srv_word_3000",
+        "category_id": "srv_cat_074",
+        "source_text": "удобный",
+        "target_text": "convenient",
+        "hint": "удобный по времени",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "074"
+    }
+]
