@@ -94,7 +94,7 @@
         "category_id": "srv_cat_002",
         "source_text": "рука",
         "target_text": "hand",
-        "hint": "часть тела",
+        "hint": "кисть",
         "sort_order": "10",
         "source": "srv",
         "cat_num": "002"
