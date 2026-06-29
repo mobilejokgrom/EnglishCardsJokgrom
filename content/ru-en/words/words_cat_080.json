@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3251",
+        "category_id": "srv_cat_080",
+        "source_text": "могу",
+        "target_text": "can",
+        "hint": "способность разрешение",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3252",
+        "category_id": "srv_cat_080",
+        "source_text": "мог бы",
+        "target_text": "could",
+        "hint": "вежливая просьба",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3253",
+        "category_id": "srv_cat_080",
+        "source_text": "можно",
+        "target_text": "may",
+        "hint": "разрешение",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3254",
+        "category_id": "srv_cat_080",
+        "source_text": "возможно",
+        "target_text": "might",
+        "hint": "малая вероятность",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3255",
+        "category_id": "srv_cat_080",
+        "source_text": "должен",
+        "target_text": "must",
+        "hint": "обязанность",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3256",
+        "category_id": "srv_cat_080",
+        "source_text": "давай",
+        "target_text": "shall",
+        "hint": "предложение",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3257",
+        "category_id": "srv_cat_080",
+        "source_text": "следует",
+        "target_text": "should",
+        "hint": "совет рекомендация",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3258",
+        "category_id": "srv_cat_080",
+        "source_text": "буду",
+        "target_text": "will",
+        "hint": "будущее обещание",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3259",
+        "category_id": "srv_cat_080",
+        "source_text": "стал бы",
+        "target_text": "would",
+        "hint": "условное",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3260",
+        "category_id": "srv_cat_080",
+        "source_text": "нужно",
+        "target_text": "need",
+        "hint": "необходимость",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3261",
+        "category_id": "srv_cat_080",
+        "source_text": "осмеливаться",
+        "target_text": "dare",
+        "hint": "рискнуть",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3262",
+        "category_id": "srv_cat_080",
+        "source_text": "следует",
+        "target_text": "should",
+        "hint": "моральный долг",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3263",
+        "category_id": "srv_cat_080",
+        "source_text": "приходится",
+        "target_text": "have to",
+        "hint": "вынужден",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3264",
+        "category_id": "srv_cat_080",
+        "source_text": "способный",
+        "target_text": "able",
+        "hint": "может сделать",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3265",
+        "category_id": "srv_cat_080",
+        "source_text": "собирается",
+        "target_text": "going",
+        "hint": "план намерение",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3266",
+        "category_id": "srv_cat_080",
+        "source_text": "раньше",
+        "target_text": "used",
+        "hint": "привычка в прошлом",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3267",
+        "category_id": "srv_cat_080",
+        "source_text": "должен",
+        "target_text": "supposed",
+        "hint": "ожидание",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3268",
+        "category_id": "srv_cat_080",
+        "source_text": "лучше бы",
+        "target_text": "better",
+        "hint": "совет с предупреждением",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3269",
+        "category_id": "srv_cat_080",
+        "source_text": "разрешено",
+        "target_text": "allowed",
+        "hint": "есть разрешение",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3270",
+        "category_id": "srv_cat_080",
+        "source_text": "требуется",
+        "target_text": "needed",
+        "hint": "обязательно",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3271",
+        "category_id": "srv_cat_080",
+        "source_text": "наверняка",
+        "target_text": "sure",
+        "hint": "уверенность",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3272",
+        "category_id": "srv_cat_080",
+        "source_text": "вероятно",
+        "target_text": "likely",
+        "hint": "возможно случится",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3273",
+        "category_id": "srv_cat_080",
+        "source_text": "вряд ли",
+        "target_text": "probably not",
+        "hint": "маловероятно",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3274",
+        "category_id": "srv_cat_080",
+        "source_text": "обязательно",
+        "target_text": "sure",
+        "hint": "уверен",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3275",
+        "category_id": "srv_cat_080",
+        "source_text": "неизбежно",
+        "target_text": "sure",
+        "hint": "точно случится",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3276",
+        "category_id": "srv_cat_080",
+        "source_text": "предназначен",
+        "target_text": "meant",
+        "hint": "цель задача",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3277",
+        "category_id": "srv_cat_080",
+        "source_text": "вот-вот",
+        "target_text": "about",
+        "hint": "скоро произойдёт",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3278",
+        "category_id": "srv_cat_080",
+        "source_text": "должен",
+        "target_text": "due",
+        "hint": "расписание",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3279",
+        "category_id": "srv_cat_080",
+        "source_text": "сумел",
+        "target_text": "manage",
+        "hint": "удалось сделать",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3280",
+        "category_id": "srv_cat_080",
+        "source_text": "не сумел",
+        "target_text": "fail",
+        "hint": "не получилось",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3281",
+        "category_id": "srv_cat_080",
+        "source_text": "склонен",
+        "target_text": "tend",
+        "hint": "имеет тенденцию",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3282",
+        "category_id": "srv_cat_080",
+        "source_text": "случается",
+        "target_text": "happen",
+        "hint": "происходит",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3283",
+        "category_id": "srv_cat_080",
+        "source_text": "приходит",
+        "target_text": "come",
+        "hint": "результат",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3284",
+        "category_id": "srv_cat_080",
+        "source_text": "получает",
+        "target_text": "get",
+        "hint": "возможность",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3285",
+        "category_id": "srv_cat_080",
+        "source_text": "постепенно",
+        "target_text": "grow",
+        "hint": "развивается",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3286",
+        "category_id": "srv_cat_080",
+        "source_text": "учится",
+        "target_text": "learn",
+        "hint": "приобретает навык",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3287",
+        "category_id": "srv_cat_080",
+        "source_text": "привык",
+        "target_text": "used",
+        "hint": "адаптировался",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3288",
+        "category_id": "srv_cat_080",
+        "source_text": "предпочёл бы",
+        "target_text": "rather",
+        "hint": "выбор",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3289",
+        "category_id": "srv_cat_080",
+        "source_text": "не могу не",
+        "target_text": "help",
+        "hint": "непреодолимо",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3290",
+        "category_id": "srv_cat_080",
+        "source_text": "можно бы",
+        "target_text": "as",
+        "hint": "совет",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3291",
+        "category_id": "srv_cat_080",
+        "source_text": "никогда не",
+        "target_text": "never",
+        "hint": "строгий запрет",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3292",
+        "category_id": "srv_cat_080",
+        "source_text": "был должен",
+        "target_text": "was",
+        "hint": "несбывшийся план",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3293",
+        "category_id": "srv_cat_080",
+        "source_text": "имел",
+        "target_text": "have",
+        "hint": "прошлое действие",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3294",
+        "category_id": "srv_cat_080",
+        "source_text": "следовало бы",
+        "target_text": "should",
+        "hint": "сожаление о прошлом",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3295",
+        "category_id": "srv_cat_080",
+        "source_text": "должно быть",
+        "target_text": "must",
+        "hint": "уверенность о прошлом",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3296",
+        "category_id": "srv_cat_080",
+        "source_text": "не стоило",
+        "target_text": "needn't",
+        "hint": "лишнее действие",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3297",
+        "category_id": "srv_cat_080",
+        "source_text": "можно бы",
+        "target_text": "can",
+        "hint": "мягкий совет",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3298",
+        "category_id": "srv_cat_080",
+        "source_text": "можно бы",
+        "target_text": "could",
+        "hint": "мягкий совет",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3299",
+        "category_id": "srv_cat_080",
+        "source_text": "должен",
+        "target_text": "to",
+        "hint": "назначение",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "080"
+    },
+    {
+        "id": "srv_word_3300",
+        "category_id": "srv_cat_080",
+        "source_text": "никогда не",
+        "target_text": "never",
+        "hint": "запрет навсегда",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "080"
+    }
+]
