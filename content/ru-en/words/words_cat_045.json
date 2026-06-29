@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1501",
+        "category_id": "srv_cat_045",
+        "source_text": "в",
+        "target_text": "in",
+        "hint": "внутри помещения",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1502",
+        "category_id": "srv_cat_045",
+        "source_text": "на",
+        "target_text": "on",
+        "hint": "на поверхности",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1503",
+        "category_id": "srv_cat_045",
+        "source_text": "у\/в",
+        "target_text": "at",
+        "hint": "конкретное место",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1504",
+        "category_id": "srv_cat_045",
+        "source_text": "к\/в",
+        "target_text": "to",
+        "hint": "направление движения",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1505",
+        "category_id": "srv_cat_045",
+        "source_text": "из\/от",
+        "target_text": "from",
+        "hint": "начало пути",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1506",
+        "category_id": "srv_cat_045",
+        "source_text": "с",
+        "target_text": "with",
+        "hint": "совместно с кем-то",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1507",
+        "category_id": "srv_cat_045",
+        "source_text": "без",
+        "target_text": "without",
+        "hint": "отсутствие чего-либо",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1508",
+        "category_id": "srv_cat_045",
+        "source_text": "для\/за",
+        "target_text": "for",
+        "hint": "цель или причина",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1509",
+        "category_id": "srv_cat_045",
+        "source_text": "у\/возле\/к",
+        "target_text": "by",
+        "hint": "рядом с чем-то",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1510",
+        "category_id": "srv_cat_045",
+        "source_text": "о\/около",
+        "target_text": "about",
+        "hint": "тема разговора",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1511",
+        "category_id": "srv_cat_045",
+        "source_text": "из\/о",
+        "target_text": "of",
+        "hint": "часть целого",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1512",
+        "category_id": "srv_cat_045",
+        "source_text": "под",
+        "target_text": "under",
+        "hint": "ниже чего-либо",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1513",
+        "category_id": "srv_cat_045",
+        "source_text": "над\/через",
+        "target_text": "over",
+        "hint": "выше чего-либо",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1514",
+        "category_id": "srv_cat_045",
+        "source_text": "над",
+        "target_text": "above",
+        "hint": "выше уровня",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1515",
+        "category_id": "srv_cat_045",
+        "source_text": "под",
+        "target_text": "below",
+        "hint": "ниже уровня",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1516",
+        "category_id": "srv_cat_045",
+        "source_text": "между",
+        "target_text": "between",
+        "hint": "два объекта",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1517",
+        "category_id": "srv_cat_045",
+        "source_text": "среди",
+        "target_text": "among",
+        "hint": "много объектов",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1518",
+        "category_id": "srv_cat_045",
+        "source_text": "за",
+        "target_text": "behind",
+        "hint": "позади объекта",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1519",
+        "category_id": "srv_cat_045",
+        "source_text": "перед",
+        "target_text": "in front of",
+        "hint": "спереди объекта",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1520",
+        "category_id": "srv_cat_045",
+        "source_text": "рядом с",
+        "target_text": "next to",
+        "hint": "возле объекта",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1521",
+        "category_id": "srv_cat_045",
+        "source_text": "около",
+        "target_text": "near",
+        "hint": "близко к чему-то",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1522",
+        "category_id": "srv_cat_045",
+        "source_text": "далеко от",
+        "target_text": "far from",
+        "hint": "большое расстояние",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1523",
+        "category_id": "srv_cat_045",
+        "source_text": "напротив",
+        "target_text": "opposite",
+        "hint": "другая сторона",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1524",
+        "category_id": "srv_cat_045",
+        "source_text": "вокруг\/около",
+        "target_text": "around",
+        "hint": "по кругу",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1525",
+        "category_id": "srv_cat_045",
+        "source_text": "через",
+        "target_text": "across",
+        "hint": "поперёк объекта",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1526",
+        "category_id": "srv_cat_045",
+        "source_text": "через",
+        "target_text": "through",
+        "hint": "сквозь объект",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1527",
+        "category_id": "srv_cat_045",
+        "source_text": "вдоль",
+        "target_text": "along",
+        "hint": "по длине",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1528",
+        "category_id": "srv_cat_045",
+        "source_text": "к\/в направлении",
+        "target_text": "towards",
+        "hint": "движение к чему-то",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1529",
+        "category_id": "srv_cat_045",
+        "source_text": "мимо",
+        "target_text": "past",
+        "hint": "проходим рядом",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1530",
+        "category_id": "srv_cat_045",
+        "source_text": "в",
+        "target_text": "into",
+        "hint": "внутрь объекта",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1531",
+        "category_id": "srv_cat_045",
+        "source_text": "из",
+        "target_text": "out of",
+        "hint": "выход изнутри",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1532",
+        "category_id": "srv_cat_045",
+        "source_text": "вверх",
+        "target_text": "up",
+        "hint": "движение наверх",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1533",
+        "category_id": "srv_cat_045",
+        "source_text": "вниз",
+        "target_text": "down",
+        "hint": "движение вниз",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1534",
+        "category_id": "srv_cat_045",
+        "source_text": "перед\/до",
+        "target_text": "before",
+        "hint": "раньше времени",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1535",
+        "category_id": "srv_cat_045",
+        "source_text": "после",
+        "target_text": "after",
+        "hint": "позже времени",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1536",
+        "category_id": "srv_cat_045",
+        "source_text": "во время",
+        "target_text": "during",
+        "hint": "в процессе",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1537",
+        "category_id": "srv_cat_045",
+        "source_text": "до",
+        "target_text": "until\/till",
+        "hint": "конкретного момента",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1538",
+        "category_id": "srv_cat_045",
+        "source_text": "с",
+        "target_text": "since",
+        "hint": "определённого времени",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1539",
+        "category_id": "srv_cat_045",
+        "source_text": "назад",
+        "target_text": "ago",
+        "hint": "прошлое время",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1540",
+        "category_id": "srv_cat_045",
+        "source_text": "внутри",
+        "target_text": "inside",
+        "hint": "в середине чего-то",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1541",
+        "category_id": "srv_cat_045",
+        "source_text": "снаружи",
+        "target_text": "outside",
+        "hint": "вне помещения",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1542",
+        "category_id": "srv_cat_045",
+        "source_text": "рядом с",
+        "target_text": "beside",
+        "hint": "возле объекта",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1543",
+        "category_id": "srv_cat_045",
+        "source_text": "кроме\/помимо",
+        "target_text": "besides",
+        "hint": "дополнительно к чему-то",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1544",
+        "category_id": "srv_cat_045",
+        "source_text": "вместо",
+        "target_text": "instead of",
+        "hint": "замена объекта",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1545",
+        "category_id": "srv_cat_045",
+        "source_text": "из-за",
+        "target_text": "because of",
+        "hint": "причина чего-то",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1546",
+        "category_id": "srv_cat_045",
+        "source_text": "согласно",
+        "target_text": "according to",
+        "hint": "чьи-то слова",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1547",
+        "category_id": "srv_cat_045",
+        "source_text": "несмотря на",
+        "target_text": "despite",
+        "hint": "вопреки обстоятельствам",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1548",
+        "category_id": "srv_cat_045",
+        "source_text": "с\/от",
+        "target_text": "off",
+        "hint": "отделение от чего-то",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1549",
+        "category_id": "srv_cat_045",
+        "source_text": "в",
+        "target_text": "into",
+        "hint": "вхождение внутрь",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "045"
+    },
+    {
+        "id": "srv_word_1550",
+        "category_id": "srv_cat_045",
+        "source_text": "на",
+        "target_text": "onto",
+        "hint": "движение на поверхность",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "045"
+    }
+]
