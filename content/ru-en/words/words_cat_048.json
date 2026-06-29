@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1651",
+        "category_id": "srv_cat_048",
+        "source_text": "держать",
+        "target_text": "hold",
+        "hint": "в руке",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1652",
+        "category_id": "srv_cat_048",
+        "source_text": "нести",
+        "target_text": "carry",
+        "hint": "с собой",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1653",
+        "category_id": "srv_cat_048",
+        "source_text": "поднимать",
+        "target_text": "pick up",
+        "hint": "с пола",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1654",
+        "category_id": "srv_cat_048",
+        "source_text": "класть",
+        "target_text": "put down",
+        "hint": "на поверхность",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1655",
+        "category_id": "srv_cat_048",
+        "source_text": "размещать",
+        "target_text": "place",
+        "hint": "в нужное место",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1656",
+        "category_id": "srv_cat_048",
+        "source_text": "строить",
+        "target_text": "build",
+        "hint": "создавать здание",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1657",
+        "category_id": "srv_cat_048",
+        "source_text": "ломать",
+        "target_text": "break",
+        "hint": "повреждать вещь",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1658",
+        "category_id": "srv_cat_048",
+        "source_text": "чинить",
+        "target_text": "fix",
+        "hint": "восстанавливать работу",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1659",
+        "category_id": "srv_cat_048",
+        "source_text": "складывать",
+        "target_text": "fold",
+        "hint": "делать компактным",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1660",
+        "category_id": "srv_cat_048",
+        "source_text": "открывать",
+        "target_text": "open",
+        "hint": "раскрывать сложенное",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1661",
+        "category_id": "srv_cat_048",
+        "source_text": "заворачивать",
+        "target_text": "wrap",
+        "hint": "в бумагу",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1662",
+        "category_id": "srv_cat_048",
+        "source_text": "разворачивать",
+        "target_text": "unwrap",
+        "hint": "снимать упаковку",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1663",
+        "category_id": "srv_cat_048",
+        "source_text": "нажимать",
+        "target_text": "press",
+        "hint": "с силой",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1664",
+        "category_id": "srv_cat_048",
+        "source_text": "щелкать",
+        "target_text": "click",
+        "hint": "по кнопке",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1665",
+        "category_id": "srv_cat_048",
+        "source_text": "печатать",
+        "target_text": "type",
+        "hint": "на клавиатуре",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1666",
+        "category_id": "srv_cat_048",
+        "source_text": "копировать",
+        "target_text": "copy",
+        "hint": "создавать копию",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1667",
+        "category_id": "srv_cat_048",
+        "source_text": "вставлять",
+        "target_text": "paste",
+        "hint": "из буфера",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1668",
+        "category_id": "srv_cat_048",
+        "source_text": "помешивать",
+        "target_text": "stir",
+        "hint": "ложкой",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1669",
+        "category_id": "srv_cat_048",
+        "source_text": "смешивать",
+        "target_text": "mix",
+        "hint": "ингредиенты вместе",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1670",
+        "category_id": "srv_cat_048",
+        "source_text": "наливать",
+        "target_text": "pour",
+        "hint": "жидкость",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1671",
+        "category_id": "srv_cat_048",
+        "source_text": "рубить",
+        "target_text": "chop",
+        "hint": "на куски",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1672",
+        "category_id": "srv_cat_048",
+        "source_text": "нарезать",
+        "target_text": "slice",
+        "hint": "ломтиками",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1673",
+        "category_id": "srv_cat_048",
+        "source_text": "чистить",
+        "target_text": "peel",
+        "hint": "снимать кожуру",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1674",
+        "category_id": "srv_cat_048",
+        "source_text": "тёреть",
+        "target_text": "grate",
+        "hint": "на тёрке",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1675",
+        "category_id": "srv_cat_048",
+        "source_text": "прятать",
+        "target_text": "hide",
+        "hint": "от других",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1676",
+        "category_id": "srv_cat_048",
+        "source_text": "хранить",
+        "target_text": "keep",
+        "hint": "у себя",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1677",
+        "category_id": "srv_cat_048",
+        "source_text": "складировать",
+        "target_text": "store",
+        "hint": "про запас",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1678",
+        "category_id": "srv_cat_048",
+        "source_text": "упаковывать",
+        "target_text": "pack",
+        "hint": "в сумку",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1679",
+        "category_id": "srv_cat_048",
+        "source_text": "распаковывать",
+        "target_text": "unpack",
+        "hint": "вынимать вещи",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1680",
+        "category_id": "srv_cat_048",
+        "source_text": "отправлять",
+        "target_text": "send",
+        "hint": "кому-то",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1681",
+        "category_id": "srv_cat_048",
+        "source_text": "получать",
+        "target_text": "receive",
+        "hint": "от кого-то",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1682",
+        "category_id": "srv_cat_048",
+        "source_text": "возвращать",
+        "target_text": "return",
+        "hint": "обратно",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1683",
+        "category_id": "srv_cat_048",
+        "source_text": "одалживать",
+        "target_text": "lend",
+        "hint": "давать на время",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1684",
+        "category_id": "srv_cat_048",
+        "source_text": "занимать",
+        "target_text": "borrow",
+        "hint": "брать на время",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1685",
+        "category_id": "srv_cat_048",
+        "source_text": "вешать",
+        "target_text": "hang",
+        "hint": "на крючок",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1686",
+        "category_id": "srv_cat_048",
+        "source_text": "завязывать",
+        "target_text": "tie",
+        "hint": "узлом",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1687",
+        "category_id": "srv_cat_048",
+        "source_text": "развязывать",
+        "target_text": "untie",
+        "hint": "узел",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1688",
+        "category_id": "srv_cat_048",
+        "source_text": "запирать",
+        "target_text": "lock",
+        "hint": "на замок",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1689",
+        "category_id": "srv_cat_048",
+        "source_text": "отпирать",
+        "target_text": "unlock",
+        "hint": "замок",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1690",
+        "category_id": "srv_cat_048",
+        "source_text": "трясти",
+        "target_text": "shake",
+        "hint": "туда-сюда",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1691",
+        "category_id": "srv_cat_048",
+        "source_text": "сжимать",
+        "target_text": "squeeze",
+        "hint": "со всех сторон",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1692",
+        "category_id": "srv_cat_048",
+        "source_text": "растягивать",
+        "target_text": "stretch",
+        "hint": "делать длиннее",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1693",
+        "category_id": "srv_cat_048",
+        "source_text": "вытаскивать",
+        "target_text": "pull out",
+        "hint": "наружу",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1694",
+        "category_id": "srv_cat_048",
+        "source_text": "вталкивать",
+        "target_text": "push in",
+        "hint": "внутрь",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1695",
+        "category_id": "srv_cat_048",
+        "source_text": "прикреплять",
+        "target_text": "attach",
+        "hint": "к чему-то",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1696",
+        "category_id": "srv_cat_048",
+        "source_text": "удалять",
+        "target_text": "remove",
+        "hint": "отсоединять",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1697",
+        "category_id": "srv_cat_048",
+        "source_text": "собирать",
+        "target_text": "collect",
+        "hint": "вместе",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1698",
+        "category_id": "srv_cat_048",
+        "source_text": "делить",
+        "target_text": "divide",
+        "hint": "на части",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1699",
+        "category_id": "srv_cat_048",
+        "source_text": "измерять",
+        "target_text": "measure",
+        "hint": "размер",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "048"
+    },
+    {
+        "id": "srv_word_1700",
+        "category_id": "srv_cat_048",
+        "source_text": "считать",
+        "target_text": "count",
+        "hint": "количество",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "048"
+    }
+]
