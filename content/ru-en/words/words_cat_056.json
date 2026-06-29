@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2051",
+        "category_id": "srv_cat_056",
+        "source_text": "дом",
+        "target_text": "house",
+        "hint": "здание для жизни",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2052",
+        "category_id": "srv_cat_056",
+        "source_text": "квартира",
+        "target_text": "flat",
+        "hint": "жильё в доме",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2053",
+        "category_id": "srv_cat_056",
+        "source_text": "комната",
+        "target_text": "room",
+        "hint": "часть дома",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2054",
+        "category_id": "srv_cat_056",
+        "source_text": "спальня",
+        "target_text": "bedroom",
+        "hint": "комната для сна",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2055",
+        "category_id": "srv_cat_056",
+        "source_text": "ванная",
+        "target_text": "bathroom",
+        "hint": "комната для мытья",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2056",
+        "category_id": "srv_cat_056",
+        "source_text": "кухня",
+        "target_text": "kitchen",
+        "hint": "комната для готовки",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2057",
+        "category_id": "srv_cat_056",
+        "source_text": "гостиная",
+        "target_text": "lounge",
+        "hint": "комната для отдыха",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2058",
+        "category_id": "srv_cat_056",
+        "source_text": "прихожая",
+        "target_text": "hall",
+        "hint": "коридор при входе",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2059",
+        "category_id": "srv_cat_056",
+        "source_text": "балкон",
+        "target_text": "balcony",
+        "hint": "открытая площадка",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2060",
+        "category_id": "srv_cat_056",
+        "source_text": "пол",
+        "target_text": "floor",
+        "hint": "по чему ходят",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2061",
+        "category_id": "srv_cat_056",
+        "source_text": "стена",
+        "target_text": "wall",
+        "hint": "вертикальная часть",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2062",
+        "category_id": "srv_cat_056",
+        "source_text": "потолок",
+        "target_text": "ceiling",
+        "hint": "верх комнаты",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2063",
+        "category_id": "srv_cat_056",
+        "source_text": "дверь",
+        "target_text": "door",
+        "hint": "вход в комнату",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2064",
+        "category_id": "srv_cat_056",
+        "source_text": "окно",
+        "target_text": "window",
+        "hint": "стекло в стене",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2065",
+        "category_id": "srv_cat_056",
+        "source_text": "лестница",
+        "target_text": "stairs",
+        "hint": "подъём между этажами",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2066",
+        "category_id": "srv_cat_056",
+        "source_text": "крыша",
+        "target_text": "roof",
+        "hint": "верх дома",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2067",
+        "category_id": "srv_cat_056",
+        "source_text": "кровать",
+        "target_text": "bed",
+        "hint": "спят на ней",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2068",
+        "category_id": "srv_cat_056",
+        "source_text": "диван",
+        "target_text": "sofa",
+        "hint": "сидят и лежат",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2069",
+        "category_id": "srv_cat_056",
+        "source_text": "кресло",
+        "target_text": "armchair",
+        "hint": "мягкое сиденье",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2070",
+        "category_id": "srv_cat_056",
+        "source_text": "стул",
+        "target_text": "chair",
+        "hint": "сидят на нём",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2071",
+        "category_id": "srv_cat_056",
+        "source_text": "стол",
+        "target_text": "table",
+        "hint": "поверхность для еды",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2072",
+        "category_id": "srv_cat_056",
+        "source_text": "письменный стол",
+        "target_text": "desk",
+        "hint": "стол для работы",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2073",
+        "category_id": "srv_cat_056",
+        "source_text": "шкаф",
+        "target_text": "wardrobe",
+        "hint": "хранят одежду",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2074",
+        "category_id": "srv_cat_056",
+        "source_text": "шкафчик",
+        "target_text": "cupboard",
+        "hint": "хранят посуду",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2075",
+        "category_id": "srv_cat_056",
+        "source_text": "полка",
+        "target_text": "shelf",
+        "hint": "для книг и вещей",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2076",
+        "category_id": "srv_cat_056",
+        "source_text": "ящик",
+        "target_text": "drawer",
+        "hint": "выдвижное хранилище",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2077",
+        "category_id": "srv_cat_056",
+        "source_text": "ковёр",
+        "target_text": "carpet",
+        "hint": "на полу",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2078",
+        "category_id": "srv_cat_056",
+        "source_text": "штора",
+        "target_text": "curtain",
+        "hint": "закрывает окно",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2079",
+        "category_id": "srv_cat_056",
+        "source_text": "подушка",
+        "target_text": "pillow",
+        "hint": "кладут под голову",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2080",
+        "category_id": "srv_cat_056",
+        "source_text": "одеяло",
+        "target_text": "blanket",
+        "hint": "укрываются им",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2081",
+        "category_id": "srv_cat_056",
+        "source_text": "простыня",
+        "target_text": "sheet",
+        "hint": "ткань на матрас",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2082",
+        "category_id": "srv_cat_056",
+        "source_text": "матрас",
+        "target_text": "mattress",
+        "hint": "лежат на нём",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2083",
+        "category_id": "srv_cat_056",
+        "source_text": "зеркало",
+        "target_text": "mirror",
+        "hint": "отражает",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2084",
+        "category_id": "srv_cat_056",
+        "source_text": "лампа",
+        "target_text": "lamp",
+        "hint": "освещает",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2085",
+        "category_id": "srv_cat_056",
+        "source_text": "холодильник",
+        "target_text": "fridge",
+        "hint": "хранит продукты",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2086",
+        "category_id": "srv_cat_056",
+        "source_text": "духовка",
+        "target_text": "oven",
+        "hint": "пекут в ней",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2087",
+        "category_id": "srv_cat_056",
+        "source_text": "плита",
+        "target_text": "stove",
+        "hint": "готовят на ней",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2088",
+        "category_id": "srv_cat_056",
+        "source_text": "микроволновка",
+        "target_text": "microwave",
+        "hint": "греет еду",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2089",
+        "category_id": "srv_cat_056",
+        "source_text": "раковина",
+        "target_text": "sink",
+        "hint": "моют посуду",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2090",
+        "category_id": "srv_cat_056",
+        "source_text": "туалет",
+        "target_text": "toilet",
+        "hint": "для нужд",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2091",
+        "category_id": "srv_cat_056",
+        "source_text": "ванна",
+        "target_text": "bath",
+        "hint": "моются в ней",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2092",
+        "category_id": "srv_cat_056",
+        "source_text": "душ",
+        "target_text": "shower",
+        "hint": "моются под ним",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2093",
+        "category_id": "srv_cat_056",
+        "source_text": "кран",
+        "target_text": "tap",
+        "hint": "откуда течёт вода",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2094",
+        "category_id": "srv_cat_056",
+        "source_text": "чашка",
+        "target_text": "cup",
+        "hint": "пьют из неё",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2095",
+        "category_id": "srv_cat_056",
+        "source_text": "тарелка",
+        "target_text": "plate",
+        "hint": "едят с неё",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2096",
+        "category_id": "srv_cat_056",
+        "source_text": "миска",
+        "target_text": "bowl",
+        "hint": "для супа",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2097",
+        "category_id": "srv_cat_056",
+        "source_text": "кастрюля",
+        "target_text": "pot",
+        "hint": "варят в ней",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2098",
+        "category_id": "srv_cat_056",
+        "source_text": "сковорода",
+        "target_text": "pan",
+        "hint": "жарят на ней",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2099",
+        "category_id": "srv_cat_056",
+        "source_text": "ключ",
+        "target_text": "key",
+        "hint": "открывает дверь",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "056"
+    },
+    {
+        "id": "srv_word_2100",
+        "category_id": "srv_cat_056",
+        "source_text": "замок",
+        "target_text": "lock",
+        "hint": "на двери",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "056"
+    }
+]
