@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1401",
+        "category_id": "srv_cat_043",
+        "source_text": "думать",
+        "target_text": "think",
+        "hint": "думать о чём-то",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1402",
+        "category_id": "srv_cat_043",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1403",
+        "category_id": "srv_cat_043",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "понимать смысл",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1404",
+        "category_id": "srv_cat_043",
+        "source_text": "помнить",
+        "target_text": "remember",
+        "hint": "помнить",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1405",
+        "category_id": "srv_cat_043",
+        "source_text": "забывать",
+        "target_text": "forget",
+        "hint": "забывать",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1406",
+        "category_id": "srv_cat_043",
+        "source_text": "учиться",
+        "target_text": "learn",
+        "hint": "учиться",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1407",
+        "category_id": "srv_cat_043",
+        "source_text": "изучать",
+        "target_text": "study",
+        "hint": "изучать",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1408",
+        "category_id": "srv_cat_043",
+        "source_text": "верить",
+        "target_text": "believe",
+        "hint": "верить",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1409",
+        "category_id": "srv_cat_043",
+        "source_text": "угадывать",
+        "target_text": "guess",
+        "hint": "угадывать",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1410",
+        "category_id": "srv_cat_043",
+        "source_text": "интересоваться",
+        "target_text": "wonder",
+        "hint": "интересоваться",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1411",
+        "category_id": "srv_cat_043",
+        "source_text": "представлять",
+        "target_text": "imagine",
+        "hint": "представлять",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1412",
+        "category_id": "srv_cat_043",
+        "source_text": "решать",
+        "target_text": "decide",
+        "hint": "решать",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1413",
+        "category_id": "srv_cat_043",
+        "source_text": "выбирать",
+        "target_text": "choose",
+        "hint": "выбирать",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1414",
+        "category_id": "srv_cat_043",
+        "source_text": "планировать",
+        "target_text": "plan",
+        "hint": "планировать",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1415",
+        "category_id": "srv_cat_043",
+        "source_text": "замечать",
+        "target_text": "notice",
+        "hint": "замечать",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1416",
+        "category_id": "srv_cat_043",
+        "source_text": "означать",
+        "target_text": "mean",
+        "hint": "означать",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1417",
+        "category_id": "srv_cat_043",
+        "source_text": "соглашаться",
+        "target_text": "agree",
+        "hint": "соглашаться",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1418",
+        "category_id": "srv_cat_043",
+        "source_text": "не соглашаться",
+        "target_text": "disagree",
+        "hint": "не соглашаться",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1419",
+        "category_id": "srv_cat_043",
+        "source_text": "объяснять",
+        "target_text": "explain",
+        "hint": "объяснять",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1420",
+        "category_id": "srv_cat_043",
+        "source_text": "описывать",
+        "target_text": "describe",
+        "hint": "описывать",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1421",
+        "category_id": "srv_cat_043",
+        "source_text": "чувствовать",
+        "target_text": "feel",
+        "hint": "чувствовать",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1422",
+        "category_id": "srv_cat_043",
+        "source_text": "нравиться",
+        "target_text": "like",
+        "hint": "нравиться",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1423",
+        "category_id": "srv_cat_043",
+        "source_text": "любить",
+        "target_text": "love",
+        "hint": "любить",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1424",
+        "category_id": "srv_cat_043",
+        "source_text": "ненавидеть",
+        "target_text": "hate",
+        "hint": "ненавидеть",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1425",
+        "category_id": "srv_cat_043",
+        "source_text": "наслаждаться",
+        "target_text": "enjoy",
+        "hint": "наслаждаться",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1426",
+        "category_id": "srv_cat_043",
+        "source_text": "предпочитать",
+        "target_text": "prefer",
+        "hint": "предпочитать",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1427",
+        "category_id": "srv_cat_043",
+        "source_text": "скучать",
+        "target_text": "miss",
+        "hint": "скучать",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1428",
+        "category_id": "srv_cat_043",
+        "source_text": "заботиться",
+        "target_text": "care",
+        "hint": "заботиться",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1429",
+        "category_id": "srv_cat_043",
+        "source_text": "беспокоиться",
+        "target_text": "worry",
+        "hint": "беспокоиться",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1430",
+        "category_id": "srv_cat_043",
+        "source_text": "надеяться",
+        "target_text": "hope",
+        "hint": "надеяться",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1431",
+        "category_id": "srv_cat_043",
+        "source_text": "желать",
+        "target_text": "wish",
+        "hint": "желать",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1432",
+        "category_id": "srv_cat_043",
+        "source_text": "бояться",
+        "target_text": "fear",
+        "hint": "бояться",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1433",
+        "category_id": "srv_cat_043",
+        "source_text": "сожалеть",
+        "target_text": "regret",
+        "hint": "сожалеть",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1434",
+        "category_id": "srv_cat_043",
+        "source_text": "благодарить",
+        "target_text": "thank",
+        "hint": "благодарить",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1435",
+        "category_id": "srv_cat_043",
+        "source_text": "нравиться",
+        "target_text": "like",
+        "hint": "нравиться сильно",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1436",
+        "category_id": "srv_cat_043",
+        "source_text": "уважать",
+        "target_text": "respect",
+        "hint": "уважать",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1437",
+        "category_id": "srv_cat_043",
+        "source_text": "доверять",
+        "target_text": "trust",
+        "hint": "доверять",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1438",
+        "category_id": "srv_cat_043",
+        "source_text": "сомневаться",
+        "target_text": "doubt",
+        "hint": "сомневаться",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1439",
+        "category_id": "srv_cat_043",
+        "source_text": "удивлять",
+        "target_text": "surprise",
+        "hint": "удивлять",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1440",
+        "category_id": "srv_cat_043",
+        "source_text": "шокировать",
+        "target_text": "shock",
+        "hint": "шокировать",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1441",
+        "category_id": "srv_cat_043",
+        "source_text": "огорчать",
+        "target_text": "sadden",
+        "hint": "огорчать",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1442",
+        "category_id": "srv_cat_043",
+        "source_text": "радовать",
+        "target_text": "please",
+        "hint": "радовать",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1443",
+        "category_id": "srv_cat_043",
+        "source_text": "интересовать",
+        "target_text": "interest",
+        "hint": "интересовать",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1444",
+        "category_id": "srv_cat_043",
+        "source_text": "наводить скуку",
+        "target_text": "bore",
+        "hint": "наводить скуку",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1445",
+        "category_id": "srv_cat_043",
+        "source_text": "возбуждать",
+        "target_text": "excite",
+        "hint": "возбуждать",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1446",
+        "category_id": "srv_cat_043",
+        "source_text": "развлекать",
+        "target_text": "entertain",
+        "hint": "развлекать",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1447",
+        "category_id": "srv_cat_043",
+        "source_text": "путать",
+        "target_text": "mix up",
+        "hint": "путать",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1448",
+        "category_id": "srv_cat_043",
+        "source_text": "раздражать",
+        "target_text": "annoy",
+        "hint": "раздражать",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1449",
+        "category_id": "srv_cat_043",
+        "source_text": "пугать",
+        "target_text": "frighten",
+        "hint": "пугать",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "043"
+    },
+    {
+        "id": "srv_word_1450",
+        "category_id": "srv_cat_043",
+        "source_text": "хотеть",
+        "target_text": "want",
+        "hint": "хотеть",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "043"
+    }
+]
