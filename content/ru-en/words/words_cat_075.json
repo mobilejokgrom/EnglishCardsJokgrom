@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3001",
+        "category_id": "srv_cat_075",
+        "source_text": "что",
+        "target_text": "what",
+        "hint": "спрашивает о предмете",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3002",
+        "category_id": "srv_cat_075",
+        "source_text": "где",
+        "target_text": "where",
+        "hint": "спрашивает о месте",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3003",
+        "category_id": "srv_cat_075",
+        "source_text": "когда",
+        "target_text": "when",
+        "hint": "спрашивает о времени",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3004",
+        "category_id": "srv_cat_075",
+        "source_text": "почему",
+        "target_text": "why",
+        "hint": "спрашивает о причине",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3005",
+        "category_id": "srv_cat_075",
+        "source_text": "кто",
+        "target_text": "who",
+        "hint": "спрашивает о человеке",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3006",
+        "category_id": "srv_cat_075",
+        "source_text": "как",
+        "target_text": "how",
+        "hint": "спрашивает о способе",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3007",
+        "category_id": "srv_cat_075",
+        "source_text": "какой",
+        "target_text": "which",
+        "hint": "выбор из вариантов",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3008",
+        "category_id": "srv_cat_075",
+        "source_text": "чей",
+        "target_text": "whose",
+        "hint": "принадлежность",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3009",
+        "category_id": "srv_cat_075",
+        "source_text": "кого",
+        "target_text": "whom",
+        "hint": "объект вопроса",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3010",
+        "category_id": "srv_cat_075",
+        "source_text": "что это",
+        "target_text": "what",
+        "hint": "вопрос о предмете",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3011",
+        "category_id": "srv_cat_075",
+        "source_text": "где находится",
+        "target_text": "where",
+        "hint": "вопрос о месте",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3012",
+        "category_id": "srv_cat_075",
+        "source_text": "когда будет",
+        "target_text": "when",
+        "hint": "вопрос о времени",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3013",
+        "category_id": "srv_cat_075",
+        "source_text": "как дела",
+        "target_text": "how",
+        "hint": "вопрос о состоянии",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3014",
+        "category_id": "srv_cat_075",
+        "source_text": "кто это",
+        "target_text": "who",
+        "hint": "вопрос о личности",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3015",
+        "category_id": "srv_cat_075",
+        "source_text": "почему так",
+        "target_text": "why",
+        "hint": "вопрос о причине",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3016",
+        "category_id": "srv_cat_075",
+        "source_text": "делаешь ли",
+        "target_text": "do",
+        "hint": "начало вопроса",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3017",
+        "category_id": "srv_cat_075",
+        "source_text": "делает ли",
+        "target_text": "does",
+        "hint": "для he\/she\/it",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3018",
+        "category_id": "srv_cat_075",
+        "source_text": "сделал ли",
+        "target_text": "did",
+        "hint": "прошедшее время",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3019",
+        "category_id": "srv_cat_075",
+        "source_text": "есть ли",
+        "target_text": "is",
+        "hint": "форма быть",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3020",
+        "category_id": "srv_cat_075",
+        "source_text": "я ли",
+        "target_text": "am",
+        "hint": "форма быть для I",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3021",
+        "category_id": "srv_cat_075",
+        "source_text": "есть ли",
+        "target_text": "are",
+        "hint": "форма быть для you\/we\/they",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3022",
+        "category_id": "srv_cat_075",
+        "source_text": "был ли",
+        "target_text": "was",
+        "hint": "прошедшее быть",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3023",
+        "category_id": "srv_cat_075",
+        "source_text": "были ли",
+        "target_text": "were",
+        "hint": "прошедшее быть",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3024",
+        "category_id": "srv_cat_075",
+        "source_text": "есть ли",
+        "target_text": "have",
+        "hint": "форма иметь",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3025",
+        "category_id": "srv_cat_075",
+        "source_text": "есть ли",
+        "target_text": "has",
+        "hint": "для he\/she\/it",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3026",
+        "category_id": "srv_cat_075",
+        "source_text": "был ли",
+        "target_text": "had",
+        "hint": "прошедшее иметь",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3027",
+        "category_id": "srv_cat_075",
+        "source_text": "можешь ли",
+        "target_text": "can",
+        "hint": "способность",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3028",
+        "category_id": "srv_cat_075",
+        "source_text": "мог бы",
+        "target_text": "could",
+        "hint": "вежливая просьба",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3029",
+        "category_id": "srv_cat_075",
+        "source_text": "будешь ли",
+        "target_text": "will",
+        "hint": "будущее",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3030",
+        "category_id": "srv_cat_075",
+        "source_text": "стал бы",
+        "target_text": "would",
+        "hint": "условное",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3031",
+        "category_id": "srv_cat_075",
+        "source_text": "следует ли",
+        "target_text": "should",
+        "hint": "совет",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3032",
+        "category_id": "srv_cat_075",
+        "source_text": "можно ли",
+        "target_text": "may",
+        "hint": "разрешение",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3033",
+        "category_id": "srv_cat_075",
+        "source_text": "должен ли",
+        "target_text": "must",
+        "hint": "обязанность",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3034",
+        "category_id": "srv_cat_075",
+        "source_text": "нужно ли",
+        "target_text": "need",
+        "hint": "необходимость",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3035",
+        "category_id": "srv_cat_075",
+        "source_text": "давай",
+        "target_text": "shall",
+        "hint": "предложение",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3036",
+        "category_id": "srv_cat_075",
+        "source_text": "давай",
+        "target_text": "let's",
+        "hint": "предложение",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3037",
+        "category_id": "srv_cat_075",
+        "source_text": "разве нет",
+        "target_text": "isn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3038",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "aren't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3039",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не был",
+        "target_text": "wasn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3040",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не были",
+        "target_text": "weren't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3041",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "don't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3042",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "doesn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3043",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "didn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3044",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "hasn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3045",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "haven't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3046",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не",
+        "target_text": "hadn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3047",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не можешь",
+        "target_text": "can't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3048",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не будет",
+        "target_text": "won't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3049",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не стал",
+        "target_text": "wouldn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "075"
+    },
+    {
+        "id": "srv_word_3050",
+        "category_id": "srv_cat_075",
+        "source_text": "разве не следует",
+        "target_text": "shouldn't",
+        "hint": "отрицательный вопрос",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "075"
+    }
+]
