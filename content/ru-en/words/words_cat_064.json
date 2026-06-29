@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2451",
+        "category_id": "srv_cat_064",
+        "source_text": "красный",
+        "target_text": "red",
+        "hint": "цвета крови яблока",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2452",
+        "category_id": "srv_cat_064",
+        "source_text": "синий",
+        "target_text": "blue",
+        "hint": "цвета неба моря",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2453",
+        "category_id": "srv_cat_064",
+        "source_text": "зелёный",
+        "target_text": "green",
+        "hint": "цвета травы листьев",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2454",
+        "category_id": "srv_cat_064",
+        "source_text": "жёлтый",
+        "target_text": "yellow",
+        "hint": "цвета солнца лимона",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2455",
+        "category_id": "srv_cat_064",
+        "source_text": "оранжевый",
+        "target_text": "orange",
+        "hint": "цвета апельсина",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2456",
+        "category_id": "srv_cat_064",
+        "source_text": "фиолетовый",
+        "target_text": "purple",
+        "hint": "цвета винограда",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2457",
+        "category_id": "srv_cat_064",
+        "source_text": "розовый",
+        "target_text": "pink",
+        "hint": "цвета розы",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2458",
+        "category_id": "srv_cat_064",
+        "source_text": "коричневый",
+        "target_text": "brown",
+        "hint": "цвета шоколада",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2459",
+        "category_id": "srv_cat_064",
+        "source_text": "чёрный",
+        "target_text": "black",
+        "hint": "цвета ночи",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2460",
+        "category_id": "srv_cat_064",
+        "source_text": "белый",
+        "target_text": "white",
+        "hint": "цвета снега",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2461",
+        "category_id": "srv_cat_064",
+        "source_text": "серый",
+        "target_text": "gray",
+        "hint": "цвета облаков",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2462",
+        "category_id": "srv_cat_064",
+        "source_text": "серебристый",
+        "target_text": "silver",
+        "hint": "цвета металла",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2463",
+        "category_id": "srv_cat_064",
+        "source_text": "золотой",
+        "target_text": "gold",
+        "hint": "цвета золота",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2464",
+        "category_id": "srv_cat_064",
+        "source_text": "бежевый",
+        "target_text": "beige",
+        "hint": "светло-коричневый",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2465",
+        "category_id": "srv_cat_064",
+        "source_text": "кремовый",
+        "target_text": "cream",
+        "hint": "цвета сливок",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2466",
+        "category_id": "srv_cat_064",
+        "source_text": "тёмно-синий",
+        "target_text": "navy",
+        "hint": "цвета морской формы",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2467",
+        "category_id": "srv_cat_064",
+        "source_text": "лаймовый",
+        "target_text": "lime",
+        "hint": "яркий зелёно-жёлтый",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2468",
+        "category_id": "srv_cat_064",
+        "source_text": "оливковый",
+        "target_text": "olive",
+        "hint": "зелёный с коричневым",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2469",
+        "category_id": "srv_cat_064",
+        "source_text": "светлый",
+        "target_text": "light",
+        "hint": "не тёмный оттенок",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2470",
+        "category_id": "srv_cat_064",
+        "source_text": "тёмный",
+        "target_text": "dark",
+        "hint": "не светлый оттенок",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2471",
+        "category_id": "srv_cat_064",
+        "source_text": "яркий",
+        "target_text": "bright",
+        "hint": "сильный цвет",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2472",
+        "category_id": "srv_cat_064",
+        "source_text": "бледный",
+        "target_text": "pale",
+        "hint": "слабый цвет",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2473",
+        "category_id": "srv_cat_064",
+        "source_text": "глубокий",
+        "target_text": "deep",
+        "hint": "насыщенный цвет",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2474",
+        "category_id": "srv_cat_064",
+        "source_text": "чистый",
+        "target_text": "clear",
+        "hint": "прозрачный цвет",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2475",
+        "category_id": "srv_cat_064",
+        "source_text": "грязный",
+        "target_text": "dirty",
+        "hint": "с примесями",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2476",
+        "category_id": "srv_cat_064",
+        "source_text": "простой",
+        "target_text": "plain",
+        "hint": "без узоров",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2477",
+        "category_id": "srv_cat_064",
+        "source_text": "насыщенный",
+        "target_text": "rich",
+        "hint": "глубокий цвет",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2478",
+        "category_id": "srv_cat_064",
+        "source_text": "мягкий",
+        "target_text": "soft",
+        "hint": "нежный оттенок",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2479",
+        "category_id": "srv_cat_064",
+        "source_text": "выцветший",
+        "target_text": "faded",
+        "hint": "потерял яркость",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2480",
+        "category_id": "srv_cat_064",
+        "source_text": "блестящий",
+        "target_text": "shiny",
+        "hint": "отражает свет",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2481",
+        "category_id": "srv_cat_064",
+        "source_text": "тусклый",
+        "target_text": "dull",
+        "hint": "без блеска",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2482",
+        "category_id": "srv_cat_064",
+        "source_text": "чистый",
+        "target_text": "pure",
+        "hint": "без смешивания",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2483",
+        "category_id": "srv_cat_064",
+        "source_text": "смешанный",
+        "target_text": "mixed",
+        "hint": "несколько цветов",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2484",
+        "category_id": "srv_cat_064",
+        "source_text": "разноцветный",
+        "target_text": "colorful",
+        "hint": "много цветов",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2485",
+        "category_id": "srv_cat_064",
+        "source_text": "бесцветный",
+        "target_text": "colorless",
+        "hint": "без цвета",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2486",
+        "category_id": "srv_cat_064",
+        "source_text": "радужный",
+        "target_text": "rainbow",
+        "hint": "все цвета",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2487",
+        "category_id": "srv_cat_064",
+        "source_text": "голубой",
+        "target_text": "azure",
+        "hint": "цвета ясного неба",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2488",
+        "category_id": "srv_cat_064",
+        "source_text": "янтарный",
+        "target_text": "amber",
+        "hint": "жёлто-оранжевый",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2489",
+        "category_id": "srv_cat_064",
+        "source_text": "бронзовый",
+        "target_text": "bronze",
+        "hint": "цвета бронзы",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2490",
+        "category_id": "srv_cat_064",
+        "source_text": "медный",
+        "target_text": "copper",
+        "hint": "цвета меди",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2491",
+        "category_id": "srv_cat_064",
+        "source_text": "индиго",
+        "target_text": "indigo",
+        "hint": "тёмно-фиолетовый",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2492",
+        "category_id": "srv_cat_064",
+        "source_text": "пурпурный",
+        "target_text": "magenta",
+        "hint": "красно-фиолетовый",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2493",
+        "category_id": "srv_cat_064",
+        "source_text": "бирюзовый",
+        "target_text": "teal",
+        "hint": "сине-зелёный",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2494",
+        "category_id": "srv_cat_064",
+        "source_text": "ржавый",
+        "target_text": "rust",
+        "hint": "красно-коричневый",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2495",
+        "category_id": "srv_cat_064",
+        "source_text": "песочный",
+        "target_text": "sand",
+        "hint": "светло-жёлтый",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2496",
+        "category_id": "srv_cat_064",
+        "source_text": "небесный",
+        "target_text": "sky",
+        "hint": "цвета неба",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2497",
+        "category_id": "srv_cat_064",
+        "source_text": "каменный",
+        "target_text": "stone",
+        "hint": "серо-коричневый",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2498",
+        "category_id": "srv_cat_064",
+        "source_text": "винный",
+        "target_text": "wine",
+        "hint": "тёмно-красный",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2499",
+        "category_id": "srv_cat_064",
+        "source_text": "древесный",
+        "target_text": "wood",
+        "hint": "коричневый оттенок",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "064"
+    },
+    {
+        "id": "srv_word_2500",
+        "category_id": "srv_cat_064",
+        "source_text": "розовый",
+        "target_text": "rose",
+        "hint": "оттенок розы",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "064"
+    }
+]
