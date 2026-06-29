@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1301",
+        "category_id": "srv_cat_041",
+        "source_text": "кресло",
+        "target_text": "armchair",
+        "hint": "мягкое сиденье",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1302",
+        "category_id": "srv_cat_041",
+        "source_text": "диван",
+        "target_text": "sofa",
+        "hint": "мягкая мебель",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1303",
+        "category_id": "srv_cat_041",
+        "source_text": "диван",
+        "target_text": "couch",
+        "hint": "длинное сиденье",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1304",
+        "category_id": "srv_cat_041",
+        "source_text": "тумбочка",
+        "target_text": "bedside table",
+        "hint": "столик у кровати",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1305",
+        "category_id": "srv_cat_041",
+        "source_text": "шкаф для одежды",
+        "target_text": "wardrobe",
+        "hint": "хранят одежду",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1306",
+        "category_id": "srv_cat_041",
+        "source_text": "шкаф",
+        "target_text": "cupboard",
+        "hint": "хранят посуду",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1307",
+        "category_id": "srv_cat_041",
+        "source_text": "книжная полка",
+        "target_text": "bookshelf",
+        "hint": "для книг",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1308",
+        "category_id": "srv_cat_041",
+        "source_text": "ящик",
+        "target_text": "drawer",
+        "hint": "выдвижной ящик",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1309",
+        "category_id": "srv_cat_041",
+        "source_text": "шкафчик",
+        "target_text": "cabinet",
+        "hint": "небольшой шкаф",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1310",
+        "category_id": "srv_cat_041",
+        "source_text": "комод",
+        "target_text": "dresser",
+        "hint": "шкаф с ящиками",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1311",
+        "category_id": "srv_cat_041",
+        "source_text": "зеркало",
+        "target_text": "mirror",
+        "hint": "отражает изображение",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1312",
+        "category_id": "srv_cat_041",
+        "source_text": "лампа",
+        "target_text": "lamp",
+        "hint": "источник света",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1313",
+        "category_id": "srv_cat_041",
+        "source_text": "свет",
+        "target_text": "light",
+        "hint": "освещение комнаты",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1314",
+        "category_id": "srv_cat_041",
+        "source_text": "штора",
+        "target_text": "curtain",
+        "hint": "ткань на окне",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1315",
+        "category_id": "srv_cat_041",
+        "source_text": "жалюзи",
+        "target_text": "blind",
+        "hint": "пластины на окне",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1316",
+        "category_id": "srv_cat_041",
+        "source_text": "ковёр",
+        "target_text": "carpet",
+        "hint": "покрытие пола",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1317",
+        "category_id": "srv_cat_041",
+        "source_text": "коврик",
+        "target_text": "rug",
+        "hint": "маленький ковёр",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1318",
+        "category_id": "srv_cat_041",
+        "source_text": "подушка",
+        "target_text": "cushion",
+        "hint": "опора для спины",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1319",
+        "category_id": "srv_cat_041",
+        "source_text": "подушка",
+        "target_text": "pillow",
+        "hint": "для головы",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1320",
+        "category_id": "srv_cat_041",
+        "source_text": "одеяло",
+        "target_text": "blanket",
+        "hint": "тёплое покрытие",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1321",
+        "category_id": "srv_cat_041",
+        "source_text": "простыня",
+        "target_text": "sheet",
+        "hint": "ткань на матрасе",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1322",
+        "category_id": "srv_cat_041",
+        "source_text": "матрас",
+        "target_text": "mattress",
+        "hint": "основа кровати",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1323",
+        "category_id": "srv_cat_041",
+        "source_text": "рама",
+        "target_text": "frame",
+        "hint": "для картины",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1324",
+        "category_id": "srv_cat_041",
+        "source_text": "полка",
+        "target_text": "shelf",
+        "hint": "для хранения",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1325",
+        "category_id": "srv_cat_041",
+        "source_text": "вешалка",
+        "target_text": "rack",
+        "hint": "для одежды",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1326",
+        "category_id": "srv_cat_041",
+        "source_text": "плечики",
+        "target_text": "hanger",
+        "hint": "для одежды",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1327",
+        "category_id": "srv_cat_041",
+        "source_text": "вешалка",
+        "target_text": "coat rack",
+        "hint": "стойка с крючками",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1328",
+        "category_id": "srv_cat_041",
+        "source_text": "придверный коврик",
+        "target_text": "doormat",
+        "hint": "вытирать ноги",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1329",
+        "category_id": "srv_cat_041",
+        "source_text": "обои",
+        "target_text": "wallpaper",
+        "hint": "покрытие стен",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1330",
+        "category_id": "srv_cat_041",
+        "source_text": "краска",
+        "target_text": "paint",
+        "hint": "для покраски",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1331",
+        "category_id": "srv_cat_041",
+        "source_text": "потолок",
+        "target_text": "ceiling",
+        "hint": "верх комнаты",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1332",
+        "category_id": "srv_cat_041",
+        "source_text": "пол",
+        "target_text": "floor",
+        "hint": "низ комнаты",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1333",
+        "category_id": "srv_cat_041",
+        "source_text": "стена",
+        "target_text": "wall",
+        "hint": "стена комнаты",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1334",
+        "category_id": "srv_cat_041",
+        "source_text": "угол",
+        "target_text": "corner",
+        "hint": "угол комнаты",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1335",
+        "category_id": "srv_cat_041",
+        "source_text": "подоконник",
+        "target_text": "windowsill",
+        "hint": "низ окна",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1336",
+        "category_id": "srv_cat_041",
+        "source_text": "дверной звонок",
+        "target_text": "doorbell",
+        "hint": "звонок в дверь",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1337",
+        "category_id": "srv_cat_041",
+        "source_text": "ключ",
+        "target_text": "key",
+        "hint": "открывать замок",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1338",
+        "category_id": "srv_cat_041",
+        "source_text": "замок",
+        "target_text": "lock",
+        "hint": "запирать дверь",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1339",
+        "category_id": "srv_cat_041",
+        "source_text": "ручка",
+        "target_text": "handle",
+        "hint": "открывать дверь",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1340",
+        "category_id": "srv_cat_041",
+        "source_text": "петля",
+        "target_text": "hinge",
+        "hint": "держит дверь",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1341",
+        "category_id": "srv_cat_041",
+        "source_text": "лестница",
+        "target_text": "ladder",
+        "hint": "подняться вверх",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1342",
+        "category_id": "srv_cat_041",
+        "source_text": "табурет",
+        "target_text": "stool",
+        "hint": "без спинки",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1343",
+        "category_id": "srv_cat_041",
+        "source_text": "скамья",
+        "target_text": "bench",
+        "hint": "длинное сиденье",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1344",
+        "category_id": "srv_cat_041",
+        "source_text": "стул",
+        "target_text": "chair",
+        "hint": "со спинкой",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1345",
+        "category_id": "srv_cat_041",
+        "source_text": "стол",
+        "target_text": "table",
+        "hint": "для еды",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1346",
+        "category_id": "srv_cat_041",
+        "source_text": "кровать",
+        "target_text": "bed",
+        "hint": "для сна",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1347",
+        "category_id": "srv_cat_041",
+        "source_text": "дверь",
+        "target_text": "door",
+        "hint": "вход в комнату",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1348",
+        "category_id": "srv_cat_041",
+        "source_text": "окно",
+        "target_text": "window",
+        "hint": "для света",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1349",
+        "category_id": "srv_cat_041",
+        "source_text": "кухня",
+        "target_text": "kitchen",
+        "hint": "готовить еду",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "041"
+    },
+    {
+        "id": "srv_word_1350",
+        "category_id": "srv_cat_041",
+        "source_text": "ванная",
+        "target_text": "bathroom",
+        "hint": "мыться",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "041"
+    }
+]
