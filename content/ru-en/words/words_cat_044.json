@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1451",
+        "category_id": "srv_cat_044",
+        "source_text": "горячий",
+        "target_text": "hot",
+        "hint": "обжигает руки",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1452",
+        "category_id": "srv_cat_044",
+        "source_text": "холодный",
+        "target_text": "cold",
+        "hint": "замёрз",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1453",
+        "category_id": "srv_cat_044",
+        "source_text": "тёплый",
+        "target_text": "warm",
+        "hint": "приятно телу",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1454",
+        "category_id": "srv_cat_044",
+        "source_text": "прохладный",
+        "target_text": "cool",
+        "hint": "слегка холодно",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1455",
+        "category_id": "srv_cat_044",
+        "source_text": "мокрый",
+        "target_text": "wet",
+        "hint": "после дождя",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1456",
+        "category_id": "srv_cat_044",
+        "source_text": "сухой",
+        "target_text": "dry",
+        "hint": "без воды",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1457",
+        "category_id": "srv_cat_044",
+        "source_text": "мягкий",
+        "target_text": "soft",
+        "hint": "как подушка",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1458",
+        "category_id": "srv_cat_044",
+        "source_text": "твёрдый",
+        "target_text": "hard",
+        "hint": "как камень",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1459",
+        "category_id": "srv_cat_044",
+        "source_text": "тяжёлый",
+        "target_text": "heavy",
+        "hint": "трудно поднять",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1460",
+        "category_id": "srv_cat_044",
+        "source_text": "лёгкий",
+        "target_text": "light",
+        "hint": "как перо",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1461",
+        "category_id": "srv_cat_044",
+        "source_text": "гладкий",
+        "target_text": "smooth",
+        "hint": "без неровностей",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1462",
+        "category_id": "srv_cat_044",
+        "source_text": "шершавый",
+        "target_text": "rough",
+        "hint": "царапает руку",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1463",
+        "category_id": "srv_cat_044",
+        "source_text": "острый",
+        "target_text": "sharp",
+        "hint": "режет ножом",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1464",
+        "category_id": "srv_cat_044",
+        "source_text": "толстый",
+        "target_text": "thick",
+        "hint": "большая толщина",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1465",
+        "category_id": "srv_cat_044",
+        "source_text": "тонкий",
+        "target_text": "thin",
+        "hint": "как бумага",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1466",
+        "category_id": "srv_cat_044",
+        "source_text": "широкий",
+        "target_text": "wide",
+        "hint": "большая ширина",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1467",
+        "category_id": "srv_cat_044",
+        "source_text": "узкий",
+        "target_text": "narrow",
+        "hint": "мало места",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1468",
+        "category_id": "srv_cat_044",
+        "source_text": "глубокий",
+        "target_text": "deep",
+        "hint": "дно далеко",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1469",
+        "category_id": "srv_cat_044",
+        "source_text": "мелкий",
+        "target_text": "shallow",
+        "hint": "можно достать",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1470",
+        "category_id": "srv_cat_044",
+        "source_text": "круглый",
+        "target_text": "round",
+        "hint": "форма мяча",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1471",
+        "category_id": "srv_cat_044",
+        "source_text": "плоский",
+        "target_text": "flat",
+        "hint": "без выпуклостей",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1472",
+        "category_id": "srv_cat_044",
+        "source_text": "прямой",
+        "target_text": "straight",
+        "hint": "без изгибов",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1473",
+        "category_id": "srv_cat_044",
+        "source_text": "изогнутый",
+        "target_text": "curved",
+        "hint": "с изгибами",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1474",
+        "category_id": "srv_cat_044",
+        "source_text": "липкий",
+        "target_text": "sticky",
+        "hint": "прилипает к рукам",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1475",
+        "category_id": "srv_cat_044",
+        "source_text": "скользкий",
+        "target_text": "slippery",
+        "hint": "можно упасть",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1476",
+        "category_id": "srv_cat_044",
+        "source_text": "сладкий",
+        "target_text": "sweet",
+        "hint": "вкус сахара",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1477",
+        "category_id": "srv_cat_044",
+        "source_text": "кислый",
+        "target_text": "sour",
+        "hint": "вкус лимона",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1478",
+        "category_id": "srv_cat_044",
+        "source_text": "горький",
+        "target_text": "bitter",
+        "hint": "неприятный вкус",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1479",
+        "category_id": "srv_cat_044",
+        "source_text": "солёный",
+        "target_text": "salty",
+        "hint": "вкус соли",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1480",
+        "category_id": "srv_cat_044",
+        "source_text": "острый (вкус)",
+        "target_text": "spicy",
+        "hint": "с перцем",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1481",
+        "category_id": "srv_cat_044",
+        "source_text": "вкусный",
+        "target_text": "tasty",
+        "hint": "приятный на вкус",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1482",
+        "category_id": "srv_cat_044",
+        "source_text": "восхитительный",
+        "target_text": "yummy",
+        "hint": "очень вкусно",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1483",
+        "category_id": "srv_cat_044",
+        "source_text": "свежий",
+        "target_text": "fresh",
+        "hint": "только что приготовленный",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1484",
+        "category_id": "srv_cat_044",
+        "source_text": "чёрствый",
+        "target_text": "stale",
+        "hint": "старый хлеб",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1485",
+        "category_id": "srv_cat_044",
+        "source_text": "вонючий",
+        "target_text": "smelly",
+        "hint": "неприятный запах",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1486",
+        "category_id": "srv_cat_044",
+        "source_text": "ароматный",
+        "target_text": "nice-smelling",
+        "hint": "приятный запах",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1487",
+        "category_id": "srv_cat_044",
+        "source_text": "громкий",
+        "target_text": "loud",
+        "hint": "сильный звук",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1488",
+        "category_id": "srv_cat_044",
+        "source_text": "тихий",
+        "target_text": "quiet",
+        "hint": "слабый звук",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1489",
+        "category_id": "srv_cat_044",
+        "source_text": "шумный",
+        "target_text": "noisy",
+        "hint": "много звуков",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1490",
+        "category_id": "srv_cat_044",
+        "source_text": "бесшумный",
+        "target_text": "silent",
+        "hint": "без звуков",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1491",
+        "category_id": "srv_cat_044",
+        "source_text": "яркий",
+        "target_text": "bright",
+        "hint": "много света",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1492",
+        "category_id": "srv_cat_044",
+        "source_text": "тёмный",
+        "target_text": "dark",
+        "hint": "мало света",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1493",
+        "category_id": "srv_cat_044",
+        "source_text": "блестящий",
+        "target_text": "shiny",
+        "hint": "отражает свет",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1494",
+        "category_id": "srv_cat_044",
+        "source_text": "тусклый",
+        "target_text": "dull",
+        "hint": "без блеска",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1495",
+        "category_id": "srv_cat_044",
+        "source_text": "прозрачный",
+        "target_text": "clear",
+        "hint": "видно насквозь",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1496",
+        "category_id": "srv_cat_044",
+        "source_text": "пустой",
+        "target_text": "empty",
+        "hint": "ничего внутри",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1497",
+        "category_id": "srv_cat_044",
+        "source_text": "полный",
+        "target_text": "full",
+        "hint": "заполнен целиком",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1498",
+        "category_id": "srv_cat_044",
+        "source_text": "твёрдый (состояние)",
+        "target_text": "solid",
+        "hint": "не жидкий",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1499",
+        "category_id": "srv_cat_044",
+        "source_text": "жидкий",
+        "target_text": "liquid",
+        "hint": "как вода",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "044"
+    },
+    {
+        "id": "srv_word_1500",
+        "category_id": "srv_cat_044",
+        "source_text": "гибкий",
+        "target_text": "flexible",
+        "hint": "можно гнуть",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "044"
+    }
+]
