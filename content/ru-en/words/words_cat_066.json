@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2551",
+        "category_id": "srv_cat_066",
+        "source_text": "картофель",
+        "target_text": "potato",
+        "hint": "растёт в земле",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2552",
+        "category_id": "srv_cat_066",
+        "source_text": "помидор",
+        "target_text": "tomato",
+        "hint": "красный для салата",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2553",
+        "category_id": "srv_cat_066",
+        "source_text": "морковь",
+        "target_text": "carrot",
+        "hint": "оранжевый корнеплод",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2554",
+        "category_id": "srv_cat_066",
+        "source_text": "лук",
+        "target_text": "onion",
+        "hint": "заставляет плакать",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2555",
+        "category_id": "srv_cat_066",
+        "source_text": "чеснок",
+        "target_text": "garlic",
+        "hint": "острый для запаха",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2556",
+        "category_id": "srv_cat_066",
+        "source_text": "огурец",
+        "target_text": "cucumber",
+        "hint": "зелёный хрустящий",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2557",
+        "category_id": "srv_cat_066",
+        "source_text": "капуста",
+        "target_text": "cabbage",
+        "hint": "большой круглый",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2558",
+        "category_id": "srv_cat_066",
+        "source_text": "перец",
+        "target_text": "pepper",
+        "hint": "бывает острый",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2559",
+        "category_id": "srv_cat_066",
+        "source_text": "фасоль",
+        "target_text": "bean",
+        "hint": "стручки с семенами",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2560",
+        "category_id": "srv_cat_066",
+        "source_text": "горох",
+        "target_text": "pea",
+        "hint": "зелёные шарики",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2561",
+        "category_id": "srv_cat_066",
+        "source_text": "кукуруза",
+        "target_text": "corn",
+        "hint": "жёлтые зёрна",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2562",
+        "category_id": "srv_cat_066",
+        "source_text": "салат",
+        "target_text": "lettuce",
+        "hint": "зелёные листья",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2563",
+        "category_id": "srv_cat_066",
+        "source_text": "шпинат",
+        "target_text": "spinach",
+        "hint": "тёмно-зелёные листья",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2564",
+        "category_id": "srv_cat_066",
+        "source_text": "сельдерей",
+        "target_text": "celery",
+        "hint": "хрустящие стебли",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2565",
+        "category_id": "srv_cat_066",
+        "source_text": "брокколи",
+        "target_text": "broccoli",
+        "hint": "зелёная капуста",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2566",
+        "category_id": "srv_cat_066",
+        "source_text": "цветная капуста",
+        "target_text": "cauliflower",
+        "hint": "белая головка",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2567",
+        "category_id": "srv_cat_066",
+        "source_text": "кабачок",
+        "target_text": "zucchini",
+        "hint": "длинный зелёный",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2568",
+        "category_id": "srv_cat_066",
+        "source_text": "баклажан",
+        "target_text": "eggplant",
+        "hint": "фиолетовый овощ",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2569",
+        "category_id": "srv_cat_066",
+        "source_text": "тыква",
+        "target_text": "pumpkin",
+        "hint": "большая оранжевая",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2570",
+        "category_id": "srv_cat_066",
+        "source_text": "редис",
+        "target_text": "radish",
+        "hint": "маленький красный",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2571",
+        "category_id": "srv_cat_066",
+        "source_text": "свёкла",
+        "target_text": "beet",
+        "hint": "тёмно-бордовый",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2572",
+        "category_id": "srv_cat_066",
+        "source_text": "репа",
+        "target_text": "turnip",
+        "hint": "круглый корнеплод",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2573",
+        "category_id": "srv_cat_066",
+        "source_text": "лук-порей",
+        "target_text": "leek",
+        "hint": "длинный лук",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2574",
+        "category_id": "srv_cat_066",
+        "source_text": "гриб",
+        "target_text": "mushroom",
+        "hint": "растёт в лесу",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2575",
+        "category_id": "srv_cat_066",
+        "source_text": "олива",
+        "target_text": "olive",
+        "hint": "для масла",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2576",
+        "category_id": "srv_cat_066",
+        "source_text": "авокадо",
+        "target_text": "avocado",
+        "hint": "с косточкой внутри",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2577",
+        "category_id": "srv_cat_066",
+        "source_text": "имбирь",
+        "target_text": "ginger",
+        "hint": "острый корень",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2578",
+        "category_id": "srv_cat_066",
+        "source_text": "петрушка",
+        "target_text": "parsley",
+        "hint": "зелень для блюд",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2579",
+        "category_id": "srv_cat_066",
+        "source_text": "укроп",
+        "target_text": "dill",
+        "hint": "зелень с запахом",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2580",
+        "category_id": "srv_cat_066",
+        "source_text": "базилик",
+        "target_text": "basil",
+        "hint": "ароматная трава",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2581",
+        "category_id": "srv_cat_066",
+        "source_text": "мята",
+        "target_text": "mint",
+        "hint": "свежий вкус",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2582",
+        "category_id": "srv_cat_066",
+        "source_text": "чечевица",
+        "target_text": "lentil",
+        "hint": "маленькие бобы",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2583",
+        "category_id": "srv_cat_066",
+        "source_text": "нут",
+        "target_text": "chickpea",
+        "hint": "для хумуса",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2584",
+        "category_id": "srv_cat_066",
+        "source_text": "бамия",
+        "target_text": "okra",
+        "hint": "зелёные стручки",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2585",
+        "category_id": "srv_cat_066",
+        "source_text": "ямс",
+        "target_text": "yam",
+        "hint": "сладкий корнеплод",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2586",
+        "category_id": "srv_cat_066",
+        "source_text": "росток",
+        "target_text": "sprout",
+        "hint": "молодой побег",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2587",
+        "category_id": "srv_cat_066",
+        "source_text": "зелень",
+        "target_text": "herb",
+        "hint": "для приготовления блюд",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2588",
+        "category_id": "srv_cat_066",
+        "source_text": "зелень",
+        "target_text": "greens",
+        "hint": "свежие листья",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2589",
+        "category_id": "srv_cat_066",
+        "source_text": "перец",
+        "target_text": "pepper",
+        "hint": "острый или сладкий",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2590",
+        "category_id": "srv_cat_066",
+        "source_text": "картофель",
+        "target_text": "potato",
+        "hint": "жёлтый внутри",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2591",
+        "category_id": "srv_cat_066",
+        "source_text": "помидор",
+        "target_text": "tomato",
+        "hint": "красный сочный",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2592",
+        "category_id": "srv_cat_066",
+        "source_text": "лук",
+        "target_text": "onion",
+        "hint": "белый внутри",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2593",
+        "category_id": "srv_cat_066",
+        "source_text": "чеснок",
+        "target_text": "garlic",
+        "hint": "белые зубчики",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2594",
+        "category_id": "srv_cat_066",
+        "source_text": "огурец",
+        "target_text": "cucumber",
+        "hint": "свежий хрустящий",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2595",
+        "category_id": "srv_cat_066",
+        "source_text": "морковь",
+        "target_text": "carrot",
+        "hint": "хрустящая сладкая",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2596",
+        "category_id": "srv_cat_066",
+        "source_text": "капуста",
+        "target_text": "cabbage",
+        "hint": "зелёная белая",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2597",
+        "category_id": "srv_cat_066",
+        "source_text": "фасоль",
+        "target_text": "bean",
+        "hint": "красная белая",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2598",
+        "category_id": "srv_cat_066",
+        "source_text": "горох",
+        "target_text": "pea",
+        "hint": "сладкий зелёный",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2599",
+        "category_id": "srv_cat_066",
+        "source_text": "кукуруза",
+        "target_text": "corn",
+        "hint": "сладкие зёрна",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "066"
+    },
+    {
+        "id": "srv_word_2600",
+        "category_id": "srv_cat_066",
+        "source_text": "салат",
+        "target_text": "salad",
+        "hint": "свежие листья",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "066"
+    }
+]
