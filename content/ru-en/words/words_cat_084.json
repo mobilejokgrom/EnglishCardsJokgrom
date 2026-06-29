@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3451",
+        "category_id": "srv_cat_084",
+        "source_text": "падать",
+        "target_text": "fall",
+        "hint": "идти вниз",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3452",
+        "category_id": "srv_cat_084",
+        "source_text": "падать",
+        "target_text": "drop",
+        "hint": "резко снижаться",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3453",
+        "category_id": "srv_cat_084",
+        "source_text": "уменьшаться",
+        "target_text": "decrease",
+        "hint": "становиться меньше",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3454",
+        "category_id": "srv_cat_084",
+        "source_text": "сокращать",
+        "target_text": "reduce",
+        "hint": "делать меньше",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3455",
+        "category_id": "srv_cat_084",
+        "source_text": "понижать",
+        "target_text": "lower",
+        "hint": "опускать уровень",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3456",
+        "category_id": "srv_cat_084",
+        "source_text": "ухудшаться",
+        "target_text": "worsen",
+        "hint": "становиться хуже",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3457",
+        "category_id": "srv_cat_084",
+        "source_text": "снижаться",
+        "target_text": "decline",
+        "hint": "идти на спад",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3458",
+        "category_id": "srv_cat_084",
+        "source_text": "сжиматься",
+        "target_text": "shrink",
+        "hint": "уменьшаться в размере",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3459",
+        "category_id": "srv_cat_084",
+        "source_text": "слабеть",
+        "target_text": "weaken",
+        "hint": "терять силу",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3460",
+        "category_id": "srv_cat_084",
+        "source_text": "блекнуть",
+        "target_text": "fade",
+        "hint": "терять яркость",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3461",
+        "category_id": "srv_cat_084",
+        "source_text": "тонуть",
+        "target_text": "sink",
+        "hint": "опускаться на дно",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3462",
+        "category_id": "srv_cat_084",
+        "source_text": "разбиваться",
+        "target_text": "crash",
+        "hint": "падать с шумом",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3463",
+        "category_id": "srv_cat_084",
+        "source_text": "рушиться",
+        "target_text": "fall",
+        "hint": "падать полностью",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3464",
+        "category_id": "srv_cat_084",
+        "source_text": "портить",
+        "target_text": "spoil",
+        "hint": "делать непригодным",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3465",
+        "category_id": "srv_cat_084",
+        "source_text": "гнить",
+        "target_text": "rot",
+        "hint": "разлагаться",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3466",
+        "category_id": "srv_cat_084",
+        "source_text": "разрушаться",
+        "target_text": "rot",
+        "hint": "медленно портиться",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3467",
+        "category_id": "srv_cat_084",
+        "source_text": "повреждать",
+        "target_text": "harm",
+        "hint": "наносить ущерб",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3468",
+        "category_id": "srv_cat_084",
+        "source_text": "разрушать",
+        "target_text": "destroy",
+        "hint": "портить полностью",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3469",
+        "category_id": "srv_cat_084",
+        "source_text": "ломать",
+        "target_text": "break",
+        "hint": "разделять на части",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3470",
+        "category_id": "srv_cat_084",
+        "source_text": "проваливаться",
+        "target_text": "fail",
+        "hint": "не удаваться",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3471",
+        "category_id": "srv_cat_084",
+        "source_text": "терять",
+        "target_text": "lose",
+        "hint": "лишаться чего-то",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3472",
+        "category_id": "srv_cat_084",
+        "source_text": "вредить",
+        "target_text": "hurt",
+        "hint": "причинять боль",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3473",
+        "category_id": "srv_cat_084",
+        "source_text": "вредить",
+        "target_text": "harm",
+        "hint": "наносить вред",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3474",
+        "category_id": "srv_cat_084",
+        "source_text": "уничтожать",
+        "target_text": "destroy",
+        "hint": "стирать с лица земли",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3475",
+        "category_id": "srv_cat_084",
+        "source_text": "разбивать",
+        "target_text": "break",
+        "hint": "разрушать полностью",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3476",
+        "category_id": "srv_cat_084",
+        "source_text": "раздавливать",
+        "target_text": "press",
+        "hint": "сжимать сильно",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3477",
+        "category_id": "srv_cat_084",
+        "source_text": "сдувать",
+        "target_text": "deflate",
+        "hint": "выпускать воздух",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3478",
+        "category_id": "srv_cat_084",
+        "source_text": "истощать",
+        "target_text": "drain",
+        "hint": "забирать силы",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3479",
+        "category_id": "srv_cat_084",
+        "source_text": "истощать",
+        "target_text": "tire",
+        "hint": "полностью утомлять",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3480",
+        "category_id": "srv_cat_084",
+        "source_text": "ухудшаться",
+        "target_text": "slip",
+        "hint": "соскальзывать вниз",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3481",
+        "category_id": "srv_cat_084",
+        "source_text": "скользить",
+        "target_text": "slide",
+        "hint": "плавно падать",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3482",
+        "category_id": "srv_cat_084",
+        "source_text": "падать",
+        "target_text": "fall",
+        "hint": "кувыркаться вниз",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3483",
+        "category_id": "srv_cat_084",
+        "source_text": "нырять",
+        "target_text": "drop",
+        "hint": "резко падать",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3484",
+        "category_id": "srv_cat_084",
+        "source_text": "падать",
+        "target_text": "fall",
+        "hint": "резко снижаться",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3485",
+        "category_id": "srv_cat_084",
+        "source_text": "откатываться",
+        "target_text": "go back",
+        "hint": "возвращаться назад",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3486",
+        "category_id": "srv_cat_084",
+        "source_text": "ухудшаться",
+        "target_text": "worsen",
+        "hint": "возвращаться к болезни",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3487",
+        "category_id": "srv_cat_084",
+        "source_text": "убывать",
+        "target_text": "decrease",
+        "hint": "уменьшаться",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3488",
+        "category_id": "srv_cat_084",
+        "source_text": "вянуть",
+        "target_text": "fade",
+        "hint": "терять упругость",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3489",
+        "category_id": "srv_cat_084",
+        "source_text": "сохнуть",
+        "target_text": "dry",
+        "hint": "увядать полностью",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3490",
+        "category_id": "srv_cat_084",
+        "source_text": "размывать",
+        "target_text": "wear",
+        "hint": "медленно разрушать",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3491",
+        "category_id": "srv_cat_084",
+        "source_text": "уменьшать",
+        "target_text": "lessen",
+        "hint": "делать меньше",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3492",
+        "category_id": "srv_cat_084",
+        "source_text": "ранить",
+        "target_text": "hurt",
+        "hint": "наносить травму",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3493",
+        "category_id": "srv_cat_084",
+        "source_text": "царапать",
+        "target_text": "mark",
+        "hint": "повреждать поверхность",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3494",
+        "category_id": "srv_cat_084",
+        "source_text": "тускнеть",
+        "target_text": "fade",
+        "hint": "терять блеск",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3495",
+        "category_id": "srv_cat_084",
+        "source_text": "утомлять",
+        "target_text": "tire",
+        "hint": "забирать энергию",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3496",
+        "category_id": "srv_cat_084",
+        "source_text": "рвать",
+        "target_text": "tear",
+        "hint": "повреждать ткань",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3497",
+        "category_id": "srv_cat_084",
+        "source_text": "огорчать",
+        "target_text": "upset",
+        "hint": "ухудшать настроение",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3498",
+        "category_id": "srv_cat_084",
+        "source_text": "понижать",
+        "target_text": "lower",
+        "hint": "снижать статус",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3499",
+        "category_id": "srv_cat_084",
+        "source_text": "ржаветь",
+        "target_text": "rust",
+        "hint": "разрушаться от времени",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "084"
+    },
+    {
+        "id": "srv_word_3500",
+        "category_id": "srv_cat_084",
+        "source_text": "сжигать",
+        "target_text": "burn",
+        "hint": "уничтожать огнем",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "084"
+    }
+]
