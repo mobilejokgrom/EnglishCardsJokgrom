@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2851",
+        "category_id": "srv_cat_072",
+        "source_text": "молоко",
+        "target_text": "milk",
+        "hint": "белый напиток",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2852",
+        "category_id": "srv_cat_072",
+        "source_text": "сыр",
+        "target_text": "cheese",
+        "hint": "твёрдый молочный продукт",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2853",
+        "category_id": "srv_cat_072",
+        "source_text": "масло",
+        "target_text": "butter",
+        "hint": "мажут на хлеб",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2854",
+        "category_id": "srv_cat_072",
+        "source_text": "йогурт",
+        "target_text": "yogurt",
+        "hint": "кисломолочный продукт",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2855",
+        "category_id": "srv_cat_072",
+        "source_text": "сливки",
+        "target_text": "cream",
+        "hint": "жирное молоко",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2856",
+        "category_id": "srv_cat_072",
+        "source_text": "мороженое",
+        "target_text": "icecream",
+        "hint": "холодный десерт",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2857",
+        "category_id": "srv_cat_072",
+        "source_text": "кефир",
+        "target_text": "kefir",
+        "hint": "кислый напиток",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2858",
+        "category_id": "srv_cat_072",
+        "source_text": "сметана",
+        "target_text": "smetana",
+        "hint": "кислые сливки",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2859",
+        "category_id": "srv_cat_072",
+        "source_text": "творог",
+        "target_text": "tvorog",
+        "hint": "мягкий белый сыр",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2860",
+        "category_id": "srv_cat_072",
+        "source_text": "творог",
+        "target_text": "curd",
+        "hint": "свёрнувшееся молоко",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2861",
+        "category_id": "srv_cat_072",
+        "source_text": "сыворотка",
+        "target_text": "whey",
+        "hint": "жидкость после сыра",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2862",
+        "category_id": "srv_cat_072",
+        "source_text": "сгущёнка",
+        "target_text": "sguschenka",
+        "hint": "сладкое молоко",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2863",
+        "category_id": "srv_cat_072",
+        "source_text": "сухое молоко",
+        "target_text": "drymilk",
+        "hint": "порошок",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2864",
+        "category_id": "srv_cat_072",
+        "source_text": "сливочный сыр",
+        "target_text": "creamcheese",
+        "hint": "мягкий сыр",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2865",
+        "category_id": "srv_cat_072",
+        "source_text": "моцарелла",
+        "target_text": "mozzarella",
+        "hint": "итальянский сыр",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2866",
+        "category_id": "srv_cat_072",
+        "source_text": "чеддер",
+        "target_text": "cheddar",
+        "hint": "оранжевый сыр",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2867",
+        "category_id": "srv_cat_072",
+        "source_text": "пармезан",
+        "target_text": "parmesan",
+        "hint": "твёрдый итальянский",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2868",
+        "category_id": "srv_cat_072",
+        "source_text": "фета",
+        "target_text": "feta",
+        "hint": "греческий солёный",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2869",
+        "category_id": "srv_cat_072",
+        "source_text": "бри",
+        "target_text": "brie",
+        "hint": "мягкий французский",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2870",
+        "category_id": "srv_cat_072",
+        "source_text": "камамбер",
+        "target_text": "camembert",
+        "hint": "мягкий сыр",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2871",
+        "category_id": "srv_cat_072",
+        "source_text": "гауда",
+        "target_text": "gouda",
+        "hint": "голландский сыр",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2872",
+        "category_id": "srv_cat_072",
+        "source_text": "рикотта",
+        "target_text": "ricotta",
+        "hint": "итальянский творог",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2873",
+        "category_id": "srv_cat_072",
+        "source_text": "маскарпоне",
+        "target_text": "mascarpone",
+        "hint": "для тирамису",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2874",
+        "category_id": "srv_cat_072",
+        "source_text": "сыр с плесенью",
+        "target_text": "bluecheese",
+        "hint": "голубой сыр",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2875",
+        "category_id": "srv_cat_072",
+        "source_text": "швейцарский сыр",
+        "target_text": "swisscheese",
+        "hint": "с дырками",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2876",
+        "category_id": "srv_cat_072",
+        "source_text": "козий сыр",
+        "target_text": "goatcheese",
+        "hint": "из козьего молока",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2877",
+        "category_id": "srv_cat_072",
+        "source_text": "овечий сыр",
+        "target_text": "sheepcheese",
+        "hint": "из овечьего молока",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2878",
+        "category_id": "srv_cat_072",
+        "source_text": "сыроварня",
+        "target_text": "creamery",
+        "hint": "где делают сыр",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2879",
+        "category_id": "srv_cat_072",
+        "source_text": "молочная ферма",
+        "target_text": "dairy",
+        "hint": "где держат коров",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2880",
+        "category_id": "srv_cat_072",
+        "source_text": "молочный коктейль",
+        "target_text": "milkshake",
+        "hint": "взбитое молоко",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2881",
+        "category_id": "srv_cat_072",
+        "source_text": "пахта",
+        "target_text": "buttermilk",
+        "hint": "жидкость после масла",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2882",
+        "category_id": "srv_cat_072",
+        "source_text": "сливки с молоком",
+        "target_text": "halfmilk",
+        "hint": "смесь 50\/50",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2883",
+        "category_id": "srv_cat_072",
+        "source_text": "взбитые сливки",
+        "target_text": "whippedcream",
+        "hint": "пышные сливки",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2884",
+        "category_id": "srv_cat_072",
+        "source_text": "густые сливки",
+        "target_text": "clottedcream",
+        "hint": "британский продукт",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2885",
+        "category_id": "srv_cat_072",
+        "source_text": "топлёное молоко",
+        "target_text": "evaporatedmilk",
+        "hint": "без воды",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2886",
+        "category_id": "srv_cat_072",
+        "source_text": "чизбургер",
+        "target_text": "cheeseburger",
+        "hint": "бургер с сыром",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2887",
+        "category_id": "srv_cat_072",
+        "source_text": "чизкейк",
+        "target_text": "cheesecake",
+        "hint": "сырный торт",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2888",
+        "category_id": "srv_cat_072",
+        "source_text": "фондю",
+        "target_text": "fondue",
+        "hint": "расплавленный сыр",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2889",
+        "category_id": "srv_cat_072",
+        "source_text": "пудинг",
+        "target_text": "pudding",
+        "hint": "молочный десерт",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2890",
+        "category_id": "srv_cat_072",
+        "source_text": "заварной крем",
+        "target_text": "custard",
+        "hint": "молочный крем",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2891",
+        "category_id": "srv_cat_072",
+        "source_text": "джелато",
+        "target_text": "gelato",
+        "hint": "итальянское мороженое",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2892",
+        "category_id": "srv_cat_072",
+        "source_text": "щербет",
+        "target_text": "sorbet",
+        "hint": "фруктовый лёд",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2893",
+        "category_id": "srv_cat_072",
+        "source_text": "питьевой йогурт",
+        "target_text": "yogurtdrink",
+        "hint": "жидкий йогурт",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2894",
+        "category_id": "srv_cat_072",
+        "source_text": "пробиотик",
+        "target_text": "bacteria",
+        "hint": "полезные бактерии",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2895",
+        "category_id": "srv_cat_072",
+        "source_text": "лактоза",
+        "target_text": "sugar",
+        "hint": "молочный сахар",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2896",
+        "category_id": "srv_cat_072",
+        "source_text": "молочный продукт",
+        "target_text": "dairyproduct",
+        "hint": "общее название",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2897",
+        "category_id": "srv_cat_072",
+        "source_text": "молочник",
+        "target_text": "milkman",
+        "hint": "развозит молоко",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2898",
+        "category_id": "srv_cat_072",
+        "source_text": "молочный фермер",
+        "target_text": "dairyfarmer",
+        "hint": "держит коров",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2899",
+        "category_id": "srv_cat_072",
+        "source_text": "пастеризованный",
+        "target_text": "pasteurized",
+        "hint": "обработанный",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "072"
+    },
+    {
+        "id": "srv_word_2900",
+        "category_id": "srv_cat_072",
+        "source_text": "органическое молоко",
+        "target_text": "organicmilk",
+        "hint": "натуральное",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "072"
+    }
+]
