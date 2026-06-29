@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3301",
+        "category_id": "srv_cat_081",
+        "source_text": "блюдо",
+        "target_text": "dish",
+        "hint": "порция еды",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3302",
+        "category_id": "srv_cat_081",
+        "source_text": "приём пищи",
+        "target_text": "meal",
+        "hint": "завтрак обед ужин",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3303",
+        "category_id": "srv_cat_081",
+        "source_text": "рецепт",
+        "target_text": "recipe",
+        "hint": "инструкция готовки",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3304",
+        "category_id": "srv_cat_081",
+        "source_text": "ингредиент",
+        "target_text": "part",
+        "hint": "часть блюда",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3305",
+        "category_id": "srv_cat_081",
+        "source_text": "меню",
+        "target_text": "menu",
+        "hint": "список блюд",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3306",
+        "category_id": "srv_cat_081",
+        "source_text": "закуска",
+        "target_text": "starter",
+        "hint": "перед основным блюдом",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3307",
+        "category_id": "srv_cat_081",
+        "source_text": "первое блюдо",
+        "target_text": "starter",
+        "hint": "начало обеда",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3308",
+        "category_id": "srv_cat_081",
+        "source_text": "основное блюдо",
+        "target_text": "main",
+        "hint": "главное в меню",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3309",
+        "category_id": "srv_cat_081",
+        "source_text": "гарнир",
+        "target_text": "side",
+        "hint": "дополнение к блюду",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3310",
+        "category_id": "srv_cat_081",
+        "source_text": "десерт",
+        "target_text": "dessert",
+        "hint": "сладкое в конце",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3311",
+        "category_id": "srv_cat_081",
+        "source_text": "перемена блюд",
+        "target_text": "course",
+        "hint": "часть обеда",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3312",
+        "category_id": "srv_cat_081",
+        "source_text": "суп",
+        "target_text": "soup",
+        "hint": "жидкое блюдо",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3313",
+        "category_id": "srv_cat_081",
+        "source_text": "салат",
+        "target_text": "salad",
+        "hint": "из овощей",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3314",
+        "category_id": "srv_cat_081",
+        "source_text": "сэндвич",
+        "target_text": "sandwich",
+        "hint": "хлеб с начинкой",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3315",
+        "category_id": "srv_cat_081",
+        "source_text": "бургер",
+        "target_text": "burger",
+        "hint": "котлета в булке",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3316",
+        "category_id": "srv_cat_081",
+        "source_text": "пицца",
+        "target_text": "pizza",
+        "hint": "итальянское блюдо",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3317",
+        "category_id": "srv_cat_081",
+        "source_text": "паста",
+        "target_text": "pasta",
+        "hint": "макароны",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3318",
+        "category_id": "srv_cat_081",
+        "source_text": "стейк",
+        "target_text": "steak",
+        "hint": "кусок мяса",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3319",
+        "category_id": "srv_cat_081",
+        "source_text": "жаркое",
+        "target_text": "roast",
+        "hint": "запечённое мясо",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3320",
+        "category_id": "srv_cat_081",
+        "source_text": "рагу",
+        "target_text": "stew",
+        "hint": "тушёное блюдо",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3321",
+        "category_id": "srv_cat_081",
+        "source_text": "карри",
+        "target_text": "curry",
+        "hint": "острое блюдо",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3322",
+        "category_id": "srv_cat_081",
+        "source_text": "суши",
+        "target_text": "sushi",
+        "hint": "японское блюдо",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3323",
+        "category_id": "srv_cat_081",
+        "source_text": "лапша",
+        "target_text": "noodle",
+        "hint": "длинные макароны",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3324",
+        "category_id": "srv_cat_081",
+        "source_text": "рис",
+        "target_text": "rice",
+        "hint": "белая крупа",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3325",
+        "category_id": "srv_cat_081",
+        "source_text": "каша",
+        "target_text": "porridge",
+        "hint": "из злаков",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3326",
+        "category_id": "srv_cat_081",
+        "source_text": "омлет",
+        "target_text": "omelette",
+        "hint": "из яиц",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3327",
+        "category_id": "srv_cat_081",
+        "source_text": "пирог",
+        "target_text": "pie",
+        "hint": "с начинкой",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3328",
+        "category_id": "srv_cat_081",
+        "source_text": "торт",
+        "target_text": "cake",
+        "hint": "сладкая выпечка",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3329",
+        "category_id": "srv_cat_081",
+        "source_text": "печенье",
+        "target_text": "cookie",
+        "hint": "сладкое печенье",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3330",
+        "category_id": "srv_cat_081",
+        "source_text": "перекус",
+        "target_text": "snack",
+        "hint": "маленькая еда",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3331",
+        "category_id": "srv_cat_081",
+        "source_text": "завтрак",
+        "target_text": "breakfast",
+        "hint": "утренняя еда",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3332",
+        "category_id": "srv_cat_081",
+        "source_text": "обед",
+        "target_text": "lunch",
+        "hint": "дневная еда",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3333",
+        "category_id": "srv_cat_081",
+        "source_text": "ужин",
+        "target_text": "dinner",
+        "hint": "вечерняя еда",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3334",
+        "category_id": "srv_cat_081",
+        "source_text": "поздний завтрак",
+        "target_text": "brunch",
+        "hint": "между завтраком обедом",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3335",
+        "category_id": "srv_cat_081",
+        "source_text": "барбекю",
+        "target_text": "barbecue",
+        "hint": "еда на гриле",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3336",
+        "category_id": "srv_cat_081",
+        "source_text": "пикник",
+        "target_text": "picnic",
+        "hint": "еда на природе",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3337",
+        "category_id": "srv_cat_081",
+        "source_text": "пир",
+        "target_text": "feast",
+        "hint": "большой праздник",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3338",
+        "category_id": "srv_cat_081",
+        "source_text": "банкет",
+        "target_text": "banquet",
+        "hint": "торжественный ужин",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3339",
+        "category_id": "srv_cat_081",
+        "source_text": "буфет",
+        "target_text": "self-service",
+        "hint": "самообслуживание",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3340",
+        "category_id": "srv_cat_081",
+        "source_text": "кейтеринг",
+        "target_text": "service",
+        "hint": "еда на заказ",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3341",
+        "category_id": "srv_cat_081",
+        "source_text": "шеф",
+        "target_text": "chef",
+        "hint": "главный на кухне",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3342",
+        "category_id": "srv_cat_081",
+        "source_text": "повар",
+        "target_text": "cook",
+        "hint": "готовит еду",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3343",
+        "category_id": "srv_cat_081",
+        "source_text": "пекарь",
+        "target_text": "baker",
+        "hint": "печёт хлеб",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3344",
+        "category_id": "srv_cat_081",
+        "source_text": "официант",
+        "target_text": "waiter",
+        "hint": "подаёт еду",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3345",
+        "category_id": "srv_cat_081",
+        "source_text": "вкус",
+        "target_text": "flavor",
+        "hint": "ощущение еды",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3346",
+        "category_id": "srv_cat_081",
+        "source_text": "аромат",
+        "target_text": "aroma",
+        "hint": "запах еды",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3347",
+        "category_id": "srv_cat_081",
+        "source_text": "украшение",
+        "target_text": "garnish",
+        "hint": "для красоты блюда",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3348",
+        "category_id": "srv_cat_081",
+        "source_text": "порция",
+        "target_text": "portion",
+        "hint": "одна порция",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3349",
+        "category_id": "srv_cat_081",
+        "source_text": "вкус",
+        "target_text": "taste",
+        "hint": "вкусовое ощущение",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "081"
+    },
+    {
+        "id": "srv_word_3350",
+        "category_id": "srv_cat_081",
+        "source_text": "текстура",
+        "target_text": "feel",
+        "hint": "ощущение во рту",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "081"
+    }
+]
