@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2401",
+        "category_id": "srv_cat_063",
+        "source_text": "видеть",
+        "target_text": "see",
+        "hint": "использовать глаза",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2402",
+        "category_id": "srv_cat_063",
+        "source_text": "слышать",
+        "target_text": "hear",
+        "hint": "использовать уши",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2403",
+        "category_id": "srv_cat_063",
+        "source_text": "смотреть",
+        "target_text": "look",
+        "hint": "направлять взгляд",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2404",
+        "category_id": "srv_cat_063",
+        "source_text": "слушать",
+        "target_text": "listen",
+        "hint": "внимательно слышать",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2405",
+        "category_id": "srv_cat_063",
+        "source_text": "наблюдать",
+        "target_text": "watch",
+        "hint": "смотреть внимательно",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2406",
+        "category_id": "srv_cat_063",
+        "source_text": "чувствовать",
+        "target_text": "feel",
+        "hint": "ощущать телом",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2407",
+        "category_id": "srv_cat_063",
+        "source_text": "трогать",
+        "target_text": "touch",
+        "hint": "касаться рукой",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2408",
+        "category_id": "srv_cat_063",
+        "source_text": "нюхать",
+        "target_text": "smell",
+        "hint": "использовать нос",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2409",
+        "category_id": "srv_cat_063",
+        "source_text": "пробовать",
+        "target_text": "taste",
+        "hint": "использовать язык",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2410",
+        "category_id": "srv_cat_063",
+        "source_text": "замечать",
+        "target_text": "notice",
+        "hint": "обращать внимание",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2411",
+        "category_id": "srv_cat_063",
+        "source_text": "узнавать",
+        "target_text": "recognize",
+        "hint": "идентифицировать",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2412",
+        "category_id": "srv_cat_063",
+        "source_text": "замечать",
+        "target_text": "spot",
+        "hint": "видеть конкретное",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2413",
+        "category_id": "srv_cat_063",
+        "source_text": "искать",
+        "target_text": "search",
+        "hint": "пытаться найти",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2414",
+        "category_id": "srv_cat_063",
+        "source_text": "находить",
+        "target_text": "find",
+        "hint": "обнаруживать",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2415",
+        "category_id": "srv_cat_063",
+        "source_text": "проверять",
+        "target_text": "check",
+        "hint": "убеждаться",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2416",
+        "category_id": "srv_cat_063",
+        "source_text": "знать",
+        "target_text": "know",
+        "hint": "иметь информацию",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2417",
+        "category_id": "srv_cat_063",
+        "source_text": "понимать",
+        "target_text": "understand",
+        "hint": "осознавать смысл",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2418",
+        "category_id": "srv_cat_063",
+        "source_text": "помнить",
+        "target_text": "remember",
+        "hint": "хранить в памяти",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2419",
+        "category_id": "srv_cat_063",
+        "source_text": "забывать",
+        "target_text": "forget",
+        "hint": "терять из памяти",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2420",
+        "category_id": "srv_cat_063",
+        "source_text": "думать",
+        "target_text": "think",
+        "hint": "размышлять",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2421",
+        "category_id": "srv_cat_063",
+        "source_text": "верить",
+        "target_text": "believe",
+        "hint": "доверять чему-то",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2422",
+        "category_id": "srv_cat_063",
+        "source_text": "осознавать",
+        "target_text": "realize",
+        "hint": "понимать вдруг",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2423",
+        "category_id": "srv_cat_063",
+        "source_text": "представлять",
+        "target_text": "imagine",
+        "hint": "создавать в уме",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2424",
+        "category_id": "srv_cat_063",
+        "source_text": "угадывать",
+        "target_text": "guess",
+        "hint": "предполагать",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2425",
+        "category_id": "srv_cat_063",
+        "source_text": "интересоваться",
+        "target_text": "wonder",
+        "hint": "хотеть знать",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2426",
+        "category_id": "srv_cat_063",
+        "source_text": "учиться",
+        "target_text": "learn",
+        "hint": "получать знания",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2427",
+        "category_id": "srv_cat_063",
+        "source_text": "изучать",
+        "target_text": "study",
+        "hint": "внимательно рассматривать",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2428",
+        "category_id": "srv_cat_063",
+        "source_text": "открывать",
+        "target_text": "discover",
+        "hint": "находить новое",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2429",
+        "category_id": "srv_cat_063",
+        "source_text": "исследовать",
+        "target_text": "explore",
+        "hint": "изучать новое место",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2430",
+        "category_id": "srv_cat_063",
+        "source_text": "наблюдать",
+        "target_text": "observe",
+        "hint": "внимательно смотреть",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2431",
+        "category_id": "srv_cat_063",
+        "source_text": "изучать",
+        "target_text": "test",
+        "hint": "проверять знания",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2432",
+        "category_id": "srv_cat_063",
+        "source_text": "осматривать",
+        "target_text": "check",
+        "hint": "проверять визуально",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2433",
+        "category_id": "srv_cat_063",
+        "source_text": "фокусироваться",
+        "target_text": "focus",
+        "hint": "концентрировать внимание",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2434",
+        "category_id": "srv_cat_063",
+        "source_text": "ощущать",
+        "target_text": "sense",
+        "hint": "чувствовать интуитивно",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2435",
+        "category_id": "srv_cat_063",
+        "source_text": "обнаруживать",
+        "target_text": "find",
+        "hint": "находить что-то",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2436",
+        "category_id": "srv_cat_063",
+        "source_text": "определять",
+        "target_text": "name",
+        "hint": "называть что-то",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2437",
+        "category_id": "srv_cat_063",
+        "source_text": "воспринимать",
+        "target_text": "feel",
+        "hint": "осознавать через чувства",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2438",
+        "category_id": "srv_cat_063",
+        "source_text": "переживать",
+        "target_text": "live",
+        "hint": "чувствовать на себе",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2439",
+        "category_id": "srv_cat_063",
+        "source_text": "быть свидетелем",
+        "target_text": "see",
+        "hint": "видеть событие",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2440",
+        "category_id": "srv_cat_063",
+        "source_text": "узнавать",
+        "target_text": "recognize",
+        "hint": "видеть знакомое",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2441",
+        "category_id": "srv_cat_063",
+        "source_text": "искать",
+        "target_text": "seek",
+        "hint": "стараться найти",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2442",
+        "category_id": "srv_cat_063",
+        "source_text": "выслеживать",
+        "target_text": "hunt",
+        "hint": "искать активно",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2443",
+        "category_id": "srv_cat_063",
+        "source_text": "осматривать",
+        "target_text": "view",
+        "hint": "обзорно смотреть",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2444",
+        "category_id": "srv_cat_063",
+        "source_text": "следить",
+        "target_text": "watch",
+        "hint": "наблюдать за изменениями",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2445",
+        "category_id": "srv_cat_063",
+        "source_text": "выслеживать",
+        "target_text": "track",
+        "hint": "идти по следу",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2446",
+        "category_id": "srv_cat_063",
+        "source_text": "просматривать",
+        "target_text": "scan",
+        "hint": "быстро читать",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2447",
+        "category_id": "srv_cat_063",
+        "source_text": "читать",
+        "target_text": "read",
+        "hint": "воспринимать текст",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2448",
+        "category_id": "srv_cat_063",
+        "source_text": "смотреть",
+        "target_text": "view",
+        "hint": "видеть что-то",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2449",
+        "category_id": "srv_cat_063",
+        "source_text": "прислушиваться",
+        "target_text": "mind",
+        "hint": "обращать внимание",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "063"
+    },
+    {
+        "id": "srv_word_2450",
+        "category_id": "srv_cat_063",
+        "source_text": "мельком видеть",
+        "target_text": "glimpse",
+        "hint": "быстрый взгляд",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "063"
+    }
+]
