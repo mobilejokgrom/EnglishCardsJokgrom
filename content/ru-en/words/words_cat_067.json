@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2601",
+        "category_id": "srv_cat_067",
+        "source_text": "яблоко",
+        "target_text": "apple",
+        "hint": "красный или зелёный",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2602",
+        "category_id": "srv_cat_067",
+        "source_text": "банан",
+        "target_text": "banana",
+        "hint": "жёлтый длинный",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2603",
+        "category_id": "srv_cat_067",
+        "source_text": "апельсин",
+        "target_text": "orange",
+        "hint": "круглый оранжевый",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2604",
+        "category_id": "srv_cat_067",
+        "source_text": "виноград",
+        "target_text": "grape",
+        "hint": "маленькие ягоды гроздью",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2605",
+        "category_id": "srv_cat_067",
+        "source_text": "груша",
+        "target_text": "pear",
+        "hint": "похожа на лампу",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2606",
+        "category_id": "srv_cat_067",
+        "source_text": "персик",
+        "target_text": "peach",
+        "hint": "пушистый розовый",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2607",
+        "category_id": "srv_cat_067",
+        "source_text": "слива",
+        "target_text": "plum",
+        "hint": "тёмно-фиолетовая",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2608",
+        "category_id": "srv_cat_067",
+        "source_text": "вишня",
+        "target_text": "cherry",
+        "hint": "маленькая красная",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2609",
+        "category_id": "srv_cat_067",
+        "source_text": "лимон",
+        "target_text": "lemon",
+        "hint": "жёлтый кислый",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2610",
+        "category_id": "srv_cat_067",
+        "source_text": "лайм",
+        "target_text": "lime",
+        "hint": "зелёный кислый",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2611",
+        "category_id": "srv_cat_067",
+        "source_text": "клубника",
+        "target_text": "strawberry",
+        "hint": "красная ягода",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2612",
+        "category_id": "srv_cat_067",
+        "source_text": "черника",
+        "target_text": "blueberry",
+        "hint": "маленькая синяя",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2613",
+        "category_id": "srv_cat_067",
+        "source_text": "малина",
+        "target_text": "raspberry",
+        "hint": "красная мягкая",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2614",
+        "category_id": "srv_cat_067",
+        "source_text": "ежевика",
+        "target_text": "blackberry",
+        "hint": "чёрная ягода",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2615",
+        "category_id": "srv_cat_067",
+        "source_text": "клюква",
+        "target_text": "cranberry",
+        "hint": "красная кислая",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2616",
+        "category_id": "srv_cat_067",
+        "source_text": "дыня",
+        "target_text": "melon",
+        "hint": "большая сладкая",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2617",
+        "category_id": "srv_cat_067",
+        "source_text": "арбуз",
+        "target_text": "watermelon",
+        "hint": "зелёный снаружи красный внутри",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2618",
+        "category_id": "srv_cat_067",
+        "source_text": "манго",
+        "target_text": "mango",
+        "hint": "тропический оранжевый",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2619",
+        "category_id": "srv_cat_067",
+        "source_text": "ананас",
+        "target_text": "pineapple",
+        "hint": "колючий жёлтый внутри",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2620",
+        "category_id": "srv_cat_067",
+        "source_text": "киви",
+        "target_text": "kiwi",
+        "hint": "коричневый зелёный внутри",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2621",
+        "category_id": "srv_cat_067",
+        "source_text": "кокос",
+        "target_text": "coconut",
+        "hint": "твёрдый с молоком внутри",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2622",
+        "category_id": "srv_cat_067",
+        "source_text": "папайя",
+        "target_text": "papaya",
+        "hint": "тропический оранжевый",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2623",
+        "category_id": "srv_cat_067",
+        "source_text": "гранат",
+        "target_text": "pomegranate",
+        "hint": "много красных зёрен",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2624",
+        "category_id": "srv_cat_067",
+        "source_text": "инжир",
+        "target_text": "fig",
+        "hint": "сладкий мягкий",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2625",
+        "category_id": "srv_cat_067",
+        "source_text": "финик",
+        "target_text": "date",
+        "hint": "сладкий коричневый",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2626",
+        "category_id": "srv_cat_067",
+        "source_text": "абрикос",
+        "target_text": "apricot",
+        "hint": "маленький оранжевый",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2627",
+        "category_id": "srv_cat_067",
+        "source_text": "грейпфрут",
+        "target_text": "grapefruit",
+        "hint": "большой горький",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2628",
+        "category_id": "srv_cat_067",
+        "source_text": "мандарин",
+        "target_text": "tangerine",
+        "hint": "маленький апельсин",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2629",
+        "category_id": "srv_cat_067",
+        "source_text": "клементин",
+        "target_text": "clementine",
+        "hint": "сладкий мандарин",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2630",
+        "category_id": "srv_cat_067",
+        "source_text": "нектарин",
+        "target_text": "nectarine",
+        "hint": "гладкий персик",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2631",
+        "category_id": "srv_cat_067",
+        "source_text": "гуава",
+        "target_text": "guava",
+        "hint": "тропический розовый",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2632",
+        "category_id": "srv_cat_067",
+        "source_text": "личи",
+        "target_text": "lychee",
+        "hint": "маленький белый внутри",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2633",
+        "category_id": "srv_cat_067",
+        "source_text": "маракуйя",
+        "target_text": "passion",
+        "hint": "кислый с семенами",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2634",
+        "category_id": "srv_cat_067",
+        "source_text": "хурма",
+        "target_text": "persimmon",
+        "hint": "оранжевый вяжет",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2635",
+        "category_id": "srv_cat_067",
+        "source_text": "айва",
+        "target_text": "quince",
+        "hint": "твёрдый жёлтый",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2636",
+        "category_id": "srv_cat_067",
+        "source_text": "фрукт",
+        "target_text": "fruit",
+        "hint": "вид дыни",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2637",
+        "category_id": "srv_cat_067",
+        "source_text": "карамбола",
+        "target_text": "starfruit",
+        "hint": "форма звезды",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2638",
+        "category_id": "srv_cat_067",
+        "source_text": "питахайя",
+        "target_text": "dragon",
+        "hint": "розовый с семенами",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2639",
+        "category_id": "srv_cat_067",
+        "source_text": "джекфрут",
+        "target_text": "jackfruit",
+        "hint": "очень большой",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2640",
+        "category_id": "srv_cat_067",
+        "source_text": "дуриан",
+        "target_text": "durian",
+        "hint": "вонючий но вкусный",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2641",
+        "category_id": "srv_cat_067",
+        "source_text": "тропический",
+        "target_text": "tropical",
+        "hint": "волосатый фрукт",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2642",
+        "category_id": "srv_cat_067",
+        "source_text": "сладкий",
+        "target_text": "sweet",
+        "hint": "фиолетовый сладкий",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2643",
+        "category_id": "srv_cat_067",
+        "source_text": "смородина",
+        "target_text": "currant",
+        "hint": "маленькие ягоды",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2644",
+        "category_id": "srv_cat_067",
+        "source_text": "шелковица",
+        "target_text": "mulberry",
+        "hint": "тёмно-фиолетовая",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2645",
+        "category_id": "srv_cat_067",
+        "source_text": "олива",
+        "target_text": "olive",
+        "hint": "для масла",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2646",
+        "category_id": "srv_cat_067",
+        "source_text": "кислый",
+        "target_text": "sour",
+        "hint": "кисло-сладкий",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2647",
+        "category_id": "srv_cat_067",
+        "source_text": "зелёный",
+        "target_text": "green",
+        "hint": "овощной банан",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2648",
+        "category_id": "srv_cat_067",
+        "source_text": "ягода",
+        "target_text": "berry",
+        "hint": "общее название",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2649",
+        "category_id": "srv_cat_067",
+        "source_text": "персик",
+        "target_text": "peach",
+        "hint": "сочный сладкий",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "067"
+    },
+    {
+        "id": "srv_word_2650",
+        "category_id": "srv_cat_067",
+        "source_text": "яблоко",
+        "target_text": "apple",
+        "hint": "хрустящее сочное",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "067"
+    }
+]
