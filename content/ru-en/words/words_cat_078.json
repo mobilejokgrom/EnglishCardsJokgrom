@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3151",
+        "category_id": "srv_cat_078",
+        "source_text": "расти",
+        "target_text": "grow",
+        "hint": "увеличиваться в размере",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3152",
+        "category_id": "srv_cat_078",
+        "source_text": "улучшаться",
+        "target_text": "improve",
+        "hint": "становиться лучше",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3153",
+        "category_id": "srv_cat_078",
+        "source_text": "развиваться",
+        "target_text": "develop",
+        "hint": "проходить стадии роста",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3154",
+        "category_id": "srv_cat_078",
+        "source_text": "увеличиваться",
+        "target_text": "increase",
+        "hint": "расти в количестве",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3155",
+        "category_id": "srv_cat_078",
+        "source_text": "подниматься",
+        "target_text": "rise",
+        "hint": "идти вверх",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3156",
+        "category_id": "srv_cat_078",
+        "source_text": "расширяться",
+        "target_text": "expand",
+        "hint": "становиться шире",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3157",
+        "category_id": "srv_cat_078",
+        "source_text": "прогрессировать",
+        "target_text": "progress",
+        "hint": "двигаться вперёд",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3158",
+        "category_id": "srv_cat_078",
+        "source_text": "продвигаться",
+        "target_text": "advance",
+        "hint": "идти вперёд",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3159",
+        "category_id": "srv_cat_078",
+        "source_text": "укрепляться",
+        "target_text": "strengthen",
+        "hint": "становиться сильнее",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3160",
+        "category_id": "srv_cat_078",
+        "source_text": "улучшать",
+        "target_text": "improve",
+        "hint": "делать лучше",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3161",
+        "category_id": "srv_cat_078",
+        "source_text": "усиливать",
+        "target_text": "increase",
+        "hint": "резко увеличивать",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3162",
+        "category_id": "srv_cat_078",
+        "source_text": "выздоравливать",
+        "target_text": "recover",
+        "hint": "возвращаться к здоровью",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3163",
+        "category_id": "srv_cat_078",
+        "source_text": "заживать",
+        "target_text": "heal",
+        "hint": "восстанавливаться",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3164",
+        "category_id": "srv_cat_078",
+        "source_text": "обновлять",
+        "target_text": "renew",
+        "hint": "делать новым",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3165",
+        "category_id": "srv_cat_078",
+        "source_text": "восстанавливать",
+        "target_text": "restore",
+        "hint": "возвращать прежнее",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3166",
+        "category_id": "srv_cat_078",
+        "source_text": "превышать",
+        "target_text": "exceed",
+        "hint": "быть больше",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3167",
+        "category_id": "srv_cat_078",
+        "source_text": "превосходить",
+        "target_text": "exceed",
+        "hint": "быть лучше",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3168",
+        "category_id": "srv_cat_078",
+        "source_text": "перерастать",
+        "target_text": "grow",
+        "hint": "становиться слишком большим",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3169",
+        "category_id": "srv_cat_078",
+        "source_text": "строить",
+        "target_text": "build",
+        "hint": "создавать",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3170",
+        "category_id": "srv_cat_078",
+        "source_text": "создавать",
+        "target_text": "create",
+        "hint": "делать новое",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3171",
+        "category_id": "srv_cat_078",
+        "source_text": "формировать",
+        "target_text": "form",
+        "hint": "придавать форму",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3172",
+        "category_id": "srv_cat_078",
+        "source_text": "формировать",
+        "target_text": "shape",
+        "hint": "делать форму",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3173",
+        "category_id": "srv_cat_078",
+        "source_text": "поднимать",
+        "target_text": "raise",
+        "hint": "делать выше",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3174",
+        "category_id": "srv_cat_078",
+        "source_text": "повышать",
+        "target_text": "raise",
+        "hint": "поднимать уровень",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3175",
+        "category_id": "srv_cat_078",
+        "source_text": "поднимать",
+        "target_text": "lift",
+        "hint": "брать вверх",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3176",
+        "category_id": "srv_cat_078",
+        "source_text": "улучшать",
+        "target_text": "improve",
+        "hint": "делать современнее",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3177",
+        "category_id": "srv_cat_078",
+        "source_text": "цвести",
+        "target_text": "bloom",
+        "hint": "распускаться",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3178",
+        "category_id": "srv_cat_078",
+        "source_text": "цвести",
+        "target_text": "blossom",
+        "hint": "покрываться цветами",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3179",
+        "category_id": "srv_cat_078",
+        "source_text": "процветать",
+        "target_text": "flourish",
+        "hint": "успешно расти",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3180",
+        "category_id": "srv_cat_078",
+        "source_text": "преуспевать",
+        "target_text": "grow",
+        "hint": "расти хорошо",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3181",
+        "category_id": "srv_cat_078",
+        "source_text": "созревать",
+        "target_text": "grow",
+        "hint": "становиться взрослым",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3182",
+        "category_id": "srv_cat_078",
+        "source_text": "зреть",
+        "target_text": "mature",
+        "hint": "становиться спелым",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3183",
+        "category_id": "srv_cat_078",
+        "source_text": "ускорять",
+        "target_text": "speed",
+        "hint": "делать быстрее",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3184",
+        "category_id": "srv_cat_078",
+        "source_text": "умножать",
+        "target_text": "increase",
+        "hint": "увеличивать в разы",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3185",
+        "category_id": "srv_cat_078",
+        "source_text": "продлевать",
+        "target_text": "extend",
+        "hint": "делать длиннее",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3186",
+        "category_id": "srv_cat_078",
+        "source_text": "продлевать",
+        "target_text": "extend",
+        "hint": "удлинять во времени",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3187",
+        "category_id": "srv_cat_078",
+        "source_text": "увеличивать",
+        "target_text": "enlarge",
+        "hint": "делать большим",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3188",
+        "category_id": "srv_cat_078",
+        "source_text": "усиливать",
+        "target_text": "increase",
+        "hint": "делать мощнее",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3189",
+        "category_id": "srv_cat_078",
+        "source_text": "максимизировать",
+        "target_text": "increase",
+        "hint": "делать наибольшим",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3190",
+        "category_id": "srv_cat_078",
+        "source_text": "оптимизировать",
+        "target_text": "improve",
+        "hint": "делать лучшим",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3191",
+        "category_id": "srv_cat_078",
+        "source_text": "совершенствовать",
+        "target_text": "improve",
+        "hint": "делать идеальным",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3192",
+        "category_id": "srv_cat_078",
+        "source_text": "улучшать",
+        "target_text": "improve",
+        "hint": "делать чище",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3193",
+        "category_id": "srv_cat_078",
+        "source_text": "полировать",
+        "target_text": "polish",
+        "hint": "делать блестящим",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3194",
+        "category_id": "srv_cat_078",
+        "source_text": "оживлять",
+        "target_text": "restore",
+        "hint": "возвращать к жизни",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3195",
+        "category_id": "srv_cat_078",
+        "source_text": "возрождать",
+        "target_text": "restore",
+        "hint": "создавать заново",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3196",
+        "category_id": "srv_cat_078",
+        "source_text": "преображать",
+        "target_text": "change",
+        "hint": "полностью менять",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3197",
+        "category_id": "srv_cat_078",
+        "source_text": "модернизировать",
+        "target_text": "improve",
+        "hint": "делать новым",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3198",
+        "category_id": "srv_cat_078",
+        "source_text": "поднимать",
+        "target_text": "improve",
+        "hint": "резко улучшать",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3199",
+        "category_id": "srv_cat_078",
+        "source_text": "взлетать",
+        "target_text": "rise",
+        "hint": "быстро расти",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "078"
+    },
+    {
+        "id": "srv_word_3200",
+        "category_id": "srv_cat_078",
+        "source_text": "процветать",
+        "target_text": "succeed",
+        "hint": "быть успешным",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "078"
+    }
+]
