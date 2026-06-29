@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3401",
+        "category_id": "srv_cat_083",
+        "source_text": "завтрак",
+        "target_text": "breakfast",
+        "hint": "утренний приём пищи",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3402",
+        "category_id": "srv_cat_083",
+        "source_text": "поздний завтрак",
+        "target_text": "brunch",
+        "hint": "между завтраком обедом",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3403",
+        "category_id": "srv_cat_083",
+        "source_text": "приём пищи",
+        "target_text": "meal",
+        "hint": "еда в определённое время",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3404",
+        "category_id": "srv_cat_083",
+        "source_text": "каша",
+        "target_text": "porridge",
+        "hint": "из овсяных хлопьев",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3405",
+        "category_id": "srv_cat_083",
+        "source_text": "овсянка",
+        "target_text": "oatmeal",
+        "hint": "каша из овса",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3406",
+        "category_id": "srv_cat_083",
+        "source_text": "хлопья",
+        "target_text": "cereal",
+        "hint": "сухие с молоком",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3407",
+        "category_id": "srv_cat_083",
+        "source_text": "тост",
+        "target_text": "toast",
+        "hint": "поджаренный хлеб",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3408",
+        "category_id": "srv_cat_083",
+        "source_text": "яйцо",
+        "target_text": "egg",
+        "hint": "куриное жареное варёное",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3409",
+        "category_id": "srv_cat_083",
+        "source_text": "бекон",
+        "target_text": "bacon",
+        "hint": "копчёная свинина",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3410",
+        "category_id": "srv_cat_083",
+        "source_text": "сосиска",
+        "target_text": "sausage",
+        "hint": "мясная палочка",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3411",
+        "category_id": "srv_cat_083",
+        "source_text": "ветчина",
+        "target_text": "ham",
+        "hint": "копчёное мясо",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3412",
+        "category_id": "srv_cat_083",
+        "source_text": "сыр",
+        "target_text": "cheese",
+        "hint": "молочный продукт",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3413",
+        "category_id": "srv_cat_083",
+        "source_text": "масло",
+        "target_text": "butter",
+        "hint": "мажут на хлеб",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3414",
+        "category_id": "srv_cat_083",
+        "source_text": "джем",
+        "target_text": "jam",
+        "hint": "сладкая намазка",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3415",
+        "category_id": "srv_cat_083",
+        "source_text": "мёд",
+        "target_text": "honey",
+        "hint": "сладкий от пчёл",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3416",
+        "category_id": "srv_cat_083",
+        "source_text": "сироп",
+        "target_text": "syrup",
+        "hint": "сладкая жидкость",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3417",
+        "category_id": "srv_cat_083",
+        "source_text": "йогурт",
+        "target_text": "yogurt",
+        "hint": "кисломолочный продукт",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3418",
+        "category_id": "srv_cat_083",
+        "source_text": "молоко",
+        "target_text": "milk",
+        "hint": "белый напиток",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3419",
+        "category_id": "srv_cat_083",
+        "source_text": "кофе",
+        "target_text": "coffee",
+        "hint": "горячий бодрящий",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3420",
+        "category_id": "srv_cat_083",
+        "source_text": "чай",
+        "target_text": "tea",
+        "hint": "заваривают листья",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3421",
+        "category_id": "srv_cat_083",
+        "source_text": "сок",
+        "target_text": "juice",
+        "hint": "из фруктов",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3422",
+        "category_id": "srv_cat_083",
+        "source_text": "блин",
+        "target_text": "pancake",
+        "hint": "жарят на сковороде",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3423",
+        "category_id": "srv_cat_083",
+        "source_text": "вафля",
+        "target_text": "waffle",
+        "hint": "решётчатая выпечка",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3424",
+        "category_id": "srv_cat_083",
+        "source_text": "круассан",
+        "target_text": "croissant",
+        "hint": "слоёная булочка",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3425",
+        "category_id": "srv_cat_083",
+        "source_text": "маффин",
+        "target_text": "muffin",
+        "hint": "кекс в формочке",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3426",
+        "category_id": "srv_cat_083",
+        "source_text": "бейгл",
+        "target_text": "bagel",
+        "hint": "кольцо из теста",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3427",
+        "category_id": "srv_cat_083",
+        "source_text": "булочка",
+        "target_text": "roll",
+        "hint": "маленький хлеб",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3428",
+        "category_id": "srv_cat_083",
+        "source_text": "булочка",
+        "target_text": "bun",
+        "hint": "мягкая круглая",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3429",
+        "category_id": "srv_cat_083",
+        "source_text": "пончик",
+        "target_text": "donut",
+        "hint": "жареный в масле",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3430",
+        "category_id": "srv_cat_083",
+        "source_text": "крекер",
+        "target_text": "cracker",
+        "hint": "сухое печенье",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3431",
+        "category_id": "srv_cat_083",
+        "source_text": "бисквит",
+        "target_text": "biscuit",
+        "hint": "мягкое печенье",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3432",
+        "category_id": "srv_cat_083",
+        "source_text": "выпечка",
+        "target_text": "pastry",
+        "hint": "сладкое тесто",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3433",
+        "category_id": "srv_cat_083",
+        "source_text": "фрукт",
+        "target_text": "fruit",
+        "hint": "яблоко банан",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3434",
+        "category_id": "srv_cat_083",
+        "source_text": "ягода",
+        "target_text": "berry",
+        "hint": "клубника черника",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3435",
+        "category_id": "srv_cat_083",
+        "source_text": "орех",
+        "target_text": "nut",
+        "hint": "грецкий миндаль",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3436",
+        "category_id": "srv_cat_083",
+        "source_text": "миндаль",
+        "target_text": "almond",
+        "hint": "светлый орех",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3437",
+        "category_id": "srv_cat_083",
+        "source_text": "арахис",
+        "target_text": "peanut",
+        "hint": "земляной орех",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3438",
+        "category_id": "srv_cat_083",
+        "source_text": "тарелка",
+        "target_text": "plate",
+        "hint": "посуда для еды",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3439",
+        "category_id": "srv_cat_083",
+        "source_text": "миска",
+        "target_text": "bowl",
+        "hint": "для каши супа",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3440",
+        "category_id": "srv_cat_083",
+        "source_text": "чашка",
+        "target_text": "cup",
+        "hint": "для горячего",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3441",
+        "category_id": "srv_cat_083",
+        "source_text": "кружка",
+        "target_text": "mug",
+        "hint": "большая чашка",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3442",
+        "category_id": "srv_cat_083",
+        "source_text": "стакан",
+        "target_text": "glass",
+        "hint": "для холодного",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3443",
+        "category_id": "srv_cat_083",
+        "source_text": "ложка",
+        "target_text": "spoon",
+        "hint": "для каши",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3444",
+        "category_id": "srv_cat_083",
+        "source_text": "вилка",
+        "target_text": "fork",
+        "hint": "для яиц",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3445",
+        "category_id": "srv_cat_083",
+        "source_text": "нож",
+        "target_text": "knife",
+        "hint": "для резки",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3446",
+        "category_id": "srv_cat_083",
+        "source_text": "салфетка",
+        "target_text": "napkin",
+        "hint": "вытирать руки",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3447",
+        "category_id": "srv_cat_083",
+        "source_text": "меню",
+        "target_text": "menu",
+        "hint": "список блюд",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3448",
+        "category_id": "srv_cat_083",
+        "source_text": "рецепт",
+        "target_text": "recipe",
+        "hint": "инструкция готовки",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3449",
+        "category_id": "srv_cat_083",
+        "source_text": "ингредиент",
+        "target_text": "ingredient",
+        "hint": "часть блюда",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "083"
+    },
+    {
+        "id": "srv_word_3450",
+        "category_id": "srv_cat_083",
+        "source_text": "сахар",
+        "target_text": "sugar",
+        "hint": "сладкая добавка",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "083"
+    }
+]
