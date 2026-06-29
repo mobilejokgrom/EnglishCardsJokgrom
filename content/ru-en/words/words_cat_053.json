@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1901",
+        "category_id": "srv_cat_053",
+        "source_text": "просыпаться",
+        "target_text": "wake",
+        "hint": "прекращают спать",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1902",
+        "category_id": "srv_cat_053",
+        "source_text": "вставать",
+        "target_text": "rise",
+        "hint": "поднимаются утром",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1903",
+        "category_id": "srv_cat_053",
+        "source_text": "одеваться",
+        "target_text": "dress",
+        "hint": "надевают одежду",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1904",
+        "category_id": "srv_cat_053",
+        "source_text": "раздеваться",
+        "target_text": "undress",
+        "hint": "снимают одежду",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1905",
+        "category_id": "srv_cat_053",
+        "source_text": "купаться",
+        "target_text": "bathe",
+        "hint": "мыться в ванне",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1906",
+        "category_id": "srv_cat_053",
+        "source_text": "принимать душ",
+        "target_text": "shower",
+        "hint": "мыться под душем",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1907",
+        "category_id": "srv_cat_053",
+        "source_text": "бриться",
+        "target_text": "shave",
+        "hint": "удалять волосы",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1908",
+        "category_id": "srv_cat_053",
+        "source_text": "расчёсывать",
+        "target_text": "comb",
+        "hint": "причёсывать волосы",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1909",
+        "category_id": "srv_cat_053",
+        "source_text": "есть",
+        "target_text": "eat",
+        "hint": "кушать еду",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1910",
+        "category_id": "srv_cat_053",
+        "source_text": "пить",
+        "target_text": "drink",
+        "hint": "пить воду",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1911",
+        "category_id": "srv_cat_053",
+        "source_text": "готовить",
+        "target_text": "cook",
+        "hint": "делать еду",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1912",
+        "category_id": "srv_cat_053",
+        "source_text": "печь",
+        "target_text": "bake",
+        "hint": "готовить в духовке",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1913",
+        "category_id": "srv_cat_053",
+        "source_text": "жарить",
+        "target_text": "fry",
+        "hint": "готовить на масле",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1914",
+        "category_id": "srv_cat_053",
+        "source_text": "варить",
+        "target_text": "boil",
+        "hint": "готовить в воде",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1915",
+        "category_id": "srv_cat_053",
+        "source_text": "мыть",
+        "target_text": "wash",
+        "hint": "очищать водой",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1916",
+        "category_id": "srv_cat_053",
+        "source_text": "чистить",
+        "target_text": "clean",
+        "hint": "убирать грязь",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1917",
+        "category_id": "srv_cat_053",
+        "source_text": "подметать",
+        "target_text": "sweep",
+        "hint": "убирать пол",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1918",
+        "category_id": "srv_cat_053",
+        "source_text": "мыть пол",
+        "target_text": "mop",
+        "hint": "шваброй",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1919",
+        "category_id": "srv_cat_053",
+        "source_text": "пылесосить",
+        "target_text": "vacuum",
+        "hint": "убирать пылесосом",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1920",
+        "category_id": "srv_cat_053",
+        "source_text": "вытирать пыль",
+        "target_text": "dust",
+        "hint": "чистить поверхности",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1921",
+        "category_id": "srv_cat_053",
+        "source_text": "гладить",
+        "target_text": "iron",
+        "hint": "убирать складки",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1922",
+        "category_id": "srv_cat_053",
+        "source_text": "складывать",
+        "target_text": "fold",
+        "hint": "делать аккуратным",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1923",
+        "category_id": "srv_cat_053",
+        "source_text": "сушить",
+        "target_text": "dry",
+        "hint": "убирать влагу",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1924",
+        "category_id": "srv_cat_053",
+        "source_text": "спать",
+        "target_text": "sleep",
+        "hint": "отдыхать ночью",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1925",
+        "category_id": "srv_cat_053",
+        "source_text": "видеть сны",
+        "target_text": "dream",
+        "hint": "думать во сне",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1926",
+        "category_id": "srv_cat_053",
+        "source_text": "отдыхать",
+        "target_text": "rest",
+        "hint": "восстанавливать силы",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1927",
+        "category_id": "srv_cat_053",
+        "source_text": "расслабляться",
+        "target_text": "relax",
+        "hint": "отдыхать спокойно",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1928",
+        "category_id": "srv_cat_053",
+        "source_text": "готовиться",
+        "target_text": "prepare",
+        "hint": "готовиться заранее",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1929",
+        "category_id": "srv_cat_053",
+        "source_text": "подавать",
+        "target_text": "serve",
+        "hint": "давать еду",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1930",
+        "category_id": "srv_cat_053",
+        "source_text": "наливать",
+        "target_text": "pour",
+        "hint": "переливать жидкость",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1931",
+        "category_id": "srv_cat_053",
+        "source_text": "резать",
+        "target_text": "cut",
+        "hint": "разделять ножом",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1932",
+        "category_id": "srv_cat_053",
+        "source_text": "чистить",
+        "target_text": "peel",
+        "hint": "снимать кожуру",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1933",
+        "category_id": "srv_cat_053",
+        "source_text": "смешивать",
+        "target_text": "mix",
+        "hint": "объединять ингредиенты",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1934",
+        "category_id": "srv_cat_053",
+        "source_text": "помешивать",
+        "target_text": "stir",
+        "hint": "смешивать ложкой",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1935",
+        "category_id": "srv_cat_053",
+        "source_text": "платить",
+        "target_text": "pay",
+        "hint": "отдавать деньги",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1936",
+        "category_id": "srv_cat_053",
+        "source_text": "заказывать",
+        "target_text": "order",
+        "hint": "просить принести",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1937",
+        "category_id": "srv_cat_053",
+        "source_text": "запирать",
+        "target_text": "lock",
+        "hint": "закрывать на замок",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1938",
+        "category_id": "srv_cat_053",
+        "source_text": "отпирать",
+        "target_text": "unlock",
+        "hint": "открывать замок",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1939",
+        "category_id": "srv_cat_053",
+        "source_text": "открывать",
+        "target_text": "open",
+        "hint": "делать доступным",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1940",
+        "category_id": "srv_cat_053",
+        "source_text": "закрывать",
+        "target_text": "close",
+        "hint": "делать недоступным",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1941",
+        "category_id": "srv_cat_053",
+        "source_text": "покупать",
+        "target_text": "buy",
+        "hint": "покупать за деньги",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1942",
+        "category_id": "srv_cat_053",
+        "source_text": "делать покупки",
+        "target_text": "shop",
+        "hint": "ходить по магазинам",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1943",
+        "category_id": "srv_cat_053",
+        "source_text": "гулять",
+        "target_text": "walk",
+        "hint": "ходить пешком",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1944",
+        "category_id": "srv_cat_053",
+        "source_text": "кормить",
+        "target_text": "feed",
+        "hint": "давать еду",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1945",
+        "category_id": "srv_cat_053",
+        "source_text": "поливать",
+        "target_text": "water",
+        "hint": "давать воду",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1946",
+        "category_id": "srv_cat_053",
+        "source_text": "прибирать",
+        "target_text": "tidy",
+        "hint": "наводить порядок",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1947",
+        "category_id": "srv_cat_053",
+        "source_text": "расставлять",
+        "target_text": "arrange",
+        "hint": "класть по местам",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1948",
+        "category_id": "srv_cat_053",
+        "source_text": "организовывать",
+        "target_text": "organize",
+        "hint": "приводить в порядок",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1949",
+        "category_id": "srv_cat_053",
+        "source_text": "чинить",
+        "target_text": "fix",
+        "hint": "восстанавливать работу",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "053"
+    },
+    {
+        "id": "srv_word_1950",
+        "category_id": "srv_cat_053",
+        "source_text": "чистить",
+        "target_text": "brush",
+        "hint": "гигиена зубов",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "053"
+    }
+]
