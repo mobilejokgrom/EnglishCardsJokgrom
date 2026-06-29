@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_3101",
+        "category_id": "srv_cat_077",
+        "source_text": "соль",
+        "target_text": "salt",
+        "hint": "белая солёная",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3102",
+        "category_id": "srv_cat_077",
+        "source_text": "перец",
+        "target_text": "pepper",
+        "hint": "чёрный или красный",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3103",
+        "category_id": "srv_cat_077",
+        "source_text": "сахар",
+        "target_text": "sugar",
+        "hint": "сладкий порошок",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3104",
+        "category_id": "srv_cat_077",
+        "source_text": "масло",
+        "target_text": "oil",
+        "hint": "жидкое для жарки",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3105",
+        "category_id": "srv_cat_077",
+        "source_text": "уксус",
+        "target_text": "vinegar",
+        "hint": "кислая жидкость",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3106",
+        "category_id": "srv_cat_077",
+        "source_text": "соус",
+        "target_text": "sauce",
+        "hint": "жидкая приправа",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3107",
+        "category_id": "srv_cat_077",
+        "source_text": "кетчуп",
+        "target_text": "ketchup",
+        "hint": "томатный соус",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3108",
+        "category_id": "srv_cat_077",
+        "source_text": "горчица",
+        "target_text": "mustard",
+        "hint": "острая жёлтая паста",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3109",
+        "category_id": "srv_cat_077",
+        "source_text": "майонез",
+        "target_text": "mayonnaise",
+        "hint": "белый густой соус",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3110",
+        "category_id": "srv_cat_077",
+        "source_text": "специя",
+        "target_text": "spice",
+        "hint": "общее название",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3111",
+        "category_id": "srv_cat_077",
+        "source_text": "трава",
+        "target_text": "herb",
+        "hint": "зелёная приправа",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3112",
+        "category_id": "srv_cat_077",
+        "source_text": "чеснок",
+        "target_text": "garlic",
+        "hint": "острый зубчик",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3113",
+        "category_id": "srv_cat_077",
+        "source_text": "имбирь",
+        "target_text": "ginger",
+        "hint": "жгучий корень",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3114",
+        "category_id": "srv_cat_077",
+        "source_text": "корица",
+        "target_text": "cinnamon",
+        "hint": "сладкая коричневая",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3115",
+        "category_id": "srv_cat_077",
+        "source_text": "ваниль",
+        "target_text": "vanilla",
+        "hint": "ароматный стручок",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3116",
+        "category_id": "srv_cat_077",
+        "source_text": "базилик",
+        "target_text": "basil",
+        "hint": "итальянская трава",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3117",
+        "category_id": "srv_cat_077",
+        "source_text": "орегано",
+        "target_text": "oregano",
+        "hint": "трава для пиццы",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3118",
+        "category_id": "srv_cat_077",
+        "source_text": "петрушка",
+        "target_text": "parsley",
+        "hint": "зелёная приправа",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3119",
+        "category_id": "srv_cat_077",
+        "source_text": "укроп",
+        "target_text": "dill",
+        "hint": "для солений",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3120",
+        "category_id": "srv_cat_077",
+        "source_text": "мята",
+        "target_text": "mint",
+        "hint": "холодный вкус",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3121",
+        "category_id": "srv_cat_077",
+        "source_text": "розмарин",
+        "target_text": "rosemary",
+        "hint": "хвойная трава",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3122",
+        "category_id": "srv_cat_077",
+        "source_text": "тимьян",
+        "target_text": "thyme",
+        "hint": "чабрец для мяса",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3123",
+        "category_id": "srv_cat_077",
+        "source_text": "зира",
+        "target_text": "cumin",
+        "hint": "восточная специя",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3124",
+        "category_id": "srv_cat_077",
+        "source_text": "паприка",
+        "target_text": "paprika",
+        "hint": "сладкий красный порошок",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3125",
+        "category_id": "srv_cat_077",
+        "source_text": "чили",
+        "target_text": "chili",
+        "hint": "очень острый перец",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3126",
+        "category_id": "srv_cat_077",
+        "source_text": "карри",
+        "target_text": "curry",
+        "hint": "жёлтая смесь специй",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3127",
+        "category_id": "srv_cat_077",
+        "source_text": "куркума",
+        "target_text": "turmeric",
+        "hint": "жёлтый порошок",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3128",
+        "category_id": "srv_cat_077",
+        "source_text": "шафран",
+        "target_text": "spice",
+        "hint": "дорогая специя",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3129",
+        "category_id": "srv_cat_077",
+        "source_text": "мускатный орех",
+        "target_text": "spice",
+        "hint": "для выпечки",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3130",
+        "category_id": "srv_cat_077",
+        "source_text": "гвоздика",
+        "target_text": "clove",
+        "hint": "ароматные бутоны",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3131",
+        "category_id": "srv_cat_077",
+        "source_text": "кориандр",
+        "target_text": "coriander",
+        "hint": "кинза или семена",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3132",
+        "category_id": "srv_cat_077",
+        "source_text": "фенхель",
+        "target_text": "fennel",
+        "hint": "сладкий анисовый",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3133",
+        "category_id": "srv_cat_077",
+        "source_text": "лавр",
+        "target_text": "bay",
+        "hint": "лавровый лист",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3134",
+        "category_id": "srv_cat_077",
+        "source_text": "шалфей",
+        "target_text": "sage",
+        "hint": "лекарственная трава",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3135",
+        "category_id": "srv_cat_077",
+        "source_text": "эстрагон",
+        "target_text": "herb",
+        "hint": "для соусов",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3136",
+        "category_id": "srv_cat_077",
+        "source_text": "лук-резанец",
+        "target_text": "chive",
+        "hint": "зелёный лук",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3137",
+        "category_id": "srv_cat_077",
+        "source_text": "соя",
+        "target_text": "soy",
+        "hint": "для соевого соуса",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3138",
+        "category_id": "srv_cat_077",
+        "source_text": "мёд",
+        "target_text": "honey",
+        "hint": "сладкий от пчёл",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3139",
+        "category_id": "srv_cat_077",
+        "source_text": "сироп",
+        "target_text": "syrup",
+        "hint": "сладкая жидкость",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3140",
+        "category_id": "srv_cat_077",
+        "source_text": "цедра",
+        "target_text": "zest",
+        "hint": "тёртая кожура цитруса",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3141",
+        "category_id": "srv_cat_077",
+        "source_text": "бульон",
+        "target_text": "broth",
+        "hint": "жидкая основа супа",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3142",
+        "category_id": "srv_cat_077",
+        "source_text": "подлива",
+        "target_text": "gravy",
+        "hint": "мясной соус",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3143",
+        "category_id": "srv_cat_077",
+        "source_text": "заправка",
+        "target_text": "dressing",
+        "hint": "для салатов",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3144",
+        "category_id": "srv_cat_077",
+        "source_text": "маринад",
+        "target_text": "marinade",
+        "hint": "для замачивания мяса",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3145",
+        "category_id": "srv_cat_077",
+        "source_text": "релиш",
+        "target_text": "relish",
+        "hint": "соус из овощей",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3146",
+        "category_id": "srv_cat_077",
+        "source_text": "песто",
+        "target_text": "pesto",
+        "hint": "зелёный итальянский соус",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3147",
+        "category_id": "srv_cat_077",
+        "source_text": "сальса",
+        "target_text": "salsa",
+        "hint": "мексиканский томатный соус",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3148",
+        "category_id": "srv_cat_077",
+        "source_text": "васаби",
+        "target_text": "wasabi",
+        "hint": "японский острый хрен",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3149",
+        "category_id": "srv_cat_077",
+        "source_text": "тахини",
+        "target_text": "paste",
+        "hint": "кунжутная паста",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "077"
+    },
+    {
+        "id": "srv_word_3150",
+        "category_id": "srv_cat_077",
+        "source_text": "табаско",
+        "target_text": "tabasco",
+        "hint": "очень острый соус",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "077"
+    }
+]
