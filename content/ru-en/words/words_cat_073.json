@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_2901",
+        "category_id": "srv_cat_073",
+        "source_text": "начинать",
+        "target_text": "start",
+        "hint": "старт действия",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2902",
+        "category_id": "srv_cat_073",
+        "source_text": "начинать",
+        "target_text": "begin",
+        "hint": "делать первый шаг",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2903",
+        "category_id": "srv_cat_073",
+        "source_text": "заканчивать",
+        "target_text": "end",
+        "hint": "конец действия",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2904",
+        "category_id": "srv_cat_073",
+        "source_text": "заканчивать",
+        "target_text": "finish",
+        "hint": "завершать дело",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2905",
+        "category_id": "srv_cat_073",
+        "source_text": "останавливать",
+        "target_text": "stop",
+        "hint": "прекращать движение",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2906",
+        "category_id": "srv_cat_073",
+        "source_text": "продолжать",
+        "target_text": "continue",
+        "hint": "не останавливаться",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2907",
+        "category_id": "srv_cat_073",
+        "source_text": "делать паузу",
+        "target_text": "pause",
+        "hint": "временно остановиться",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2908",
+        "category_id": "srv_cat_073",
+        "source_text": "возобновлять",
+        "target_text": "resume",
+        "hint": "снова начать",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2909",
+        "category_id": "srv_cat_073",
+        "source_text": "завершать",
+        "target_text": "complete",
+        "hint": "доводить до конца",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2910",
+        "category_id": "srv_cat_073",
+        "source_text": "заключать",
+        "target_text": "conclude",
+        "hint": "делать вывод",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2911",
+        "category_id": "srv_cat_073",
+        "source_text": "прекращать",
+        "target_text": "stop",
+        "hint": "полностью остановиться",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2912",
+        "category_id": "srv_cat_073",
+        "source_text": "прекращать",
+        "target_text": "end",
+        "hint": "официально закончить",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2913",
+        "category_id": "srv_cat_073",
+        "source_text": "закрывать",
+        "target_text": "close",
+        "hint": "делать недоступным",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2914",
+        "category_id": "srv_cat_073",
+        "source_text": "открывать",
+        "target_text": "open",
+        "hint": "делать доступным",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2915",
+        "category_id": "srv_cat_073",
+        "source_text": "запускать",
+        "target_text": "launch",
+        "hint": "начинать проект",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2916",
+        "category_id": "srv_cat_073",
+        "source_text": "инициировать",
+        "target_text": "start",
+        "hint": "давать старт",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2917",
+        "category_id": "srv_cat_073",
+        "source_text": "начинаться",
+        "target_text": "start",
+        "hint": "официально стартовать",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2918",
+        "category_id": "srv_cat_073",
+        "source_text": "останавливать",
+        "target_text": "halt",
+        "hint": "резкая остановка",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2919",
+        "category_id": "srv_cat_073",
+        "source_text": "прерывать",
+        "target_text": "interrupt",
+        "hint": "вмешиваться в процесс",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2920",
+        "category_id": "srv_cat_073",
+        "source_text": "задерживать",
+        "target_text": "delay",
+        "hint": "откладывать на потом",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2921",
+        "category_id": "srv_cat_073",
+        "source_text": "откладывать",
+        "target_text": "postpone",
+        "hint": "переносить на позже",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2922",
+        "category_id": "srv_cat_073",
+        "source_text": "отменять",
+        "target_text": "cancel",
+        "hint": "полностью убирать",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2923",
+        "category_id": "srv_cat_073",
+        "source_text": "бросать",
+        "target_text": "quit",
+        "hint": "прекращать делать",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2924",
+        "category_id": "srv_cat_073",
+        "source_text": "покидать",
+        "target_text": "abandon",
+        "hint": "оставлять навсегда",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2925",
+        "category_id": "srv_cat_073",
+        "source_text": "бросать",
+        "target_text": "drop",
+        "hint": "перестать заниматься",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2926",
+        "category_id": "srv_cat_073",
+        "source_text": "сдаваться",
+        "target_text": "surrender",
+        "hint": "прекращать борьбу",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2927",
+        "category_id": "srv_cat_073",
+        "source_text": "истекать",
+        "target_text": "expire",
+        "hint": "заканчиваться по сроку",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2928",
+        "category_id": "srv_cat_073",
+        "source_text": "умирать",
+        "target_text": "die",
+        "hint": "конец жизни",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2929",
+        "category_id": "srv_cat_073",
+        "source_text": "гибнуть",
+        "target_text": "die",
+        "hint": "трагический конец",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2930",
+        "category_id": "srv_cat_073",
+        "source_text": "длиться",
+        "target_text": "last",
+        "hint": "продолжаться долго",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2931",
+        "category_id": "srv_cat_073",
+        "source_text": "выдерживать",
+        "target_text": "endure",
+        "hint": "продолжать несмотря на",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2932",
+        "category_id": "srv_cat_073",
+        "source_text": "выживать",
+        "target_text": "survive",
+        "hint": "остаться в живых",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2933",
+        "category_id": "srv_cat_073",
+        "source_text": "оставаться",
+        "target_text": "remain",
+        "hint": "продолжать быть",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2934",
+        "category_id": "srv_cat_073",
+        "source_text": "оставаться",
+        "target_text": "stay",
+        "hint": "не уходить",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2935",
+        "category_id": "srv_cat_073",
+        "source_text": "ждать",
+        "target_text": "wait",
+        "hint": "ждать начала",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2936",
+        "category_id": "srv_cat_073",
+        "source_text": "продолжать",
+        "target_text": "proceed",
+        "hint": "двигаться дальше",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2937",
+        "category_id": "srv_cat_073",
+        "source_text": "продвигаться",
+        "target_text": "advance",
+        "hint": "идти вперёд",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2938",
+        "category_id": "srv_cat_073",
+        "source_text": "прогрессировать",
+        "target_text": "progress",
+        "hint": "развиваться",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2939",
+        "category_id": "srv_cat_073",
+        "source_text": "развиваться",
+        "target_text": "develop",
+        "hint": "расти и меняться",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2940",
+        "category_id": "srv_cat_073",
+        "source_text": "расти",
+        "target_text": "grow",
+        "hint": "увеличиваться",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2941",
+        "category_id": "srv_cat_073",
+        "source_text": "эволюционировать",
+        "target_text": "change",
+        "hint": "медленно меняться",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2942",
+        "category_id": "srv_cat_073",
+        "source_text": "появляться",
+        "target_text": "appear",
+        "hint": "выходить наружу",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2943",
+        "category_id": "srv_cat_073",
+        "source_text": "возникать",
+        "target_text": "appear",
+        "hint": "появляться внезапно",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2944",
+        "category_id": "srv_cat_073",
+        "source_text": "происходить",
+        "target_text": "begin",
+        "hint": "брать начало",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2945",
+        "category_id": "srv_cat_073",
+        "source_text": "происходить",
+        "target_text": "come",
+        "hint": "идти от источника",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2946",
+        "category_id": "srv_cat_073",
+        "source_text": "происходить",
+        "target_text": "get",
+        "hint": "получать из чего-то",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2947",
+        "category_id": "srv_cat_073",
+        "source_text": "заканчиваться",
+        "target_text": "result",
+        "hint": "приводить к итогу",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2948",
+        "category_id": "srv_cat_073",
+        "source_text": "завершаться",
+        "target_text": "end",
+        "hint": "достигать финала",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2949",
+        "category_id": "srv_cat_073",
+        "source_text": "достигать пика",
+        "target_text": "peak",
+        "hint": "высшая точка",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "073"
+    },
+    {
+        "id": "srv_word_2950",
+        "category_id": "srv_cat_073",
+        "source_text": "подводить итог",
+        "target_text": "end",
+        "hint": "делать заключение",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "073"
+    }
+]
