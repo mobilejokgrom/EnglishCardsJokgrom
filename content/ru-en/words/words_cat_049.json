@@ -1,0 +1,502 @@
+[
+    {
+        "id": "srv_word_1701",
+        "category_id": "srv_cat_049",
+        "source_text": "большой",
+        "target_text": "big",
+        "hint": "крупный размер",
+        "sort_order": "1",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1702",
+        "category_id": "srv_cat_049",
+        "source_text": "маленький",
+        "target_text": "small",
+        "hint": "небольшой размер",
+        "sort_order": "2",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1703",
+        "category_id": "srv_cat_049",
+        "source_text": "большой",
+        "target_text": "large",
+        "hint": "значительный размер",
+        "sort_order": "3",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1704",
+        "category_id": "srv_cat_049",
+        "source_text": "огромный",
+        "target_text": "huge",
+        "hint": "очень большой",
+        "sort_order": "4",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1705",
+        "category_id": "srv_cat_049",
+        "source_text": "крошечный",
+        "target_text": "tiny",
+        "hint": "очень маленький",
+        "sort_order": "5",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1706",
+        "category_id": "srv_cat_049",
+        "source_text": "длинный",
+        "target_text": "long",
+        "hint": "большая длина",
+        "sort_order": "6",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1707",
+        "category_id": "srv_cat_049",
+        "source_text": "короткий",
+        "target_text": "short",
+        "hint": "маленькая длина",
+        "sort_order": "7",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1708",
+        "category_id": "srv_cat_049",
+        "source_text": "высокий",
+        "target_text": "tall",
+        "hint": "большой рост",
+        "sort_order": "8",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1709",
+        "category_id": "srv_cat_049",
+        "source_text": "высокий",
+        "target_text": "high",
+        "hint": "большая высота",
+        "sort_order": "9",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1710",
+        "category_id": "srv_cat_049",
+        "source_text": "низкий",
+        "target_text": "low",
+        "hint": "маленькая высота",
+        "sort_order": "10",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1711",
+        "category_id": "srv_cat_049",
+        "source_text": "широкий",
+        "target_text": "wide",
+        "hint": "большая ширина",
+        "sort_order": "11",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1712",
+        "category_id": "srv_cat_049",
+        "source_text": "узкий",
+        "target_text": "narrow",
+        "hint": "маленькая ширина",
+        "sort_order": "12",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1713",
+        "category_id": "srv_cat_049",
+        "source_text": "толстый",
+        "target_text": "thick",
+        "hint": "большая толщина",
+        "sort_order": "13",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1714",
+        "category_id": "srv_cat_049",
+        "source_text": "тонкий",
+        "target_text": "thin",
+        "hint": "маленькая толщина",
+        "sort_order": "14",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1715",
+        "category_id": "srv_cat_049",
+        "source_text": "глубокий",
+        "target_text": "deep",
+        "hint": "большая глубина",
+        "sort_order": "15",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1716",
+        "category_id": "srv_cat_049",
+        "source_text": "мелкий",
+        "target_text": "shallow",
+        "hint": "маленькая глубина",
+        "sort_order": "16",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1717",
+        "category_id": "srv_cat_049",
+        "source_text": "тяжёлый",
+        "target_text": "heavy",
+        "hint": "большой вес",
+        "sort_order": "17",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1718",
+        "category_id": "srv_cat_049",
+        "source_text": "лёгкий",
+        "target_text": "light",
+        "hint": "маленький вес",
+        "sort_order": "18",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1719",
+        "category_id": "srv_cat_049",
+        "source_text": "много",
+        "target_text": "many",
+        "hint": "для исчисляемых",
+        "sort_order": "19",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1720",
+        "category_id": "srv_cat_049",
+        "source_text": "мало",
+        "target_text": "few",
+        "hint": "для исчисляемых",
+        "sort_order": "20",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1721",
+        "category_id": "srv_cat_049",
+        "source_text": "много",
+        "target_text": "much",
+        "hint": "для неисчисляемых",
+        "sort_order": "21",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1722",
+        "category_id": "srv_cat_049",
+        "source_text": "мало",
+        "target_text": "little",
+        "hint": "для неисчисляемых",
+        "sort_order": "22",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1723",
+        "category_id": "srv_cat_049",
+        "source_text": "несколько",
+        "target_text": "several",
+        "hint": "больше двух",
+        "sort_order": "23",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1724",
+        "category_id": "srv_cat_049",
+        "source_text": "некоторый\/немного",
+        "target_text": "some",
+        "hint": "неопределённое количество",
+        "sort_order": "24",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1725",
+        "category_id": "srv_cat_049",
+        "source_text": "любой\/никакой",
+        "target_text": "any",
+        "hint": "неопределённый выбор",
+        "sort_order": "25",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1726",
+        "category_id": "srv_cat_049",
+        "source_text": "все\/всё",
+        "target_text": "all",
+        "hint": "полное количество",
+        "sort_order": "26",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1727",
+        "category_id": "srv_cat_049",
+        "source_text": "достаточно",
+        "target_text": "enough",
+        "hint": "хватает",
+        "sort_order": "27",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1728",
+        "category_id": "srv_cat_049",
+        "source_text": "больше",
+        "target_text": "more",
+        "hint": "сравнительная степень",
+        "sort_order": "28",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1729",
+        "category_id": "srv_cat_049",
+        "source_text": "большинство",
+        "target_text": "most",
+        "hint": "превосходная степень",
+        "sort_order": "29",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1730",
+        "category_id": "srv_cat_049",
+        "source_text": "меньше",
+        "target_text": "less",
+        "hint": "сравнительная степень",
+        "sort_order": "30",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1731",
+        "category_id": "srv_cat_049",
+        "source_text": "наименьший",
+        "target_text": "least",
+        "hint": "превосходная степень",
+        "sort_order": "31",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1732",
+        "category_id": "srv_cat_049",
+        "source_text": "меньше",
+        "target_text": "fewer",
+        "hint": "для исчисляемых",
+        "sort_order": "32",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1733",
+        "category_id": "srv_cat_049",
+        "source_text": "наименьший",
+        "target_text": "fewest",
+        "hint": "для исчисляемых",
+        "sort_order": "33",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1734",
+        "category_id": "srv_cat_049",
+        "source_text": "полный",
+        "target_text": "full",
+        "hint": "заполнен целиком",
+        "sort_order": "34",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1735",
+        "category_id": "srv_cat_049",
+        "source_text": "пустой",
+        "target_text": "empty",
+        "hint": "ничего внутри",
+        "sort_order": "35",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1736",
+        "category_id": "srv_cat_049",
+        "source_text": "половина",
+        "target_text": "half",
+        "hint": "часть целого",
+        "sort_order": "36",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1737",
+        "category_id": "srv_cat_049",
+        "source_text": "двойной",
+        "target_text": "double",
+        "hint": "два вместе",
+        "sort_order": "37",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1738",
+        "category_id": "srv_cat_049",
+        "source_text": "одиночный",
+        "target_text": "single",
+        "hint": "только один",
+        "sort_order": "38",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1739",
+        "category_id": "srv_cat_049",
+        "source_text": "пара",
+        "target_text": "pair",
+        "hint": "два предмета",
+        "sort_order": "39",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1740",
+        "category_id": "srv_cat_049",
+        "source_text": "дюжина",
+        "target_text": "dozen",
+        "hint": "двенадцать штук",
+        "sort_order": "40",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1741",
+        "category_id": "srv_cat_049",
+        "source_text": "целый",
+        "target_text": "whole",
+        "hint": "полностью",
+        "sort_order": "41",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1742",
+        "category_id": "srv_cat_049",
+        "source_text": "общий",
+        "target_text": "total",
+        "hint": "весь вместе",
+        "sort_order": "42",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1743",
+        "category_id": "srv_cat_049",
+        "source_text": "дополнительный",
+        "target_text": "extra",
+        "hint": "сверх нормы",
+        "sort_order": "43",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1744",
+        "category_id": "srv_cat_049",
+        "source_text": "запасной",
+        "target_text": "spare",
+        "hint": "в резерве",
+        "sort_order": "44",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1745",
+        "category_id": "srv_cat_049",
+        "source_text": "много\/достаточно",
+        "target_text": "plenty",
+        "hint": "изобилие",
+        "sort_order": "45",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1746",
+        "category_id": "srv_cat_049",
+        "source_text": "переполненный",
+        "target_text": "crowded",
+        "hint": "много людей",
+        "sort_order": "46",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1747",
+        "category_id": "srv_cat_049",
+        "source_text": "много",
+        "target_text": "lots",
+        "hint": "разговорное",
+        "sort_order": "47",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1748",
+        "category_id": "srv_cat_049",
+        "source_text": "очень большой",
+        "target_text": "very big",
+        "hint": "очень крупный",
+        "sort_order": "48",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1749",
+        "category_id": "srv_cat_049",
+        "source_text": "очень большой",
+        "target_text": "very large",
+        "hint": "очень большой размер",
+        "sort_order": "49",
+        "source": "srv",
+        "cat_num": "049"
+    },
+    {
+        "id": "srv_word_1750",
+        "category_id": "srv_cat_049",
+        "source_text": "ноль",
+        "target_text": "zero",
+        "hint": "ничего нет",
+        "sort_order": "50",
+        "source": "srv",
+        "cat_num": "049"
+    }
+]
